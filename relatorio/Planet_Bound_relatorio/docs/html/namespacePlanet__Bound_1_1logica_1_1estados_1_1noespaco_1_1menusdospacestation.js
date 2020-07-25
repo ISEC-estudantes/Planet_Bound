@@ -1,5 +1,0 @@
-var namespacePlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestation =
-[
-    [ "conversion", "namespacePlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestation_1_1conversion.html", "namespacePlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestation_1_1conversion" ],
-    [ "OnSpaceStation", "classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestation_1_1OnSpaceStation.html", "classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestation_1_1OnSpaceStation" ]
-];
