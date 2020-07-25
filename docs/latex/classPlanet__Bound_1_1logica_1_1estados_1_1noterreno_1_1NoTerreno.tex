@@ -1,0 +1,83 @@
+\hypertarget{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno}{}\doxysection{Referência à classe Planet\+\_\+\+Bound.\+logica.\+estados.\+noterreno.\+No\+Terreno}
+\label{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno}\index{Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}}
+
+
+Este estado é para quando nos encontramos no terreno.  
+
+
+Diagrama de heranças da classe Planet\+\_\+\+Bound.\+logica.\+estados.\+noterreno.\+No\+Terreno\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.736156cm]{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno}
+\end{center}
+\end{figure}
+\doxysubsection*{Membros públicos}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno_a99b6f0e03a88a964e4ffc2860d02ae54}{No\+Terreno}} (\mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1dados_1_1ship_1_1ShipDados}{Ship\+Dados}} \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1estados_1_1EstadoAdapter_af00f9acad5c5f96331a18abedd46a631}{ship\+Dados}})
+\item 
+\mbox{\hyperlink{interfacePlanet__Bound_1_1logica_1_1estados_1_1IEstado}{I\+Estado}} \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno_a9dd7868ee0fb943ca0e1c21c8fa38544}{move}} (\mbox{\hyperlink{enumPlanet__Bound_1_1logica_1_1dados_1_1aux_1_1Direcoes}{Direcoes}} direcao)
+\begin{DoxyCompactList}\small\item\em move um objecto \end{DoxyCompactList}\item 
+\mbox{\hyperlink{interfacePlanet__Bound_1_1logica_1_1estados_1_1IEstado}{I\+Estado}} \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno_a44fa906344e38746cfbe2c5259845401}{return\+To\+Ship}} ()
+\item 
+\mbox{\hyperlink{enumPlanet__Bound_1_1logica_1_1estados_1_1EstadoJogo}{Estado\+Jogo}} \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno_a9cf7969eab39227692a22db6a07787dc}{get\+Estado}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Outros membros herdados}
+
+
+\doxysubsection{Descrição detalhada}
+Este estado é para quando nos encontramos no terreno. 
+
+Quando se entra no estado \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno}{No\+Terreno}} o construtor do terreno retira uma fuel cell e cria um novo terreno. 
+
+Neste pode só movimentar para algum lado ou voltar para a ship Quando o drone é destruido ou volta ao ponto inicial com o recurso volta se para a ship a diferença entre um ou outro é que quando volta leva com ele 1-\/6 do recurso que apanhou 
+
+\doxysubsection{Documentação dos Construtores \& Destrutor}
+\mbox{\Hypertarget{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno_a99b6f0e03a88a964e4ffc2860d02ae54}\label{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno_a99b6f0e03a88a964e4ffc2860d02ae54}} 
+\index{Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}!NoTerreno@{NoTerreno}}
+\index{NoTerreno@{NoTerreno}!Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}}
+\doxysubsubsection{\texorpdfstring{NoTerreno()}{NoTerreno()}}
+{\footnotesize\ttfamily Planet\+\_\+\+Bound.\+logica.\+estados.\+noterreno.\+No\+Terreno.\+No\+Terreno (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1dados_1_1ship_1_1ShipDados}{Ship\+Dados}}}]{ship\+Dados }\end{DoxyParamCaption})}
+
+
+
+\doxysubsection{Documentação dos métodos}
+\mbox{\Hypertarget{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno_a9cf7969eab39227692a22db6a07787dc}\label{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno_a9cf7969eab39227692a22db6a07787dc}} 
+\index{Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}!getEstado@{getEstado}}
+\index{getEstado@{getEstado}!Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}}
+\doxysubsubsection{\texorpdfstring{getEstado()}{getEstado()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{enumPlanet__Bound_1_1logica_1_1estados_1_1EstadoJogo}{Estado\+Jogo}} Planet\+\_\+\+Bound.\+logica.\+estados.\+noterreno.\+No\+Terreno.\+get\+Estado (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Implementa \mbox{\hyperlink{interfacePlanet__Bound_1_1logica_1_1estados_1_1IEstado_aaf76db113bede1b1af79b34a7a5e1e48}{Planet\+\_\+\+Bound.\+logica.\+estados.\+I\+Estado}}.
+
+\mbox{\Hypertarget{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno_a9dd7868ee0fb943ca0e1c21c8fa38544}\label{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno_a9dd7868ee0fb943ca0e1c21c8fa38544}} 
+\index{Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}!move@{move}}
+\index{move@{move}!Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}}
+\doxysubsubsection{\texorpdfstring{move()}{move()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{interfacePlanet__Bound_1_1logica_1_1estados_1_1IEstado}{I\+Estado}} Planet\+\_\+\+Bound.\+logica.\+estados.\+noterreno.\+No\+Terreno.\+move (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{enumPlanet__Bound_1_1logica_1_1dados_1_1aux_1_1Direcoes}{Direcoes}}}]{direcao }\end{DoxyParamCaption})}
+
+
+
+move um objecto 
+
+
+
+Reimplementado de \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1estados_1_1EstadoAdapter_a293c1363ffe441a03da876dd9b6139ec}{Planet\+\_\+\+Bound.\+logica.\+estados.\+Estado\+Adapter}}.
+
+\mbox{\Hypertarget{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno_a44fa906344e38746cfbe2c5259845401}\label{classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno_a44fa906344e38746cfbe2c5259845401}} 
+\index{Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}!returnToShip@{returnToShip}}
+\index{returnToShip@{returnToShip}!Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}}
+\doxysubsubsection{\texorpdfstring{returnToShip()}{returnToShip()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{interfacePlanet__Bound_1_1logica_1_1estados_1_1IEstado}{I\+Estado}} Planet\+\_\+\+Bound.\+logica.\+estados.\+noterreno.\+No\+Terreno.\+return\+To\+Ship (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Reimplementado de \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1estados_1_1EstadoAdapter_a92c7462942120f19cf6878319d8cc4d4}{Planet\+\_\+\+Bound.\+logica.\+estados.\+Estado\+Adapter}}.
+
+
+
+A documentação para esta classe foi gerada a partir do seguinte ficheiro\+:\begin{DoxyCompactItemize}
+\item 
+src/\+Planet\+\_\+\+Bound/logica/estados/noterreno/\mbox{\hyperlink{NoTerreno_8java}{No\+Terreno.\+java}}\end{DoxyCompactItemize}

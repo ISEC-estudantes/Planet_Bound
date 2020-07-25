@@ -1,0 +1,153 @@
+\hypertarget{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno}{}\doxysection{Referência à classe Planet\+\_\+\+Bound.\+logica.\+Ship.\+I\+Terreno}
+\label{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno}\index{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}}
+\doxysubsection*{Componentes}
+\begin{DoxyCompactItemize}
+\item 
+enum \mbox{\hyperlink{enumPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_1_1types}{types}}
+\end{DoxyCompactItemize}
+\doxysubsection*{Membros públicos}
+\begin{DoxyCompactItemize}
+\item 
+Integer\mbox{[}$\,$\mbox{]} \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a7be155ddfb08e1e81093d70f9fd2b400}{get\+Coordenadas}} (\mbox{\hyperlink{enumPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_1_1types}{types}} type)
+\item 
+Integer\mbox{[}$\,$\mbox{]} \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_ab2144976a34a3a9ba4faa79591516d97}{get\+Coordenadas}} (Class$<$?$>$ classtype)  throws Error 
+\item 
+int \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a3455b0957c89000087673d0923ac522b}{get\+Counter}} ()
+\begin{DoxyCompactList}\small\item\em obtem o contador do alien \end{DoxyCompactList}\item 
+\mbox{\hyperlink{enumPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Resource}{Resource}} \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a0376df0253cf03cb9bfdeda8700386a5}{get\+Resource\+Type}} ()
+\item 
+boolean \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a6bc6637d32522c8e0027391f4ea5571d}{drone\+Has\+Resource}} ()
+\item 
+int \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a6f01ee31662d71c5c89a717f234fdf64}{get\+Drone\+Health}} ()
+\item 
+String \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a885b3963cc70146085e231ccedc7cb52}{get\+Alien\+Type}} ()
+\begin{DoxyCompactList}\small\item\em Recurta o tipo de alien. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Atributos do Pacote}
+\begin{DoxyCompactItemize}
+\item 
+final \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno}{Terreno}} \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a29be2866a52db17bba33daf4b2dd1513}{terreno}}
+\end{DoxyCompactItemize}
+\doxysubsection*{Membros privados}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a0ea3e8706378b81cd99a3818a76b7162}{I\+Terreno}} (\mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno}{Terreno}} \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a29be2866a52db17bba33daf4b2dd1513}{terreno}})
+\item 
+\mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno}{Terreno}} \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a7ca05a6986ebafcd5ca91a6f1ecef6c5}{get\+Terreno}} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descrição detalhada}
+Interface para ter informações do Terreno 
+
+Quando se é entrado no estado No\+Terreno, é se criado um objecto Terreno para gerenciar internamente coisas como o alien, drone e recurso, as suas localizações e as suas propriedades, o \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno}{I\+Terreno}}, nao interage com nada propriamente, o que ele faz é dar informação do estado actual do terreno. 
+
+Para obter uma instancia de \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno}{I\+Terreno}} veja o metodo get\+I\+Terreno 
+
+Aviso\+: se nao tiver no estado No\+Terreno o get\+I\+Terreno vai returnar null 
+
+\doxysubsection{Documentação dos Construtores \& Destrutor}
+\mbox{\Hypertarget{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a0ea3e8706378b81cd99a3818a76b7162}\label{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a0ea3e8706378b81cd99a3818a76b7162}} 
+\index{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!ITerreno@{ITerreno}}
+\index{ITerreno@{ITerreno}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}}
+\doxysubsubsection{\texorpdfstring{ITerreno()}{ITerreno()}}
+{\footnotesize\ttfamily Planet\+\_\+\+Bound.\+logica.\+Ship.\+I\+Terreno.\+I\+Terreno (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno}{Terreno}}}]{terreno }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+\doxysubsection{Documentação dos métodos}
+\mbox{\Hypertarget{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a6bc6637d32522c8e0027391f4ea5571d}\label{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a6bc6637d32522c8e0027391f4ea5571d}} 
+\index{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!droneHasResource@{droneHasResource}}
+\index{droneHasResource@{droneHasResource}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}}
+\doxysubsubsection{\texorpdfstring{droneHasResource()}{droneHasResource()}}
+{\footnotesize\ttfamily boolean Planet\+\_\+\+Bound.\+logica.\+Ship.\+I\+Terreno.\+drone\+Has\+Resource (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a885b3963cc70146085e231ccedc7cb52}\label{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a885b3963cc70146085e231ccedc7cb52}} 
+\index{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!getAlienType@{getAlienType}}
+\index{getAlienType@{getAlienType}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}}
+\doxysubsubsection{\texorpdfstring{getAlienType()}{getAlienType()}}
+{\footnotesize\ttfamily String Planet\+\_\+\+Bound.\+logica.\+Ship.\+I\+Terreno.\+get\+Alien\+Type (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Recurta o tipo de alien. 
+
+\begin{DoxyReturn}{Retorna}
+O typo de alien Se nao fizeres a verificacao do counter e o alien estiver morto ele ira returnar a string \char`\"{}\+Morto\char`\"{} 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_ab2144976a34a3a9ba4faa79591516d97}\label{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_ab2144976a34a3a9ba4faa79591516d97}} 
+\index{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!getCoordenadas@{getCoordenadas}}
+\index{getCoordenadas@{getCoordenadas}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}}
+\doxysubsubsection{\texorpdfstring{getCoordenadas()}{getCoordenadas()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily Integer \mbox{[}$\,$\mbox{]} Planet\+\_\+\+Bound.\+logica.\+Ship.\+I\+Terreno.\+get\+Coordenadas (\begin{DoxyParamCaption}\item[{Class$<$?$>$}]{classtype }\end{DoxyParamCaption}) throws Error}
+
+vai buscar as coordenadas de uma entidado no terreno
+
+
+\begin{DoxyParams}{Parâmetros}
+{\em classtype} & da o typo da class que se quer analizar, se for null ou outra que nao exista ira returnar as coordenadas iniciais do drone \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Retorna}
+returna um array\mbox{[}X,Y\mbox{]} das coordenadas do objecto ou caso null, da 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a7be155ddfb08e1e81093d70f9fd2b400}\label{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a7be155ddfb08e1e81093d70f9fd2b400}} 
+\index{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!getCoordenadas@{getCoordenadas}}
+\index{getCoordenadas@{getCoordenadas}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}}
+\doxysubsubsection{\texorpdfstring{getCoordenadas()}{getCoordenadas()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily Integer \mbox{[}$\,$\mbox{]} Planet\+\_\+\+Bound.\+logica.\+Ship.\+I\+Terreno.\+get\+Coordenadas (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{enumPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_1_1types}{types}}}]{type }\end{DoxyParamCaption})}
+
+vai buscar as coordenadas de uma entidado no terreno
+
+
+\begin{DoxyParams}{Parâmetros}
+{\em type} & tipo do objecto \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Retorna}
+returna um array\mbox{[}X,Y\mbox{]} das coordenadas do objecto, se nao existir returna null 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a3455b0957c89000087673d0923ac522b}\label{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a3455b0957c89000087673d0923ac522b}} 
+\index{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!getCounter@{getCounter}}
+\index{getCounter@{getCounter}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}}
+\doxysubsubsection{\texorpdfstring{getCounter()}{getCounter()}}
+{\footnotesize\ttfamily int Planet\+\_\+\+Bound.\+logica.\+Ship.\+I\+Terreno.\+get\+Counter (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+obtem o contador do alien 
+
+\begin{DoxyReturn}{Retorna}
+returna o numero do alien, se for zero que dizer que existe um alien no terreno 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a6f01ee31662d71c5c89a717f234fdf64}\label{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a6f01ee31662d71c5c89a717f234fdf64}} 
+\index{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!getDroneHealth@{getDroneHealth}}
+\index{getDroneHealth@{getDroneHealth}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}}
+\doxysubsubsection{\texorpdfstring{getDroneHealth()}{getDroneHealth()}}
+{\footnotesize\ttfamily int Planet\+\_\+\+Bound.\+logica.\+Ship.\+I\+Terreno.\+get\+Drone\+Health (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a0376df0253cf03cb9bfdeda8700386a5}\label{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a0376df0253cf03cb9bfdeda8700386a5}} 
+\index{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!getResourceType@{getResourceType}}
+\index{getResourceType@{getResourceType}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}}
+\doxysubsubsection{\texorpdfstring{getResourceType()}{getResourceType()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{enumPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Resource}{Resource}} Planet\+\_\+\+Bound.\+logica.\+Ship.\+I\+Terreno.\+get\+Resource\+Type (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a7ca05a6986ebafcd5ca91a6f1ecef6c5}\label{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a7ca05a6986ebafcd5ca91a6f1ecef6c5}} 
+\index{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!getTerreno@{getTerreno}}
+\index{getTerreno@{getTerreno}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}}
+\doxysubsubsection{\texorpdfstring{getTerreno()}{getTerreno()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno}{Terreno}} Planet\+\_\+\+Bound.\+logica.\+Ship.\+I\+Terreno.\+get\+Terreno (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+\doxysubsection{Documentação dos dados membro}
+\mbox{\Hypertarget{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a29be2866a52db17bba33daf4b2dd1513}\label{classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_a29be2866a52db17bba33daf4b2dd1513}} 
+\index{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!terreno@{terreno}}
+\index{terreno@{terreno}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}}
+\doxysubsubsection{\texorpdfstring{terreno}{terreno}}
+{\footnotesize\ttfamily final \mbox{\hyperlink{classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno}{Terreno}} Planet\+\_\+\+Bound.\+logica.\+Ship.\+I\+Terreno.\+terreno\hspace{0.3cm}{\ttfamily [package]}}
+
+
+
+A documentação para esta classe foi gerada a partir do seguinte ficheiro\+:\begin{DoxyCompactItemize}
+\item 
+src/\+Planet\+\_\+\+Bound/logica/\mbox{\hyperlink{Ship_8java}{Ship.\+java}}\end{DoxyCompactItemize}

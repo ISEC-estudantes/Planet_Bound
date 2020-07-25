@@ -1,0 +1,1622 @@
+\begin{theindex}
+
+  \item {actulizaVista}
+    \subitem {Planet\_Bound.ui.gui.estados.GGameOver}, \hyperpage{58}
+  \item {addEvent}
+    \subitem {Gestão de eventos}, \hyperpage{19}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{109}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{120}
+  \item {addOfficer}
+    \subitem {Secção das opções}, \hyperpage{14}
+  \item {addPropertyChangeListener}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{120}
+  \item {addTitle}
+    \subitem {Planet\_Bound.ui.gui.estados.GEscolha}, \hyperpage{56}
+  \item {addXResourcesOfTypeY}
+    \subitem {Secção das opções}, \hyperpage{15}
+  \item {Alien}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}, 
+		\hyperpage{33}
+    \subitem {Planet\_Bound.logica.Ship.ITerreno.types}, 
+		\hyperpage{131}
+  \item {alien}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{130}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades}, 
+		\hyperpage{44}
+    \subitem {Planet\_Bound.ui.gui.estados.GTerreno}, \hyperpage{71}
+  \item {AlienKilled}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{51}
+  \item {Ammo}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Resource}, 
+		\hyperpage{99}
+  \item {apanhadoPeloDrone}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet}, 
+		\hyperpage{101}
+  \item {aplicaEvento}
+    \subitem {Planet\_Bound.logica.estados.EstadoAdapter}, 
+		\hyperpage{45}
+    \subitem {Planet\_Bound.logica.estados.IEstado}, \hyperpage{77}
+    \subitem {Planet\_Bound.logica.estados.noespaco.NoEspaco}, 
+		\hyperpage{87}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{109}
+  \item {artfactoFoiMinado}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{116}
+  \item {Artifact}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Resource}, 
+		\hyperpage{99}
+  \item {ATTACK}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{128}
+  \item {attack}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}, 
+		\hyperpage{34}
+  \item {atualizaVista}
+    \subitem {Planet\_Bound.ui.gui.estados.GEscolha}, \hyperpage{56}
+    \subitem {Planet\_Bound.ui.gui.estados.GNoEspaco}, \hyperpage{62}
+    \subitem {Planet\_Bound.ui.gui.estados.GNovoShip}, \hyperpage{65}
+    \subitem {Planet\_Bound.ui.gui.estados.GTerreno}, \hyperpage{70}
+
+  \indexspace
+
+  \item {baixo}
+    \subitem {Planet\_Bound.logica.dados.aux.Direcoes}, \hyperpage{39}
+  \item {Black}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.PlanetType}, 
+		\hyperpage{97}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Resource}, 
+		\hyperpage{99}
+  \item {Blue}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.PlanetType}, 
+		\hyperpage{98}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Resource}, 
+		\hyperpage{99}
+  \item {bSOButtons}
+    \subitem {Planet\_Bound.ui.gui.estados.GEscolha}, \hyperpage{56}
+  \item {bSOSquares}
+    \subitem {Planet\_Bound.ui.gui.estados.GEscolha}, \hyperpage{56}
+  \item {bt}
+    \subitem {Planet\_Bound.ui.gui.info.GTop}, \hyperpage{73}
+
+  \indexspace
+
+  \item {Captain}
+    \subitem {Planet\_Bound.logica.dados.aux.Officer}, \hyperpage{91}
+  \item {Cargo}
+    \subitem {Planet\_Bound.logica.dados.aux.Officer}, \hyperpage{91}
+  \item {cargo\_multiplyer}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{116}
+  \item {cargo\_multiplyer\_max}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{117}
+  \item {cargo\_upgraded\_here}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{117}
+  \item {center}
+    \subitem {Planet\_Bound.ui.gui.Root}, \hyperpage{106}
+  \item {ChoosenItem}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{51}
+  \item {cima}
+    \subitem {Planet\_Bound.logica.dados.aux.Direcoes}, \hyperpage{39}
+  \item {clear}
+    \subitem {Gestão de eventos}, \hyperpage{20}
+  \item {ClearEvents}
+    \subitem {Delegated gets do shipDados}, \hyperpage{24}
+    \subitem {Gestão de eventos}, \hyperpage{20}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{120}
+  \item {compareVector}
+    \subitem {Planet\_Bound.ui.gui.estados.GTerreno}, \hyperpage{70}
+  \item {comprarDrone}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{115}
+  \item {ConversionP1}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}, 
+		\hyperpage{35}
+  \item {ConversionP2}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}, 
+		\hyperpage{37}
+  \item {conversor}
+    \subitem {Planet\_Bound.ui.gui.estados.GNoEspaco}, \hyperpage{63}
+    \subitem {Planet\_Bound.ui.gui.estados.GTerreno}, \hyperpage{71}
+  \item {ConversorDeItens}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{52}
+  \item {converterXfromY}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}, 
+		\hyperpage{38}
+  \item {ConvertResources}
+    \subitem {Planet\_Bound.logica.estados.EstadoJogo}, \hyperpage{48}
+  \item {convertResources}
+    \subitem {Planet\_Bound.logica.estados.EstadoAdapter}, 
+		\hyperpage{45}
+    \subitem {Planet\_Bound.logica.estados.IEstado}, \hyperpage{77}
+    \subitem {Planet\_Bound.logica.estados.noespaco.NoEspaco}, 
+		\hyperpage{87}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{110}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{120}
+  \item {coordenadas}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}, 
+		\hyperpage{43}
+  \item {counter}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{130}
+  \item {criaNovoAlien}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{128}
+
+  \indexspace
+
+  \item {death}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}, 
+		\hyperpage{34}
+  \item {Debug}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{52}
+  \item {debugingEvents}
+    \subitem {Gestão de eventos}, \hyperpage{22}
+  \item {Delegated gets do shipDados}, \hyperpage{24}
+    \subitem {ClearEvents}, \hyperpage{24}
+    \subitem {droneHasResource}, \hyperpage{24}
+    \subitem {getCargoHold}, \hyperpage{24}
+    \subitem {getEstado}, \hyperpage{24}
+    \subitem {getEstadoClass}, \hyperpage{25}
+    \subitem {getMaxOfResourceY}, \hyperpage{25}
+    \subitem {getNdeYRecursos}, \hyperpage{25}
+    \subitem {getOfficers}, \hyperpage{25}
+    \subitem {getOptions}, \hyperpage{25}
+    \subitem {getPlanetType}, \hyperpage{25}
+    \subitem {getResourceTypes}, \hyperpage{25}
+    \subitem {getShipType}, \hyperpage{26}
+    \subitem {getUnreadEvents}, \hyperpage{26}
+    \subitem {getVezesQueSePodeVizitarOPlaneta}, \hyperpage{26}
+    \subitem {hasDrone}, \hyperpage{26}
+    \subitem {hasOfficer}, \hyperpage{26}
+    \subitem {hasSpaceStation}, \hyperpage{26}
+  \item {deleteAllResourcesOfTypeY}
+    \subitem {Secção das opções}, \hyperpage{15}
+  \item {deleteTerreno}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{115}
+  \item {deleteXResourcesOfTypeY}
+    \subitem {Secção das opções}, \hyperpage{15}
+  \item {deVoltaAShipComRecurso}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{116}
+  \item {direcao}
+    \subitem {Planet\_Bound.ui.gui.estados.GTerreno}, \hyperpage{70}
+  \item {direita}
+    \subitem {Planet\_Bound.logica.dados.aux.Direcoes}, \hyperpage{39}
+  \item {Drone}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone}, 
+		\hyperpage{40}
+    \subitem {Planet\_Bound.logica.Ship.ITerreno.types}, 
+		\hyperpage{131}
+  \item {drone}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{130}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades}, 
+		\hyperpage{44}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{117}
+    \subitem {Planet\_Bound.ui.gui.estados.GTerreno}, \hyperpage{71}
+  \item {DroneBox}
+    \subitem {Planet\_Bound.ui.gui.info.GRecursos}, \hyperpage{66}
+  \item {DroneDeath}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{52}
+  \item {droneHasResource}
+    \subitem {Delegated gets do shipDados}, \hyperpage{24}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{128}
+    \subitem {Planet\_Bound.logica.Ship.ITerreno}, \hyperpage{83}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{120}
+  \item {DroneMovement}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{52}
+  \item {droneStats}
+    \subitem {Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}, 
+		\hyperpage{82}
+    \subitem {Planet\_Bound.ui.gui.info.GRecursos}, \hyperpage{66}
+
+  \indexspace
+
+  \item {Entidade}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}, 
+		\hyperpage{42}
+  \item {escolhas}
+    \subitem {Planet\_Bound.ui.gui.estados.GEscolha}, \hyperpage{57}
+  \item {esquerda}
+    \subitem {Planet\_Bound.logica.dados.aux.Direcoes}, \hyperpage{40}
+  \item {estado}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{112}
+  \item {EstadoAdapter}
+    \subitem {Planet\_Bound.logica.estados.EstadoAdapter}, 
+		\hyperpage{45}
+  \item {Event}
+    \subitem {Planet\_Bound.logica.dados.events.Event}, \hyperpage{49}
+  \item {eventosnormais}
+    \subitem {Randomizes}, \hyperpage{13}
+  \item {eventType}
+    \subitem {Planet\_Bound.logica.dados.events.Event}, \hyperpage{50}
+
+  \indexspace
+
+  \item {file}
+    \subitem {Planet\_Bound.ui.gui.menu.GMenu}, \hyperpage{61}
+  \item {fillVector}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{102}
+  \item {Fuel}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Resource}, 
+		\hyperpage{99}
+  \item {fuel\_max}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{117}
+
+  \indexspace
+
+  \item {GameOver}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{52}
+    \subitem {Planet\_Bound.logica.estados.birthanddeath.GameOver}, 
+		\hyperpage{54}
+    \subitem {Planet\_Bound.logica.estados.EstadoJogo}, \hyperpage{48}
+  \item {ganhados}
+    \subitem {Gestão de eventos}, \hyperpage{22}
+  \item {GEscolha}
+    \subitem {Planet\_Bound.ui.gui.estados.GEscolha}, \hyperpage{56}
+  \item {Gestão de eventos}, \hyperpage{19}
+    \subitem {addEvent}, \hyperpage{19}
+    \subitem {clear}, \hyperpage{20}
+    \subitem {ClearEvents}, \hyperpage{20}
+    \subitem {debugingEvents}, \hyperpage{22}
+    \subitem {ganhados}, \hyperpage{22}
+    \subitem {getAllUnreadEvents}, \hyperpage{20}
+    \subitem {getEvents}, \hyperpage{20}
+    \subitem {getGanhados}, \hyperpage{20}
+    \subitem {getNLastEvents}, \hyperpage{20}
+    \subitem {getPlanetType}, \hyperpage{20}
+    \subitem {getUnreadEvents}, \hyperpage{21}
+    \subitem {maisUmGanhado}, \hyperpage{21}
+    \subitem {newTerreno}, \hyperpage{21}
+    \subitem {officers}, \hyperpage{22}
+    \subitem {randomResource}, \hyperpage{21}
+    \subitem {reset}, \hyperpage{21}
+    \subitem {resources}, \hyperpage{22}
+    \subitem {setPlanetType}, \hyperpage{22}
+    \subitem {setSpaceStation}, \hyperpage{22}
+    \subitem {staticEvents}, \hyperpage{23}
+    \subitem {uEnoD}, \hyperpage{23}
+    \subitem {unreadEvents}, \hyperpage{23}
+  \item {getAlien}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{128}
+  \item {getAlienType}
+    \subitem {Planet\_Bound.logica.Ship.ITerreno}, \hyperpage{83}
+  \item {getAllUnreadEvents}
+    \subitem {Gestão de eventos}, \hyperpage{20}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{110}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{121}
+  \item {getAttack}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}, 
+		\hyperpage{34}
+  \item {getCargoHold}
+    \subitem {Delegated gets do shipDados}, \hyperpage{24}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{121}
+    \subitem {Secção das opções}, \hyperpage{15}
+  \item {getCoordenadas}
+    \subitem {Planet\_Bound.logica.Ship.ITerreno}, \hyperpage{83, 84}
+  \item {getCoordenadasX}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}, 
+		\hyperpage{42}
+  \item {getCoordenadasY}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}, 
+		\hyperpage{42}
+  \item {getCounter}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{128}
+    \subitem {Planet\_Bound.logica.Ship.ITerreno}, \hyperpage{84}
+  \item {getDeath}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}, 
+		\hyperpage{34}
+  \item {getDrone}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{128}
+  \item {getDroneHealth}
+    \subitem {Planet\_Bound.logica.Ship.ITerreno}, \hyperpage{84}
+  \item {getEstado}
+    \subitem {Delegated gets do shipDados}, \hyperpage{24}
+    \subitem {Planet\_Bound.logica.estados.birthanddeath.GameOver}, 
+		\hyperpage{54}
+    \subitem {Planet\_Bound.logica.estados.birthanddeath.NovoShip}, 
+		\hyperpage{90}
+    \subitem {Planet\_Bound.logica.estados.IEstado}, \hyperpage{78}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}, 
+		\hyperpage{36}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}, 
+		\hyperpage{38}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}, 
+		\hyperpage{93}
+    \subitem {Planet\_Bound.logica.estados.noespaco.NoEspaco}, 
+		\hyperpage{87}
+    \subitem {Planet\_Bound.logica.estados.noterreno.NoTerreno}, 
+		\hyperpage{89}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{121}
+  \item {getEstadoClass}
+    \subitem {Delegated gets do shipDados}, \hyperpage{25}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{121}
+  \item {getEstadoJogo}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{121}
+  \item {getEvents}
+    \subitem {Gestão de eventos}, \hyperpage{20}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{110}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{121}
+  \item {getEventType}
+    \subitem {Planet\_Bound.logica.dados.events.Event}, \hyperpage{50}
+  \item {getGanhados}
+    \subitem {Gestão de eventos}, \hyperpage{20}
+  \item {getHeaderResource}
+    \subitem {Planet\_Bound.logica.dados.aux.Options}, \hyperpage{96}
+  \item {getHeaderString}
+    \subitem {Planet\_Bound.logica.dados.aux.Options}, \hyperpage{96}
+  \item {getHealth}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone}, 
+		\hyperpage{41}
+  \item {getIEstado}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{110}
+  \item {getITerreno}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{110}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{121}
+  \item {getLocalInicialX}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{128}
+  \item {getLocalInicialY}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{129}
+  \item {getMaxOfResourceY}
+    \subitem {Delegated gets do shipDados}, \hyperpage{25}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{121}
+    \subitem {Secção das opções}, \hyperpage{15}
+  \item {getMB}
+    \subitem {Planet\_Bound.ui.gui.Gui}, \hyperpage{74}
+  \item {getMsg}
+    \subitem {Planet\_Bound.logica.dados.events.Event}, \hyperpage{50}
+  \item {getNdeYRecursos}
+    \subitem {Delegated gets do shipDados}, \hyperpage{25}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{122}
+    \subitem {Secção das opções}, \hyperpage{15}
+  \item {getNLastEvents}
+    \subitem {Gestão de eventos}, \hyperpage{20}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{110}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{122}
+  \item {getNOptions}
+    \subitem {Planet\_Bound.logica.dados.aux.Options}, \hyperpage{96}
+  \item {getNormalResources}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{103}
+  \item {getOfficers}
+    \subitem {Delegated gets do shipDados}, \hyperpage{25}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{122}
+    \subitem {Secção das opções}, \hyperpage{16}
+  \item {getOppositeDirection}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{129}
+  \item {getOptions}
+    \subitem {Delegated gets do shipDados}, \hyperpage{25}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{122}
+    \subitem {Secção das opções}, \hyperpage{16}
+  \item {getOptionsResources}
+    \subitem {Planet\_Bound.logica.dados.aux.Options}, \hyperpage{96}
+  \item {getOptionsString}
+    \subitem {Planet\_Bound.logica.dados.aux.Options}, \hyperpage{96}
+  \item {getPlanet}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{111}
+  \item {getPlanetBlack}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{103}
+  \item {getPlanetBlue}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{103}
+  \item {getPlanetGreen}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{103}
+  \item {getPlanetRed}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{103}
+  \item {getPlanetType}
+    \subitem {Delegated gets do shipDados}, \hyperpage{25}
+    \subitem {Gestão de eventos}, \hyperpage{20}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{122}
+  \item {getPlanetTypes}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{103}
+  \item {getRandom}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{116}
+  \item {getResource}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{129}
+  \item {getResourceType}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet}, 
+		\hyperpage{101}
+    \subitem {Planet\_Bound.logica.Ship.ITerreno}, \hyperpage{84}
+  \item {getResourceTypes}
+    \subitem {Delegated gets do shipDados}, \hyperpage{25}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{122}
+    \subitem {Secção das opções}, \hyperpage{16}
+  \item {getShipDados}
+    \subitem {Planet\_Bound.logica.estados.EstadoAdapter}, 
+		\hyperpage{45}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{111}
+  \item {getShipType}
+    \subitem {Delegated gets do shipDados}, \hyperpage{26}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{122}
+    \subitem {Secção das opções}, \hyperpage{16}
+  \item {getTerreno}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{116}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{111}
+    \subitem {Planet\_Bound.logica.Ship.ITerreno}, \hyperpage{85}
+  \item {getTimeWithoutMilisecs}
+    \subitem {Planet\_Bound.logica.dados.events.Event}, \hyperpage{50}
+  \item {getType}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}, 
+		\hyperpage{34}
+  \item {getUnixTimewithMilisecs}
+    \subitem {Planet\_Bound.logica.dados.events.Event}, \hyperpage{50}
+  \item {getUnreadEvents}
+    \subitem {Delegated gets do shipDados}, \hyperpage{26}
+    \subitem {Gestão de eventos}, \hyperpage{21}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{123}
+  \item {getVezesQueSePodeVizitarOPlaneta}
+    \subitem {Delegated gets do shipDados}, \hyperpage{26}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{123}
+    \subitem {Secção das opções}, \hyperpage{16}
+  \item {GGameOver}
+    \subitem {Planet\_Bound.ui.gui.estados.GGameOver}, \hyperpage{58}
+  \item {GLog}
+    \subitem {Planet\_Bound.ui.gui.info.GLog}, \hyperpage{60}
+  \item {gLog}
+    \subitem {Planet\_Bound.ui.gui.Root}, \hyperpage{106}
+  \item {GMenu}
+    \subitem {Planet\_Bound.ui.gui.menu.GMenu}, \hyperpage{61}
+  \item {GNoEspaco}
+    \subitem {Planet\_Bound.ui.gui.estados.GNoEspaco}, \hyperpage{62}
+  \item {GNovoShip}
+    \subitem {Planet\_Bound.ui.gui.estados.GNovoShip}, \hyperpage{64}
+  \item {GRecursos}
+    \subitem {Planet\_Bound.ui.gui.info.GRecursos}, \hyperpage{66}
+  \item {gRecursos}
+    \subitem {Planet\_Bound.ui.gui.Root}, \hyperpage{106}
+  \item {Green}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.PlanetType}, 
+		\hyperpage{98}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Resource}, 
+		\hyperpage{99}
+  \item {GResumo}
+    \subitem {Planet\_Bound.ui.gui.info.GResumo}, \hyperpage{68}
+  \item {GTerreno}
+    \subitem {Planet\_Bound.ui.gui.estados.GTerreno}, \hyperpage{70}
+  \item {GTop}
+    \subitem {Planet\_Bound.ui.gui.info.GTop}, \hyperpage{72}
+  \item {gTop}
+    \subitem {Planet\_Bound.ui.gui.Root}, \hyperpage{106}
+
+  \indexspace
+
+  \item {hasDrone}
+    \subitem {Delegated gets do shipDados}, \hyperpage{26}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{116}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{123}
+  \item {hasOfficer}
+    \subitem {Delegated gets do shipDados}, \hyperpage{26}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{123}
+    \subitem {Secção das opções}, \hyperpage{16}
+  \item {hasSpaceStation}
+    \subitem {Delegated gets do shipDados}, \hyperpage{26}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{123}
+    \subitem {Secção das opções}, \hyperpage{16}
+  \item {headerResource}
+    \subitem {Planet\_Bound.logica.dados.aux.Options}, \hyperpage{96}
+  \item {headerString}
+    \subitem {Planet\_Bound.logica.dados.aux.Options}, \hyperpage{97}
+  \item {health}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone}, 
+		\hyperpage{41}
+  \item {help}
+    \subitem {Planet\_Bound.ui.gui.menu.GMenu}, \hyperpage{61}
+
+  \indexspace
+
+  \item {Info}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{52}
+  \item {InfoEspaco}
+    \subitem {Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco}, 
+		\hyperpage{80}
+  \item {infoEspaco}
+    \subitem {Planet\_Bound.ui.gui.info.GRecursos}, \hyperpage{67}
+  \item {InfoPlaneta}
+    \subitem {Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}, 
+		\hyperpage{81}
+  \item {InicialSpot}
+    \subitem {Planet\_Bound.logica.Ship.ITerreno.types}, 
+		\hyperpage{131}
+  \item {inTheSameSpot}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{129}
+  \item {ITerreno}
+    \subitem {Planet\_Bound.logica.Ship.ITerreno}, \hyperpage{83}
+
+  \indexspace
+
+  \item {labelComandantes}
+    \subitem {Planet\_Bound.ui.gui.info.GResumo}, \hyperpage{68}
+  \item {labelNome}
+    \subitem {Planet\_Bound.ui.gui.info.GResumo}, \hyperpage{68}
+  \item {Landing}
+    \subitem {Planet\_Bound.logica.dados.aux.Officer}, \hyperpage{91}
+  \item {landOnSpaceStation}
+    \subitem {Planet\_Bound.logica.estados.EstadoAdapter}, 
+		\hyperpage{45}
+    \subitem {Planet\_Bound.logica.estados.IEstado}, \hyperpage{78}
+    \subitem {Planet\_Bound.logica.estados.noespaco.NoEspaco}, 
+		\hyperpage{87}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{111}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{123}
+  \item {landOnThePlanet}
+    \subitem {Planet\_Bound.logica.estados.EstadoAdapter}, 
+		\hyperpage{46}
+    \subitem {Planet\_Bound.logica.estados.IEstado}, \hyperpage{78}
+    \subitem {Planet\_Bound.logica.estados.noespaco.NoEspaco}, 
+		\hyperpage{88}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{111}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{123}
+  \item {lastState}
+    \subitem {Planet\_Bound.ui.gui.estados.GEscolha}, \hyperpage{57}
+  \item {listaresources}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}, 
+		\hyperpage{36}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}, 
+		\hyperpage{38}
+  \item {load}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{124}
+  \item {localInicialX}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{130}
+  \item {localInicialY}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{130}
+  \item {localresource}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}, 
+		\hyperpage{39}
+  \item {log}
+    \subitem {Planet\_Bound.ui.gui.info.GLog}, \hyperpage{60}
+  \item {loseHealth}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone}, 
+		\hyperpage{41}
+
+  \indexspace
+
+  \item {main}
+    \subitem {Planet\_Bound.Main}, \hyperpage{85}
+  \item {main2}
+    \subitem {Planet\_Bound.ui.gui.Gui}, \hyperpage{74}
+  \item {maisUmGanhado}
+    \subitem {Gestão de eventos}, \hyperpage{21}
+  \item {mensagem}
+    \subitem {Planet\_Bound.logica.estados.birthanddeath.GameOver}, 
+		\hyperpage{55}
+  \item {military}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipType}, 
+		\hyperpage{126}
+  \item {mining}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipType}, 
+		\hyperpage{126}
+  \item {modelo}
+    \subitem {Planet\_Bound.ui.gui.estados.GEscolha}, \hyperpage{57}
+    \subitem {Planet\_Bound.ui.gui.estados.GGameOver}, \hyperpage{59}
+    \subitem {Planet\_Bound.ui.gui.estados.GNoEspaco}, \hyperpage{63}
+    \subitem {Planet\_Bound.ui.gui.estados.GNovoShip}, \hyperpage{65}
+    \subitem {Planet\_Bound.ui.gui.estados.GTerreno}, \hyperpage{71}
+    \subitem {Planet\_Bound.ui.gui.Gui}, \hyperpage{75}
+    \subitem {Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco}, 
+		\hyperpage{80}
+    \subitem {Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}, 
+		\hyperpage{82}
+    \subitem {Planet\_Bound.ui.gui.info.GLog}, \hyperpage{60}
+    \subitem {Planet\_Bound.ui.gui.info.GRecursos}, \hyperpage{67}
+    \subitem {Planet\_Bound.ui.gui.info.GResumo}, \hyperpage{69}
+    \subitem {Planet\_Bound.ui.gui.info.GTop}, \hyperpage{73}
+    \subitem {Planet\_Bound.ui.gui.Root}, \hyperpage{107}
+  \item {MoreResources}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{52}
+  \item {morteDoDrone}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{116}
+  \item {move}
+    \subitem {Planet\_Bound.logica.estados.EstadoAdapter}, 
+		\hyperpage{46}
+    \subitem {Planet\_Bound.logica.estados.IEstado}, \hyperpage{78}
+    \subitem {Planet\_Bound.logica.estados.noterreno.NoTerreno}, 
+		\hyperpage{89}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{111}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{124}
+  \item {moveAlien}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{129}
+  \item {movedown}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}, 
+		\hyperpage{42}
+  \item {moveDrone}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{129}
+  \item {moveleft}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}, 
+		\hyperpage{42}
+  \item {moveObject}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{129}
+  \item {moverigh}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}, 
+		\hyperpage{43}
+  \item {moveup}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}, 
+		\hyperpage{43}
+  \item {msg}
+    \subitem {Planet\_Bound.logica.dados.events.Event}, \hyperpage{50}
+
+  \indexspace
+
+  \item {Navigation}
+    \subitem {Planet\_Bound.logica.dados.aux.Officer}, \hyperpage{92}
+  \item {nearBy}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{130}
+  \item {newRandomLocation}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}, 
+		\hyperpage{43}
+  \item {newTerreno}
+    \subitem {Gestão de eventos}, \hyperpage{21}
+  \item {next}
+    \subitem {Planet\_Bound.ui.gui.estados.GNoEspaco}, \hyperpage{63}
+    \subitem {Planet\_Bound.ui.gui.estados.GTerreno}, \hyperpage{71}
+  \item {NoEspaco}
+    \subitem {Planet\_Bound.logica.estados.EstadoJogo}, \hyperpage{48}
+    \subitem {Planet\_Bound.logica.estados.noespaco.NoEspaco}, 
+		\hyperpage{87}
+  \item {NoTerreno}
+    \subitem {Planet\_Bound.logica.estados.EstadoJogo}, \hyperpage{48}
+    \subitem {Planet\_Bound.logica.estados.noterreno.NoTerreno}, 
+		\hyperpage{89}
+  \item {novoJogo}
+    \subitem {Planet\_Bound.logica.estados.birthanddeath.GameOver}, 
+		\hyperpage{54}
+    \subitem {Planet\_Bound.logica.estados.EstadoAdapter}, 
+		\hyperpage{46}
+    \subitem {Planet\_Bound.logica.estados.IEstado}, \hyperpage{78}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{111}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{124}
+  \item {novoPlanet}
+    \subitem {Secção das opções}, \hyperpage{17}
+  \item {NovoPlaneta}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{52}
+  \item {NovoShip}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{53}
+    \subitem {Planet\_Bound.logica.estados.birthanddeath.NovoShip}, 
+		\hyperpage{90}
+    \subitem {Planet\_Bound.logica.estados.EstadoJogo}, \hyperpage{48}
+
+  \indexspace
+
+  \item {officers}
+    \subitem {Gestão de eventos}, \hyperpage{22}
+  \item {OnSpaceStation}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{53}
+    \subitem {Planet\_Bound.logica.estados.EstadoJogo}, \hyperpage{48}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}, 
+		\hyperpage{93}
+  \item {onSpaceStation}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}, 
+		\hyperpage{36}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}, 
+		\hyperpage{39}
+  \item {Options}
+    \subitem {Planet\_Bound.logica.dados.aux.Options}, \hyperpage{95}
+  \item {options}
+    \subitem {Secção das opções}, \hyperpage{18}
+  \item {optionsResource}
+    \subitem {Planet\_Bound.logica.dados.aux.Options}, \hyperpage{97}
+  \item {optionsSize}
+    \subitem {Planet\_Bound.logica.dados.aux.Options}, \hyperpage{97}
+  \item {optionsString}
+    \subitem {Planet\_Bound.logica.dados.aux.Options}, \hyperpage{97}
+  \item {organiza}
+    \subitem {Planet\_Bound.ui.gui.estados.GGameOver}, \hyperpage{58}
+    \subitem {Planet\_Bound.ui.gui.estados.GNoEspaco}, \hyperpage{62}
+    \subitem {Planet\_Bound.ui.gui.estados.GTerreno}, \hyperpage{70}
+    \subitem {Planet\_Bound.ui.gui.info.GTop}, \hyperpage{73}
+  \item {organizaComponentes}
+    \subitem {Planet\_Bound.ui.gui.estados.GNovoShip}, \hyperpage{65}
+    \subitem {Planet\_Bound.ui.gui.info.GRecursos}, \hyperpage{66}
+    \subitem {Planet\_Bound.ui.gui.info.GResumo}, \hyperpage{68}
+    \subitem {Planet\_Bound.ui.gui.Root}, \hyperpage{106}
+
+  \indexspace
+
+  \item {placeholder}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipType}, 
+		\hyperpage{126}
+  \item {Planet\_Bound}, \hyperpage{27}
+  \item {Planet\_Bound.logica}, \hyperpage{27}
+  \item {Planet\_Bound.logica.dados}, \hyperpage{27}
+  \item {Planet\_Bound.logica.dados.aux}, \hyperpage{28}
+  \item {Planet\_Bound.logica.dados.aux.Direcoes}, \hyperpage{39}
+    \subitem {baixo}, \hyperpage{39}
+    \subitem {cima}, \hyperpage{39}
+    \subitem {direita}, \hyperpage{39}
+    \subitem {esquerda}, \hyperpage{40}
+  \item {Planet\_Bound.logica.dados.aux.Officer}, \hyperpage{91}
+    \subitem {Captain}, \hyperpage{91}
+    \subitem {Cargo}, \hyperpage{91}
+    \subitem {Landing}, \hyperpage{91}
+    \subitem {Navigation}, \hyperpage{92}
+    \subitem {Shilds}, \hyperpage{92}
+    \subitem {Weapons}, \hyperpage{92}
+  \item {Planet\_Bound.logica.dados.aux.Options}, \hyperpage{94}
+    \subitem {getHeaderResource}, \hyperpage{96}
+    \subitem {getHeaderString}, \hyperpage{96}
+    \subitem {getNOptions}, \hyperpage{96}
+    \subitem {getOptionsResources}, \hyperpage{96}
+    \subitem {getOptionsString}, \hyperpage{96}
+    \subitem {headerResource}, \hyperpage{96}
+    \subitem {headerString}, \hyperpage{97}
+    \subitem {Options}, \hyperpage{95}
+    \subitem {optionsResource}, \hyperpage{97}
+    \subitem {optionsSize}, \hyperpage{97}
+    \subitem {optionsString}, \hyperpage{97}
+    \subitem {toString}, \hyperpage{96}
+  \item {Planet\_Bound.logica.dados.events}, \hyperpage{28}
+  \item {Planet\_Bound.logica.dados.events.Event}, \hyperpage{49}
+    \subitem {Event}, \hyperpage{49}
+    \subitem {eventType}, \hyperpage{50}
+    \subitem {getEventType}, \hyperpage{50}
+    \subitem {getMsg}, \hyperpage{50}
+    \subitem {getTimeWithoutMilisecs}, \hyperpage{50}
+    \subitem {getUnixTimewithMilisecs}, \hyperpage{50}
+    \subitem {msg}, \hyperpage{50}
+    \subitem {toString}, \hyperpage{50}
+    \subitem {unixTimewithMilisecs}, \hyperpage{51}
+  \item {Planet\_Bound.logica.dados.events.EventType}, \hyperpage{51}
+    \subitem {AlienKilled}, \hyperpage{51}
+    \subitem {ChoosenItem}, \hyperpage{51}
+    \subitem {ConversorDeItens}, \hyperpage{52}
+    \subitem {Debug}, \hyperpage{52}
+    \subitem {DroneDeath}, \hyperpage{52}
+    \subitem {DroneMovement}, \hyperpage{52}
+    \subitem {GameOver}, \hyperpage{52}
+    \subitem {Info}, \hyperpage{52}
+    \subitem {MoreResources}, \hyperpage{52}
+    \subitem {NovoPlaneta}, \hyperpage{52}
+    \subitem {NovoShip}, \hyperpage{53}
+    \subitem {OnSpaceStation}, \hyperpage{53}
+    \subitem {RandomEvent}, \hyperpage{53}
+    \subitem {Warning}, \hyperpage{53}
+    \subitem {WormHole}, \hyperpage{53}
+  \item {Planet\_Bound.logica.dados.resourcesandplanets}, 
+		\hyperpage{28}
+  \item {Planet\_Bound.logica.dados.resourcesandplanets.PlanetType}, 
+		\hyperpage{97}
+    \subitem {Black}, \hyperpage{97}
+    \subitem {Blue}, \hyperpage{98}
+    \subitem {Green}, \hyperpage{98}
+    \subitem {Red}, \hyperpage{98}
+  \item {Planet\_Bound.logica.dados.resourcesandplanets.Resource}, 
+		\hyperpage{98}
+    \subitem {Ammo}, \hyperpage{99}
+    \subitem {Artifact}, \hyperpage{99}
+    \subitem {Black}, \hyperpage{99}
+    \subitem {Blue}, \hyperpage{99}
+    \subitem {Fuel}, \hyperpage{99}
+    \subitem {Green}, \hyperpage{99}
+    \subitem {Red}, \hyperpage{100}
+    \subitem {Shield}, \hyperpage{100}
+  \item {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{101}
+    \subitem {fillVector}, \hyperpage{102}
+    \subitem {getNormalResources}, \hyperpage{103}
+    \subitem {getPlanetBlack}, \hyperpage{103}
+    \subitem {getPlanetBlue}, \hyperpage{103}
+    \subitem {getPlanetGreen}, \hyperpage{103}
+    \subitem {getPlanetRed}, \hyperpage{103}
+    \subitem {getPlanetTypes}, \hyperpage{103}
+    \subitem {planetBlack}, \hyperpage{104}
+    \subitem {planetBlue}, \hyperpage{104}
+    \subitem {planetGreen}, \hyperpage{104}
+    \subitem {planetRed}, \hyperpage{104}
+    \subitem {planets}, \hyperpage{104}
+    \subitem {randomPlanet}, \hyperpage{103}
+    \subitem {recursos}, \hyperpage{104}
+    \subitem {ResourceTypes}, \hyperpage{102}
+  \item {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{126}
+    \subitem {alien}, \hyperpage{130}
+    \subitem {ATTACK}, \hyperpage{128}
+    \subitem {counter}, \hyperpage{130}
+    \subitem {criaNovoAlien}, \hyperpage{128}
+    \subitem {drone}, \hyperpage{130}
+    \subitem {droneHasResource}, \hyperpage{128}
+    \subitem {getAlien}, \hyperpage{128}
+    \subitem {getCounter}, \hyperpage{128}
+    \subitem {getDrone}, \hyperpage{128}
+    \subitem {getLocalInicialX}, \hyperpage{128}
+    \subitem {getLocalInicialY}, \hyperpage{129}
+    \subitem {getOppositeDirection}, \hyperpage{129}
+    \subitem {getResource}, \hyperpage{129}
+    \subitem {inTheSameSpot}, \hyperpage{129}
+    \subitem {localInicialX}, \hyperpage{130}
+    \subitem {localInicialY}, \hyperpage{130}
+    \subitem {moveAlien}, \hyperpage{129}
+    \subitem {moveDrone}, \hyperpage{129}
+    \subitem {moveObject}, \hyperpage{129}
+    \subitem {nearBy}, \hyperpage{130}
+    \subitem {randomDirection}, \hyperpage{130}
+    \subitem {resource}, \hyperpage{131}
+    \subitem {Terreno}, \hyperpage{127}
+  \item {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}, 
+		\hyperpage{33}
+    \subitem {Alien}, \hyperpage{33}
+    \subitem {attack}, \hyperpage{34}
+    \subitem {death}, \hyperpage{34}
+    \subitem {getAttack}, \hyperpage{34}
+    \subitem {getDeath}, \hyperpage{34}
+    \subitem {getType}, \hyperpage{34}
+    \subitem {type}, \hyperpage{34}
+  \item {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone}, 
+		\hyperpage{40}
+    \subitem {Drone}, \hyperpage{40}
+    \subitem {getHealth}, \hyperpage{41}
+    \subitem {health}, \hyperpage{41}
+    \subitem {loseHealth}, \hyperpage{41}
+  \item {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}, 
+		\hyperpage{41}
+    \subitem {coordenadas}, \hyperpage{43}
+    \subitem {Entidade}, \hyperpage{42}
+    \subitem {getCoordenadasX}, \hyperpage{42}
+    \subitem {getCoordenadasY}, \hyperpage{42}
+    \subitem {movedown}, \hyperpage{42}
+    \subitem {moveleft}, \hyperpage{42}
+    \subitem {moverigh}, \hyperpage{43}
+    \subitem {moveup}, \hyperpage{43}
+    \subitem {newRandomLocation}, \hyperpage{43}
+  \item {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades}, 
+		\hyperpage{43}
+    \subitem {alien}, \hyperpage{44}
+    \subitem {drone}, \hyperpage{44}
+    \subitem {resource}, \hyperpage{44}
+  \item {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet}, 
+		\hyperpage{100}
+    \subitem {apanhadoPeloDrone}, \hyperpage{101}
+    \subitem {getResourceType}, \hyperpage{101}
+    \subitem {ResourceInPlanet}, \hyperpage{101}
+    \subitem {resourceType}, \hyperpage{101}
+  \item {Planet\_Bound.logica.dados.ship}, \hyperpage{28}
+  \item {Planet\_Bound.logica.dados.ship.ShipDados}, \hyperpage{113}
+    \subitem {artfactoFoiMinado}, \hyperpage{116}
+    \subitem {cargo\_multiplyer}, \hyperpage{116}
+    \subitem {cargo\_multiplyer\_max}, \hyperpage{117}
+    \subitem {cargo\_upgraded\_here}, \hyperpage{117}
+    \subitem {comprarDrone}, \hyperpage{115}
+    \subitem {deleteTerreno}, \hyperpage{115}
+    \subitem {deVoltaAShipComRecurso}, \hyperpage{116}
+    \subitem {drone}, \hyperpage{117}
+    \subitem {fuel\_max}, \hyperpage{117}
+    \subitem {getRandom}, \hyperpage{116}
+    \subitem {getTerreno}, \hyperpage{116}
+    \subitem {hasDrone}, \hyperpage{116}
+    \subitem {morteDoDrone}, \hyperpage{116}
+    \subitem {planetType}, \hyperpage{117}
+    \subitem {shield\_max}, \hyperpage{117}
+    \subitem {ShipDados}, \hyperpage{115}
+    \subitem {shipType}, \hyperpage{117}
+    \subitem {spaceStation}, \hyperpage{117}
+    \subitem {terreno}, \hyperpage{118}
+    \subitem {vezesQueSePodeVizitarOPlaneta}, \hyperpage{118}
+    \subitem {weapon\_max}, \hyperpage{118}
+  \item {Planet\_Bound.logica.dados.ship.ShipType}, \hyperpage{125}
+    \subitem {military}, \hyperpage{126}
+    \subitem {mining}, \hyperpage{126}
+    \subitem {placeholder}, \hyperpage{126}
+  \item {Planet\_Bound.logica.estados}, \hyperpage{28}
+  \item {Planet\_Bound.logica.estados.birthanddeath}, \hyperpage{29}
+  \item {Planet\_Bound.logica.estados.birthanddeath.GameOver}, 
+		\hyperpage{53}
+    \subitem {GameOver}, \hyperpage{54}
+    \subitem {getEstado}, \hyperpage{54}
+    \subitem {mensagem}, \hyperpage{55}
+    \subitem {novoJogo}, \hyperpage{54}
+    \subitem {toString}, \hyperpage{54}
+  \item {Planet\_Bound.logica.estados.birthanddeath.NovoShip}, 
+		\hyperpage{90}
+    \subitem {getEstado}, \hyperpage{90}
+    \subitem {NovoShip}, \hyperpage{90}
+    \subitem {setOpcao}, \hyperpage{91}
+  \item {Planet\_Bound.logica.estados.EstadoAdapter}, \hyperpage{44}
+    \subitem {aplicaEvento}, \hyperpage{45}
+    \subitem {convertResources}, \hyperpage{45}
+    \subitem {EstadoAdapter}, \hyperpage{45}
+    \subitem {getShipDados}, \hyperpage{45}
+    \subitem {landOnSpaceStation}, \hyperpage{45}
+    \subitem {landOnThePlanet}, \hyperpage{46}
+    \subitem {move}, \hyperpage{46}
+    \subitem {novoJogo}, \hyperpage{46}
+    \subitem {proximoPlaneta}, \hyperpage{46}
+    \subitem {returnToShip}, \hyperpage{46}
+    \subitem {setOpcao}, \hyperpage{47}
+    \subitem {shipDados}, \hyperpage{47}
+  \item {Planet\_Bound.logica.estados.EstadoJogo}, \hyperpage{47}
+    \subitem {ConvertResources}, \hyperpage{48}
+    \subitem {GameOver}, \hyperpage{48}
+    \subitem {NoEspaco}, \hyperpage{48}
+    \subitem {NoTerreno}, \hyperpage{48}
+    \subitem {NovoShip}, \hyperpage{48}
+    \subitem {OnSpaceStation}, \hyperpage{48}
+  \item {Planet\_Bound.logica.estados.IEstado}, \hyperpage{77}
+    \subitem {aplicaEvento}, \hyperpage{77}
+    \subitem {convertResources}, \hyperpage{77}
+    \subitem {getEstado}, \hyperpage{78}
+    \subitem {landOnSpaceStation}, \hyperpage{78}
+    \subitem {landOnThePlanet}, \hyperpage{78}
+    \subitem {move}, \hyperpage{78}
+    \subitem {novoJogo}, \hyperpage{78}
+    \subitem {proximoPlaneta}, \hyperpage{79}
+    \subitem {returnToShip}, \hyperpage{79}
+    \subitem {setOpcao}, \hyperpage{79}
+  \item {Planet\_Bound.logica.estados.noespaco}, \hyperpage{29}
+  \item {Planet\_Bound.logica.estados.noespaco.menusdospacestation}, 
+		\hyperpage{29}
+  \item {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion}, 
+		\hyperpage{29}
+  \item {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}, 
+		\hyperpage{35}
+    \subitem {ConversionP1}, \hyperpage{35}
+    \subitem {getEstado}, \hyperpage{36}
+    \subitem {listaresources}, \hyperpage{36}
+    \subitem {onSpaceStation}, \hyperpage{36}
+    \subitem {setOpcao}, \hyperpage{36}
+  \item {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}, 
+		\hyperpage{37}
+    \subitem {ConversionP2}, \hyperpage{37}
+    \subitem {converterXfromY}, \hyperpage{38}
+    \subitem {getEstado}, \hyperpage{38}
+    \subitem {listaresources}, \hyperpage{38}
+    \subitem {localresource}, \hyperpage{39}
+    \subitem {onSpaceStation}, \hyperpage{39}
+    \subitem {resourceExiste}, \hyperpage{38}
+    \subitem {setOpcao}, \hyperpage{38}
+  \item {Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}, 
+		\hyperpage{92}
+    \subitem {getEstado}, \hyperpage{93}
+    \subitem {OnSpaceStation}, \hyperpage{93}
+    \subitem {resourceExiste}, \hyperpage{93}
+    \subitem {setOpcao}, \hyperpage{94}
+    \subitem {verificaeretiraNrecursosdotipoYparaobterX}, 
+		\hyperpage{94}
+  \item {Planet\_Bound.logica.estados.noespaco.NoEspaco}, 
+		\hyperpage{86}
+    \subitem {aplicaEvento}, \hyperpage{87}
+    \subitem {convertResources}, \hyperpage{87}
+    \subitem {getEstado}, \hyperpage{87}
+    \subitem {landOnSpaceStation}, \hyperpage{87}
+    \subitem {landOnThePlanet}, \hyperpage{88}
+    \subitem {NoEspaco}, \hyperpage{87}
+    \subitem {proximoPlaneta}, \hyperpage{88}
+  \item {Planet\_Bound.logica.estados.noterreno}, \hyperpage{30}
+  \item {Planet\_Bound.logica.estados.noterreno.NoTerreno}, 
+		\hyperpage{88}
+    \subitem {getEstado}, \hyperpage{89}
+    \subitem {move}, \hyperpage{89}
+    \subitem {NoTerreno}, \hyperpage{89}
+    \subitem {returnToShip}, \hyperpage{89}
+  \item {Planet\_Bound.logica.Ship}, \hyperpage{108}
+    \subitem {addEvent}, \hyperpage{109}
+    \subitem {aplicaEvento}, \hyperpage{109}
+    \subitem {convertResources}, \hyperpage{110}
+    \subitem {estado}, \hyperpage{112}
+    \subitem {getAllUnreadEvents}, \hyperpage{110}
+    \subitem {getEvents}, \hyperpage{110}
+    \subitem {getIEstado}, \hyperpage{110}
+    \subitem {getITerreno}, \hyperpage{110}
+    \subitem {getNLastEvents}, \hyperpage{110}
+    \subitem {getPlanet}, \hyperpage{111}
+    \subitem {getShipDados}, \hyperpage{111}
+    \subitem {getTerreno}, \hyperpage{111}
+    \subitem {landOnSpaceStation}, \hyperpage{111}
+    \subitem {landOnThePlanet}, \hyperpage{111}
+    \subitem {move}, \hyperpage{111}
+    \subitem {novoJogo}, \hyperpage{111}
+    \subitem {proximoPlaneta}, \hyperpage{112}
+    \subitem {returnToShip}, \hyperpage{112}
+    \subitem {setEstado}, \hyperpage{112}
+    \subitem {setOpcao}, \hyperpage{112}
+    \subitem {Ship}, \hyperpage{109}
+    \subitem {shipDados}, \hyperpage{112}
+  \item {Planet\_Bound.logica.Ship.ITerreno}, \hyperpage{82}
+    \subitem {droneHasResource}, \hyperpage{83}
+    \subitem {getAlienType}, \hyperpage{83}
+    \subitem {getCoordenadas}, \hyperpage{83, 84}
+    \subitem {getCounter}, \hyperpage{84}
+    \subitem {getDroneHealth}, \hyperpage{84}
+    \subitem {getResourceType}, \hyperpage{84}
+    \subitem {getTerreno}, \hyperpage{85}
+    \subitem {ITerreno}, \hyperpage{83}
+    \subitem {terreno}, \hyperpage{85}
+  \item {Planet\_Bound.logica.Ship.ITerreno.types}, \hyperpage{131}
+    \subitem {Alien}, \hyperpage{131}
+    \subitem {Drone}, \hyperpage{131}
+    \subitem {InicialSpot}, \hyperpage{131}
+    \subitem {Resource}, \hyperpage{131}
+  \item {Planet\_Bound.logica.ShipObservavel}, \hyperpage{118}
+    \subitem {addEvent}, \hyperpage{120}
+    \subitem {addPropertyChangeListener}, \hyperpage{120}
+    \subitem {ClearEvents}, \hyperpage{120}
+    \subitem {convertResources}, \hyperpage{120}
+    \subitem {droneHasResource}, \hyperpage{120}
+    \subitem {getAllUnreadEvents}, \hyperpage{121}
+    \subitem {getCargoHold}, \hyperpage{121}
+    \subitem {getEstado}, \hyperpage{121}
+    \subitem {getEstadoClass}, \hyperpage{121}
+    \subitem {getEstadoJogo}, \hyperpage{121}
+    \subitem {getEvents}, \hyperpage{121}
+    \subitem {getITerreno}, \hyperpage{121}
+    \subitem {getMaxOfResourceY}, \hyperpage{121}
+    \subitem {getNdeYRecursos}, \hyperpage{122}
+    \subitem {getNLastEvents}, \hyperpage{122}
+    \subitem {getOfficers}, \hyperpage{122}
+    \subitem {getOptions}, \hyperpage{122}
+    \subitem {getPlanetType}, \hyperpage{122}
+    \subitem {getResourceTypes}, \hyperpage{122}
+    \subitem {getShipType}, \hyperpage{122}
+    \subitem {getUnreadEvents}, \hyperpage{123}
+    \subitem {getVezesQueSePodeVizitarOPlaneta}, \hyperpage{123}
+    \subitem {hasDrone}, \hyperpage{123}
+    \subitem {hasOfficer}, \hyperpage{123}
+    \subitem {hasSpaceStation}, \hyperpage{123}
+    \subitem {landOnSpaceStation}, \hyperpage{123}
+    \subitem {landOnThePlanet}, \hyperpage{123}
+    \subitem {load}, \hyperpage{124}
+    \subitem {move}, \hyperpage{124}
+    \subitem {novoJogo}, \hyperpage{124}
+    \subitem {propertyChangeSupport}, \hyperpage{125}
+    \subitem {proximoPlaneta}, \hyperpage{124}
+    \subitem {returnToShip}, \hyperpage{124}
+    \subitem {save}, \hyperpage{124}
+    \subitem {serialVersionUID}, \hyperpage{125}
+    \subitem {setDebugEvents}, \hyperpage{124}
+    \subitem {setOpcao}, \hyperpage{125}
+    \subitem {ship}, \hyperpage{125}
+    \subitem {ShipObservavel}, \hyperpage{119}
+  \item {Planet\_Bound.Main}, \hyperpage{85}
+    \subitem {main}, \hyperpage{85}
+    \subitem {printhelp}, \hyperpage{85}
+    \subitem {versao}, \hyperpage{86}
+  \item {Planet\_Bound.ui}, \hyperpage{30}
+  \item {Planet\_Bound.ui.gui}, \hyperpage{30}
+  \item {Planet\_Bound.ui.gui.estados}, \hyperpage{30}
+  \item {Planet\_Bound.ui.gui.estados.GEscolha}, \hyperpage{55}
+    \subitem {addTitle}, \hyperpage{56}
+    \subitem {atualizaVista}, \hyperpage{56}
+    \subitem {bSOButtons}, \hyperpage{56}
+    \subitem {bSOSquares}, \hyperpage{56}
+    \subitem {escolhas}, \hyperpage{57}
+    \subitem {GEscolha}, \hyperpage{56}
+    \subitem {lastState}, \hyperpage{57}
+    \subitem {modelo}, \hyperpage{57}
+    \subitem {questao}, \hyperpage{57}
+    \subitem {questaoBox}, \hyperpage{57}
+    \subitem {questaoSquare}, \hyperpage{57}
+    \subitem {setUpButtons}, \hyperpage{56}
+  \item {Planet\_Bound.ui.gui.estados.GGameOver}, \hyperpage{58}
+    \subitem {actulizaVista}, \hyperpage{58}
+    \subitem {GGameOver}, \hyperpage{58}
+    \subitem {modelo}, \hyperpage{59}
+    \subitem {organiza}, \hyperpage{58}
+    \subitem {questao}, \hyperpage{59}
+  \item {Planet\_Bound.ui.gui.estados.GNoEspaco}, \hyperpage{61}
+    \subitem {atualizaVista}, \hyperpage{62}
+    \subitem {conversor}, \hyperpage{63}
+    \subitem {GNoEspaco}, \hyperpage{62}
+    \subitem {modelo}, \hyperpage{63}
+    \subitem {next}, \hyperpage{63}
+    \subitem {organiza}, \hyperpage{62}
+    \subitem {planeta}, \hyperpage{63}
+    \subitem {setUpConversor}, \hyperpage{62}
+    \subitem {setUpNext}, \hyperpage{63}
+    \subitem {setUpPlaneta}, \hyperpage{63}
+    \subitem {setUpSpaceStation}, \hyperpage{63}
+    \subitem {spaceStation}, \hyperpage{64}
+  \item {Planet\_Bound.ui.gui.estados.GNovoShip}, \hyperpage{64}
+    \subitem {atualizaVista}, \hyperpage{65}
+    \subitem {GNovoShip}, \hyperpage{64}
+    \subitem {modelo}, \hyperpage{65}
+    \subitem {organizaComponentes}, \hyperpage{65}
+  \item {Planet\_Bound.ui.gui.estados.GTerreno}, \hyperpage{69}
+    \subitem {alien}, \hyperpage{71}
+    \subitem {atualizaVista}, \hyperpage{70}
+    \subitem {compareVector}, \hyperpage{70}
+    \subitem {conversor}, \hyperpage{71}
+    \subitem {direcao}, \hyperpage{70}
+    \subitem {drone}, \hyperpage{71}
+    \subitem {GTerreno}, \hyperpage{70}
+    \subitem {modelo}, \hyperpage{71}
+    \subitem {next}, \hyperpage{71}
+    \subitem {organiza}, \hyperpage{70}
+    \subitem {planeta}, \hyperpage{71}
+    \subitem {resource}, \hyperpage{71}
+    \subitem {spaceStation}, \hyperpage{72}
+  \item {Planet\_Bound.ui.gui.Gui}, \hyperpage{74}
+    \subitem {getMB}, \hyperpage{74}
+    \subitem {main2}, \hyperpage{74}
+    \subitem {modelo}, \hyperpage{75}
+    \subitem {root}, \hyperpage{75}
+    \subitem {start}, \hyperpage{74}
+  \item {Planet\_Bound.ui.gui.Helper}, \hyperpage{75}
+    \subitem {PlanetType2Color}, \hyperpage{75}
+    \subitem {ResouceLabel}, \hyperpage{76}
+    \subitem {Resource2Color}, \hyperpage{76}
+    \subitem {RETANGLE\_SIZE}, \hyperpage{76}
+    \subitem {Type2Color}, \hyperpage{76}
+  \item {Planet\_Bound.ui.gui.info}, \hyperpage{30}
+  \item {Planet\_Bound.ui.gui.info.extraInfo}, \hyperpage{31}
+  \item {Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco}, 
+		\hyperpage{79}
+    \subitem {InfoEspaco}, \hyperpage{80}
+    \subitem {modelo}, \hyperpage{80}
+    \subitem {setUp}, \hyperpage{80}
+    \subitem {update}, \hyperpage{80}
+  \item {Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}, 
+		\hyperpage{81}
+    \subitem {droneStats}, \hyperpage{82}
+    \subitem {InfoPlaneta}, \hyperpage{81}
+    \subitem {modelo}, \hyperpage{82}
+    \subitem {setUp}, \hyperpage{81}
+    \subitem {update}, \hyperpage{82}
+  \item {Planet\_Bound.ui.gui.info.GLog}, \hyperpage{59}
+    \subitem {GLog}, \hyperpage{60}
+    \subitem {log}, \hyperpage{60}
+    \subitem {modelo}, \hyperpage{60}
+    \subitem {setValues}, \hyperpage{60}
+  \item {Planet\_Bound.ui.gui.info.GRecursos}, \hyperpage{65}
+    \subitem {DroneBox}, \hyperpage{66}
+    \subitem {droneStats}, \hyperpage{66}
+    \subitem {GRecursos}, \hyperpage{66}
+    \subitem {infoEspaco}, \hyperpage{67}
+    \subitem {modelo}, \hyperpage{67}
+    \subitem {organizaComponentes}, \hyperpage{66}
+    \subitem {recursos}, \hyperpage{67}
+    \subitem {setValues}, \hyperpage{66}
+    \subitem {title}, \hyperpage{67}
+  \item {Planet\_Bound.ui.gui.info.GResumo}, \hyperpage{67}
+    \subitem {GResumo}, \hyperpage{68}
+    \subitem {labelComandantes}, \hyperpage{68}
+    \subitem {labelNome}, \hyperpage{68}
+    \subitem {modelo}, \hyperpage{69}
+    \subitem {organizaComponentes}, \hyperpage{68}
+    \subitem {setValues}, \hyperpage{68}
+  \item {Planet\_Bound.ui.gui.info.GTop}, \hyperpage{72}
+    \subitem {bt}, \hyperpage{73}
+    \subitem {GTop}, \hyperpage{72}
+    \subitem {modelo}, \hyperpage{73}
+    \subitem {organiza}, \hyperpage{73}
+    \subitem {setOption}, \hyperpage{73}
+    \subitem {update}, \hyperpage{73}
+  \item {Planet\_Bound.ui.gui.menu}, \hyperpage{31}
+  \item {Planet\_Bound.ui.gui.menu.GMenu}, \hyperpage{60}
+    \subitem {file}, \hyperpage{61}
+    \subitem {GMenu}, \hyperpage{61}
+    \subitem {help}, \hyperpage{61}
+  \item {Planet\_Bound.ui.gui.Root}, \hyperpage{105}
+    \subitem {center}, \hyperpage{106}
+    \subitem {gLog}, \hyperpage{106}
+    \subitem {gRecursos}, \hyperpage{106}
+    \subitem {gTop}, \hyperpage{106}
+    \subitem {modelo}, \hyperpage{107}
+    \subitem {organizaComponentes}, \hyperpage{106}
+    \subitem {Root}, \hyperpage{105}
+    \subitem {updateSize}, \hyperpage{106}
+  \item {Planet\_Bound.ui.gui.Root.RootBackground}, \hyperpage{107}
+    \subitem {Space}, \hyperpage{107}
+    \subitem {Store}, \hyperpage{107}
+    \subitem {Terreno}, \hyperpage{107}
+  \item {planeta}
+    \subitem {Planet\_Bound.ui.gui.estados.GNoEspaco}, \hyperpage{63}
+    \subitem {Planet\_Bound.ui.gui.estados.GTerreno}, \hyperpage{71}
+  \item {planetBlack}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{104}
+  \item {planetBlue}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{104}
+  \item {planetGreen}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{104}
+  \item {planetRed}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{104}
+  \item {planets}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{104}
+  \item {planetType}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{117}
+  \item {PlanetType2Color}
+    \subitem {Planet\_Bound.ui.gui.Helper}, \hyperpage{75}
+  \item {printhelp}
+    \subitem {Planet\_Bound.Main}, \hyperpage{85}
+  \item {propertyChangeSupport}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{125}
+  \item {proximoPlaneta}
+    \subitem {Planet\_Bound.logica.estados.EstadoAdapter}, 
+		\hyperpage{46}
+    \subitem {Planet\_Bound.logica.estados.IEstado}, \hyperpage{79}
+    \subitem {Planet\_Bound.logica.estados.noespaco.NoEspaco}, 
+		\hyperpage{88}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{112}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{124}
+
+  \indexspace
+
+  \item {questao}
+    \subitem {Planet\_Bound.ui.gui.estados.GEscolha}, \hyperpage{57}
+    \subitem {Planet\_Bound.ui.gui.estados.GGameOver}, \hyperpage{59}
+  \item {questaoBox}
+    \subitem {Planet\_Bound.ui.gui.estados.GEscolha}, \hyperpage{57}
+  \item {questaoSquare}
+    \subitem {Planet\_Bound.ui.gui.estados.GEscolha}, \hyperpage{57}
+
+  \indexspace
+
+  \item {randomDirection}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{130}
+  \item {RandomEvent}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{53}
+  \item {Randomizes}, \hyperpage{13}
+    \subitem {eventosnormais}, \hyperpage{13}
+    \subitem {resourceTypes}, \hyperpage{13}
+  \item {randomPlanet}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{103}
+  \item {randomResource}
+    \subitem {Gestão de eventos}, \hyperpage{21}
+  \item {rechargeShields}
+    \subitem {Secção das opções}, \hyperpage{17}
+  \item {recursos}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{104}
+    \subitem {Planet\_Bound.ui.gui.info.GRecursos}, \hyperpage{67}
+  \item {Red}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.PlanetType}, 
+		\hyperpage{98}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Resource}, 
+		\hyperpage{100}
+  \item {removeOfficer}
+    \subitem {Secção das opções}, \hyperpage{17}
+  \item {reset}
+    \subitem {Gestão de eventos}, \hyperpage{21}
+  \item {ResouceLabel}
+    \subitem {Planet\_Bound.ui.gui.Helper}, \hyperpage{76}
+  \item {Resource}
+    \subitem {Planet\_Bound.logica.Ship.ITerreno.types}, 
+		\hyperpage{131}
+  \item {resource}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{131}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades}, 
+		\hyperpage{44}
+    \subitem {Planet\_Bound.ui.gui.estados.GTerreno}, \hyperpage{71}
+  \item {Resource2Color}
+    \subitem {Planet\_Bound.ui.gui.Helper}, \hyperpage{76}
+  \item {resourceExiste}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}, 
+		\hyperpage{38}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}, 
+		\hyperpage{93}
+    \subitem {Secção das opções}, \hyperpage{17}
+  \item {ResourceInPlanet}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet}, 
+		\hyperpage{101}
+  \item {resources}
+    \subitem {Gestão de eventos}, \hyperpage{22}
+  \item {resourceType}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet}, 
+		\hyperpage{101}
+  \item {ResourceTypes}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}, 
+		\hyperpage{102}
+  \item {resourceTypes}
+    \subitem {Randomizes}, \hyperpage{13}
+  \item {RETANGLE\_SIZE}
+    \subitem {Planet\_Bound.ui.gui.Helper}, \hyperpage{76}
+  \item {returnToShip}
+    \subitem {Planet\_Bound.logica.estados.EstadoAdapter}, 
+		\hyperpage{46}
+    \subitem {Planet\_Bound.logica.estados.IEstado}, \hyperpage{79}
+    \subitem {Planet\_Bound.logica.estados.noterreno.NoTerreno}, 
+		\hyperpage{89}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{112}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{124}
+  \item {Root}
+    \subitem {Planet\_Bound.ui.gui.Root}, \hyperpage{105}
+  \item {root}
+    \subitem {Planet\_Bound.ui.gui.Gui}, \hyperpage{75}
+
+  \indexspace
+
+  \item {save}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{124}
+  \item {Secção das opções}, \hyperpage{14}
+    \subitem {addOfficer}, \hyperpage{14}
+    \subitem {addXResourcesOfTypeY}, \hyperpage{15}
+    \subitem {deleteAllResourcesOfTypeY}, \hyperpage{15}
+    \subitem {deleteXResourcesOfTypeY}, \hyperpage{15}
+    \subitem {getCargoHold}, \hyperpage{15}
+    \subitem {getMaxOfResourceY}, \hyperpage{15}
+    \subitem {getNdeYRecursos}, \hyperpage{15}
+    \subitem {getOfficers}, \hyperpage{16}
+    \subitem {getOptions}, \hyperpage{16}
+    \subitem {getResourceTypes}, \hyperpage{16}
+    \subitem {getShipType}, \hyperpage{16}
+    \subitem {getVezesQueSePodeVizitarOPlaneta}, \hyperpage{16}
+    \subitem {hasOfficer}, \hyperpage{16}
+    \subitem {hasSpaceStation}, \hyperpage{16}
+    \subitem {novoPlanet}, \hyperpage{17}
+    \subitem {options}, \hyperpage{18}
+    \subitem {rechargeShields}, \hyperpage{17}
+    \subitem {removeOfficer}, \hyperpage{17}
+    \subitem {resourceExiste}, \hyperpage{17}
+    \subitem {setOptions}, \hyperpage{17}
+    \subitem {setXResourcesOfTypeY}, \hyperpage{17}
+    \subitem {upgradeCargoHold}, \hyperpage{17}
+    \subitem {upgradeWeaponSystem}, \hyperpage{18}
+    \subitem {verificaeRetiraNrecursosdotipoYparaobterX}, 
+		\hyperpage{18}
+  \item {serialVersionUID}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{125}
+  \item {setDebugEvents}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{124}
+  \item {setEstado}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{112}
+  \item {setOpcao}
+    \subitem {Planet\_Bound.logica.estados.birthanddeath.NovoShip}, 
+		\hyperpage{91}
+    \subitem {Planet\_Bound.logica.estados.EstadoAdapter}, 
+		\hyperpage{47}
+    \subitem {Planet\_Bound.logica.estados.IEstado}, \hyperpage{79}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}, 
+		\hyperpage{36}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}, 
+		\hyperpage{38}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}, 
+		\hyperpage{94}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{112}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{125}
+  \item {setOption}
+    \subitem {Planet\_Bound.ui.gui.info.GTop}, \hyperpage{73}
+  \item {setOptions}
+    \subitem {Secção das opções}, \hyperpage{17}
+  \item {setPlanetType}
+    \subitem {Gestão de eventos}, \hyperpage{22}
+  \item {setSpaceStation}
+    \subitem {Gestão de eventos}, \hyperpage{22}
+  \item {setUp}
+    \subitem {Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco}, 
+		\hyperpage{80}
+    \subitem {Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}, 
+		\hyperpage{81}
+  \item {setUpButtons}
+    \subitem {Planet\_Bound.ui.gui.estados.GEscolha}, \hyperpage{56}
+  \item {setUpConversor}
+    \subitem {Planet\_Bound.ui.gui.estados.GNoEspaco}, \hyperpage{62}
+  \item {setUpNext}
+    \subitem {Planet\_Bound.ui.gui.estados.GNoEspaco}, \hyperpage{63}
+  \item {setUpPlaneta}
+    \subitem {Planet\_Bound.ui.gui.estados.GNoEspaco}, \hyperpage{63}
+  \item {setUpSpaceStation}
+    \subitem {Planet\_Bound.ui.gui.estados.GNoEspaco}, \hyperpage{63}
+  \item {setValues}
+    \subitem {Planet\_Bound.ui.gui.info.GLog}, \hyperpage{60}
+    \subitem {Planet\_Bound.ui.gui.info.GRecursos}, \hyperpage{66}
+    \subitem {Planet\_Bound.ui.gui.info.GResumo}, \hyperpage{68}
+  \item {setXResourcesOfTypeY}
+    \subitem {Secção das opções}, \hyperpage{17}
+  \item {Shield}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Resource}, 
+		\hyperpage{100}
+  \item {shield\_max}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{117}
+  \item {Shilds}
+    \subitem {Planet\_Bound.logica.dados.aux.Officer}, \hyperpage{92}
+  \item {Ship}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{109}
+  \item {ship}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{125}
+  \item {ShipDados}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{115}
+  \item {shipDados}
+    \subitem {Planet\_Bound.logica.estados.EstadoAdapter}, 
+		\hyperpage{47}
+    \subitem {Planet\_Bound.logica.Ship}, \hyperpage{112}
+  \item {ShipObservavel}
+    \subitem {Planet\_Bound.logica.ShipObservavel}, \hyperpage{119}
+  \item {shipType}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{117}
+  \item {Space}
+    \subitem {Planet\_Bound.ui.gui.Root.RootBackground}, 
+		\hyperpage{107}
+  \item {spaceStation}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{117}
+    \subitem {Planet\_Bound.ui.gui.estados.GNoEspaco}, \hyperpage{64}
+    \subitem {Planet\_Bound.ui.gui.estados.GTerreno}, \hyperpage{72}
+  \item {src/Planet\_Bound/logica/dados/aux/Direcoes.java}, 
+		\hyperpage{133}
+  \item {src/Planet\_Bound/logica/dados/aux/Officer.java}, 
+		\hyperpage{133}
+  \item {src/Planet\_Bound/logica/dados/aux/Options.java}, 
+		\hyperpage{133}
+  \item {src/Planet\_Bound/logica/dados/events/Event.java}, 
+		\hyperpage{134}
+  \item {src/Planet\_Bound/logica/dados/events/EventType.java}, 
+		\hyperpage{134}
+  \item {src/Planet\_Bound/logica/dados/resourcesandplanets/PlanetType.java}, 
+		\hyperpage{134}
+  \item {src/Planet\_Bound/logica/dados/resourcesandplanets/Resource.java}, 
+		\hyperpage{134}
+  \item {src/Planet\_Bound/logica/dados/resourcesandplanets/ResourceTypes.java}, 
+		\hyperpage{135}
+  \item {src/Planet\_Bound/logica/dados/resourcesandplanets/Terreno.java}, 
+		\hyperpage{135}
+  \item {src/Planet\_Bound/logica/dados/ship/ShipDados.java}, 
+		\hyperpage{135}
+  \item {src/Planet\_Bound/logica/dados/ship/ShipType.java}, 
+		\hyperpage{136}
+  \item {src/Planet\_Bound/logica/estados/birthanddeath/GameOver.java}, 
+		\hyperpage{136}
+  \item {src/Planet\_Bound/logica/estados/birthanddeath/NovoShip.java}, 
+		\hyperpage{136}
+  \item {src/Planet\_Bound/logica/estados/EstadoAdapter.java}, 
+		\hyperpage{136}
+  \item {src/Planet\_Bound/logica/estados/EstadoJogo.java}, 
+		\hyperpage{137}
+  \item {src/Planet\_Bound/logica/estados/IEstado.java}, 
+		\hyperpage{137}
+  \item {src/Planet\_Bound/logica/estados/noespaco/menusdospacestation/conversion/ConversionP1.java}, 
+		\hyperpage{137}
+  \item {src/Planet\_Bound/logica/estados/noespaco/menusdospacestation/conversion/ConversionP2.java}, 
+		\hyperpage{138}
+  \item {src/Planet\_Bound/logica/estados/noespaco/menusdospacestation/OnSpaceStation.java}, 
+		\hyperpage{138}
+  \item {src/Planet\_Bound/logica/estados/noespaco/NoEspaco.java}, 
+		\hyperpage{138}
+  \item {src/Planet\_Bound/logica/estados/noterreno/NoTerreno.java}, 
+		\hyperpage{138}
+  \item {src/Planet\_Bound/logica/Ship.java}, \hyperpage{139}
+  \item {src/Planet\_Bound/logica/ShipObservavel.java}, \hyperpage{139}
+  \item {src/Planet\_Bound/Main.java}, \hyperpage{139}
+  \item {src/Planet\_Bound/ui/gui/estados/GEscolha.java}, 
+		\hyperpage{139}
+  \item {src/Planet\_Bound/ui/gui/estados/GGameOver.java}, 
+		\hyperpage{140}
+  \item {src/Planet\_Bound/ui/gui/estados/GNoEspaco.java}, 
+		\hyperpage{140}
+  \item {src/Planet\_Bound/ui/gui/estados/GNovoShip.java}, 
+		\hyperpage{140}
+  \item {src/Planet\_Bound/ui/gui/estados/GTerreno.java}, 
+		\hyperpage{140}
+  \item {src/Planet\_Bound/ui/gui/Gui.java}, \hyperpage{141}
+  \item {src/Planet\_Bound/ui/gui/Helper.java}, \hyperpage{141}
+  \item {src/Planet\_Bound/ui/gui/info/extraInfo/InfoEspaco.java}, 
+		\hyperpage{141}
+  \item {src/Planet\_Bound/ui/gui/info/extraInfo/InfoPlaneta.java}, 
+		\hyperpage{141}
+  \item {src/Planet\_Bound/ui/gui/info/GLog.java}, \hyperpage{142}
+  \item {src/Planet\_Bound/ui/gui/info/GRecursos.java}, \hyperpage{142}
+  \item {src/Planet\_Bound/ui/gui/info/GResumo.java}, \hyperpage{142}
+  \item {src/Planet\_Bound/ui/gui/info/GTop.java}, \hyperpage{142}
+  \item {src/Planet\_Bound/ui/gui/menu/GMenu.java}, \hyperpage{143}
+  \item {src/Planet\_Bound/ui/gui/Root.java}, \hyperpage{143}
+  \item {start}
+    \subitem {Planet\_Bound.ui.gui.Gui}, \hyperpage{74}
+  \item {staticEvents}
+    \subitem {Gestão de eventos}, \hyperpage{23}
+  \item {Store}
+    \subitem {Planet\_Bound.ui.gui.Root.RootBackground}, 
+		\hyperpage{107}
+
+  \indexspace
+
+  \item {Terreno}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno}, 
+		\hyperpage{127}
+    \subitem {Planet\_Bound.ui.gui.Root.RootBackground}, 
+		\hyperpage{107}
+  \item {terreno}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{118}
+    \subitem {Planet\_Bound.logica.Ship.ITerreno}, \hyperpage{85}
+  \item {title}
+    \subitem {Planet\_Bound.ui.gui.info.GRecursos}, \hyperpage{67}
+  \item {toString}
+    \subitem {Planet\_Bound.logica.dados.aux.Options}, \hyperpage{96}
+    \subitem {Planet\_Bound.logica.dados.events.Event}, \hyperpage{50}
+    \subitem {Planet\_Bound.logica.estados.birthanddeath.GameOver}, 
+		\hyperpage{54}
+  \item {type}
+    \subitem {Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}, 
+		\hyperpage{34}
+  \item {Type2Color}
+    \subitem {Planet\_Bound.ui.gui.Helper}, \hyperpage{76}
+
+  \indexspace
+
+  \item {uEnoD}
+    \subitem {Gestão de eventos}, \hyperpage{23}
+  \item {unixTimewithMilisecs}
+    \subitem {Planet\_Bound.logica.dados.events.Event}, \hyperpage{51}
+  \item {unreadEvents}
+    \subitem {Gestão de eventos}, \hyperpage{23}
+  \item {update}
+    \subitem {Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco}, 
+		\hyperpage{80}
+    \subitem {Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}, 
+		\hyperpage{82}
+    \subitem {Planet\_Bound.ui.gui.info.GTop}, \hyperpage{73}
+  \item {updateSize}
+    \subitem {Planet\_Bound.ui.gui.Root}, \hyperpage{106}
+  \item {upgradeCargoHold}
+    \subitem {Secção das opções}, \hyperpage{17}
+  \item {upgradeWeaponSystem}
+    \subitem {Secção das opções}, \hyperpage{18}
+
+  \indexspace
+
+  \item {verificaeRetiraNrecursosdotipoYparaobterX}
+    \subitem {Secção das opções}, \hyperpage{18}
+  \item {verificaeretiraNrecursosdotipoYparaobterX}
+    \subitem {Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}, 
+		\hyperpage{94}
+  \item {versao}
+    \subitem {Planet\_Bound.Main}, \hyperpage{86}
+  \item {vezesQueSePodeVizitarOPlaneta}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{118}
+
+  \indexspace
+
+  \item {Warning}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{53}
+  \item {weapon\_max}
+    \subitem {Planet\_Bound.logica.dados.ship.ShipDados}, 
+		\hyperpage{118}
+  \item {Weapons}
+    \subitem {Planet\_Bound.logica.dados.aux.Officer}, \hyperpage{92}
+  \item {WormHole}
+    \subitem {Planet\_Bound.logica.dados.events.EventType}, 
+		\hyperpage{53}
+
+\end{theindex}

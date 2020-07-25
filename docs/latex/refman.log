@@ -1,0 +1,2500 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.7.6)  23 JUL 2020 14:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**refman.tex
+(./refman.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03>
+(/usr/share/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Rollback for package 'array' requested -> date 2016-10-06.
+         Best approximation is the release introduced on 2016-10-06.
+
+(/usr/share/texmf-dist/tex/latex/tools/array-2016-10-06.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen135
+\extrarowheight=\dimen136
+\NC@list=\toks15
+\extratabsurround=\skip49
+\backup@length=\skip50
+))
+(/usr/share/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+) (/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count176
+\calc@Bcount=\count177
+\calc@Adimen=\dimen137
+\calc@Bdimen=\dimen138
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count178
+\calc@Cskip=\skip53
+) (./doxygen.sty
+Package: doxygen 
+
+(/usr/share/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count179
+\float@exts=\toks16
+\float@box=\box45
+\@float@everytoks=\toks17
+\@floatcapt=\box46
+)
+(/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks18
+\verbatim@line=\toks19
+\verbatim@in@stream=\read2
+)
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+(/usr/share/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks20
+\minrowclearance=\skip54
+)
+\rownum=\count180
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(./longtable_doxygen.sty
+Package: longtable_doxygen 2014/10/28 v4.11 Multi-page Table package (DPC) - fr
+ozen version for doxygen
+\LTleft=\skip55
+\LTright=\skip56
+\LTpre=\skip57
+\LTpost=\skip58
+\LTchunksize=\count181
+\LTcapwidth=\dimen139
+\LT@head=\box47
+\LT@firsthead=\box48
+\LT@foot=\box49
+\LT@lastfoot=\box50
+\LT@cols=\count182
+\LT@rows=\count183
+\c@LT@tables=\count184
+\c@LT@chunks=\count185
+\LT@p@ftn=\toks21
+) (./tabu_doxygen.sty
+Package: tabu_doxygen 2011/02/26 v2.8 - flexible LaTeX tabulars (FC), frozen ve
+rsion for doxygen
+
+(/usr/share/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box51
+\sift@deathcycles=\count186
+\@vwid@loff=\dimen140
+\@vwid@roff=\dimen141
+)
+\c@taburow=\count187
+\tabu@nbcols=\count188
+\tabu@cnt=\count189
+\tabu@Xcol=\count190
+\tabu@alloc=\count191
+\tabu@nested=\count192
+\tabu@target=\dimen142
+\tabu@spreadtarget=\dimen143
+\tabu@naturalX=\dimen144
+\tabucolX=\dimen145
+\tabu@Xsum=\dimen146
+\extrarowdepth=\dimen147
+\abovetabulinesep=\dimen148
+\belowtabulinesep=\dimen149
+\tabustrutrule=\dimen150
+\tabu@thebody=\toks22
+\tabu@footnotes=\toks23
+\tabu@box=\box52
+\tabu@arstrutbox=\box53
+\tabu@hleads=\box54
+\tabu@vleads=\box55
+\tabu@cellskip=\skip59
+)
+(/usr/share/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+\FV@CodeLineNo=\count193
+\FV@InFile=\read3
+\FV@TabBox=\box56
+\c@FancyVerbLine=\count194
+\FV@StepNumber=\count195
+\FV@OutFile=\write3
+)
+(/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen151
+\TX@old@table=\dimen152
+\TX@old@col=\dimen153
+\TX@target=\dimen154
+\TX@delta=\dimen155
+\TX@cols=\count196
+\TX@ftn=\toks25
+)
+(/usr/share/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count197
+\multirow@dima=\skip61
+\bigstrutjot=\dimen156
+)
+(/usr/share/texmf-dist/tex/latex/hanging/hanging.sty
+Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
+\h@ngcommawd=\skip62
+\h@ngfstopwd=\skip63
+\h@ngquotewd=\skip64
+\h@ngdquotewd=\skip65
+\h@ngquerywd=\skip66
+\h@ngexclwd=\skip67
+\h@ngcolonwd=\skip68
+\h@ngscolonwd=\skip69
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(/usr/share/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count198
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/share/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+)
+(/usr/share/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box57
+)
+\tc@llx=\dimen159
+\tc@lly=\dimen160
+\tc@urx=\dimen161
+\tc@ury=\dimen162
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/share/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen163
+\adjbox@Height=\dimen164
+\adjbox@Depth=\dimen165
+\adjbox@Totalheight=\dimen166
+\adjbox@pwidth=\dimen167
+\adjbox@pheight=\dimen168
+\adjbox@pdepth=\dimen169
+\adjbox@ptotalheight=\dimen170
+
+(/usr/share/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count199
+))
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks28
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texmf-dist/tex/latex/stackengine/stackengine.sty
+Package: stackengine 2017/02/13 v4.01\ Stacking text and objects in convenient 
+ways
+
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count266
+)
+(/usr/share/texmf-dist/tex/generic/listofitems/listofitems.sty
+(/usr/share/texmf-dist/tex/generic/listofitems/listofitems.tex
+\loi_cnt_foreach_nest=\count267
+\loi_nestcnt=\count268
+)
+Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified 
+sep char (CT)
+)
+\c@@stackindex=\count269
+\@boxshift=\skip70
+\stack@tmplength=\skip71
+\temp@stkl=\skip72
+\@stackedboxwidth=\skip73
+\@addedbox=\box58
+\@anchorbox=\box59
+\stackedbox=\box60
+\@centerbox=\box61
+\c@ROWcellindex@=\count270
+)
+(/usr/share/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box62
+\UL@hyphenbox=\box63
+\UL@skip=\skip74
+\UL@hook=\toks29
+\UL@height=\dimen171
+\UL@pe=\count271
+\UL@pixel=\dimen172
+\ULC@box=\box64
+Package: ulem 2019/11/18
+\ULdepth=\dimen173
+)
+\xrefbox=\box65
+\xreflength=\skip75
+\CodeWidthChar=\skip76
+\CodeHeightChar=\skip77
+\DoxyCodeWidth=\skip78
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks30
+\inpenc@posthook=\toks31
+)
+(/usr/share/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count272
+\mult@box=\box66
+\multicol@leftmargin=\dimen174
+\c@unbalance=\count273
+\c@collectmore=\count274
+\doublecol@number=\count275
+\multicoltolerance=\count276
+\multicolpretolerance=\count277
+\full@width=\dimen175
+\page@free=\dimen176
+\premulticols=\dimen177
+\postmulticols=\dimen178
+\multicolsep=\skip79
+\multicolbaselineskip=\skip80
+\partial@page=\box67
+\last@line=\box68
+\maxbalancingoverflow=\dimen179
+\mult@rightbox=\box69
+\mult@grightbox=\box70
+\mult@gfirstbox=\box71
+\mult@firstbox=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\c@minrows=\count278
+\c@columnbadness=\count279
+\c@finalcolumnbadness=\count280
+\last@try=\dimen180
+\multicolovershoot=\dimen181
+\multicolundershoot=\dimen182
+\mult@nat@firstbox=\box110
+\colbreak@box=\box111
+\mc@col@check@num=\count281
+)
+(/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/05/13 3.44 The Babel package
+
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/05/13 3.44 Babel common definitions
+\babel@savecnt=\count282
+\U@D=\dimen183
+\l@babelnohyphens=\language86
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read4
+)
+\bbl@dirlevel=\count283
+
+(/usr/share/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2020/05/04 v1.2r Portuguese support from the babel system
+Package babel Info: Making " an active character on input line 143.
+))
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(/usr/share/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(/usr/share/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count284
+\Gm@cntv=\count285
+\c@Gm@tempcnt=\count286
+\Gm@bindingoffset=\dimen184
+\Gm@wd@mp=\dimen185
+\Gm@odd@mp=\dimen186
+\Gm@even@mp=\dimen187
+\Gm@layoutwidth=\dimen188
+\Gm@layoutheight=\dimen189
+\Gm@layouthoffset=\dimen190
+\Gm@layoutvoffset=\dimen191
+\Gm@dimlist=\toks32
+)
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip81
+\f@nch@O@elh=\skip82
+\f@nch@O@erh=\skip83
+\f@nch@O@olh=\skip84
+\f@nch@O@orh=\skip85
+\f@nch@O@elf=\skip86
+\f@nch@O@erf=\skip87
+\f@nch@O@olf=\skip88
+\f@nch@O@orf=\skip89
+)
+(/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip90
+\bibsep=\skip91
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count287
+)
+(/usr/share/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip92
+\cftbeforetoctitleskip=\skip93
+\cftaftertoctitleskip=\skip94
+\cftbeforepartskip=\skip95
+\cftpartnumwidth=\skip96
+\cftpartindent=\skip97
+\cftbeforechapskip=\skip98
+\cftchapindent=\skip99
+\cftchapnumwidth=\skip100
+\cftbeforesecskip=\skip101
+\cftsecindent=\skip102
+\cftsecnumwidth=\skip103
+\cftbeforesubsecskip=\skip104
+\cftsubsecindent=\skip105
+\cftsubsecnumwidth=\skip106
+\cftbeforesubsubsecskip=\skip107
+\cftsubsubsecindent=\skip108
+\cftsubsubsecnumwidth=\skip109
+\cftbeforeparaskip=\skip110
+\cftparaindent=\skip111
+\cftparanumwidth=\skip112
+\cftbeforesubparaskip=\skip113
+\cftsubparaindent=\skip114
+\cftsubparanumwidth=\skip115
+\cftbeforeloftitleskip=\skip116
+\cftafterloftitleskip=\skip117
+\cftbeforefigskip=\skip118
+\cftfigindent=\skip119
+\cftfignumwidth=\skip120
+\c@lofdepth=\count288
+\c@lotdepth=\count289
+\cftbeforelottitleskip=\skip121
+\cftafterlottitleskip=\skip122
+\cftbeforetabskip=\skip123
+\cfttabindent=\skip124
+\cfttabnumwidth=\skip125
+)
+\@indexfile=\write4
+
+Writing index file refman.idx
+(/usr/share/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
+Package: newunicodechar 2018/04/08 v1.2 Defining Unicode characters
+)
+
+Package newunicodechar Warning: Redefining Unicode character on input line 119.
+
+
+
+Package newunicodechar Warning: Redefining Unicode character on input line 120.
+
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-04 v0.32 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen192
+\Hy@linkcounter=\count290
+\Hy@pagecounter=\count291
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count292
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing ON on input line 4482.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2020/01/14 v1.40 Bibliographical back referencing
+
+(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+)
+(/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+
+(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+))
+\c@Hy@tempcnt=\count293
+
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen193
+
+(/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+)
+\Fld@menulength=\count294
+\Field@Width=\dimen194
+\Fld@charsize=\dimen195
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing ON on input line 6360.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(/usr/share/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count295
+\c@Item=\count296
+\c@Hfootnote=\count297
+)
+Package hyperref Info: Driver: hpdftex.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+\Fld@listcount=\count298
+\c@bookmark@seq@number=\count299
+\Hy@SectionHShift=\skip126
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 138.
+Package hyperref Info: Option `unicode' set `true' on input line 138.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/05/10 v3.4j Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen196
+\captionmargin@=\dimen197
+\captionwidth=\dimen198
+\caption@tempdima=\dimen199
+\caption@indent=\dimen256
+\caption@parindent=\dimen257
+\caption@hangindent=\dimen258
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count300
+\c@continuedfloat=\count301
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+))
+(/usr/share/texmf-dist/tex/latex/etoc/etoc.sty
+Package: etoc 2020/05/15 v1.09c Completely customisable TOCs (JFB)
+\Etoc@toctoks=\toks33
+\c@etoc@tocid=\count302
+\c@etoc@tocdepth=\count303
+\etoc@framed@titlebox=\box112
+\etoc@framed@contentsbox=\box113
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count304
+\l__pdf_internal_box=\box114
+) (./refman.aux (./group__secops.aux) (./group__group__shipDadosEvents.aux)
+(./group__group__getsfromShipDados.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 15
+3.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 153.
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count305
+\scratchdimen=\dimen259
+\scratchbox=\box115
+\nofMPsegments=\count306
+\nofMParguments=\count307
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count308
+\MPscratchDim=\dimen260
+\MPnumerator=\count309
+\makeMPintoPDFobject=\count310
+\everyMPtoPDFconversion=\toks35
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-31.2056pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package backref Info: ** backref set up for natbib ** on input line 153.
+\AtBeginShipoutBox=\box116
+Package hyperref Info: Link coloring ON on input line 153.
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count311
+)
+LaTeX Info: Redefining \ref on input line 153.
+LaTeX Info: Redefining \pageref on input line 153.
+LaTeX Info: Redefining \nameref on input line 153.
+
+(./refman.out) (./refman.out)
+\@outlinefile=\write5
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\Etoc@tf=\read5
+Package hyperref Info: Option `pageanchor' set `false' on input line 159.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 159.
+
+Package hyperref Info: Option `unicode' set `true' on input line 159.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 12.9599pt on input line 164.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 6.29996pt on input line 164.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 164
+.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 164
+.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 16
+4.
+
+(/usr/share/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 164.
+ [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+]
+\tf@toc=\write6
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 172.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 6.29996pt on input line 172.
+ [1]
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 7.19995pt on input line 172.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 17
+2.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+) [2] [3]
+Underfull \hbox (badness 2057) in paragraph at lines 172--172
+ [][] [][]\T1/phv/m/n/10 9.2 Re-fe-rên-cia à classe Planet[]_[][]Bound.[]logica
+.[]estados.[]noespaco.[]menusdospacestation.[]conversion.[] 
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 172--172
+ [][] [][]\T1/phv/m/n/10 9.3 Re-fe-rên-cia à classe Planet[]_[][]Bound.[]logica
+.[]estados.[]noespaco.[]menusdospacestation.[]conversion.[] 
+ []
+
+[4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
+Underfull \hbox (badness 2096) in paragraph at lines 172--172
+ [][] [][]\T1/phv/m/n/10 10.19 Re-fe-rên-cia ao fi-cheiro src/[]Planet[]_[][]Bo
+und/logica/estados/noespaco/menusdospacestation/[]On[] 
+ []
+
+[17] [18]
+Package hyperref Info: Option `pageanchor' set `true' on input line 174.
+
+Cap\'{\i }tulo 1.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 18.66588pt on input line 177.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 18.66588pt on input line 177.
+LaTeX Font Info:    Font shape `T1/phv/bc/n' will be
+(Font)              scaled to size 18.66588pt on input line 177.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 22.39185pt on input line 177.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 22.39185pt on input line 177.
+LaTeX Font Info:    Font shape `T1/phv/bc/n' will be
+(Font)              scaled to size 22.39185pt on input line 177.
+(./index.tex
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 12.9599pt on input line 1.
+LaTeX Font Info:    Font shape `T1/phv/bc/n' will be
+(Font)              scaled to size 8.99994pt on input line 3.
+
+Underfull \hbox (badness 10000) detected at line 3
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 6
+[][][]
+ []
+
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 10.79993pt on input line 16.
+ <./diagramaDeEstados.png>
+<diagramaDeEstados.png, id=3702, 967.6953pt x 519.6213pt>
+File: diagramaDeEstados.png Graphic file (type png)
+<use diagramaDeEstados.png>
+Package pdftex.def Info: diagramaDeEstados.png  used on input line 20.
+(pdftex.def)             Requested size: 455.24506pt x 244.45198pt.
+ [1
+
+
+]) [2]
+Cap\'{\i }tulo 2.
+(./modules.tex) [3
+
+] [4
+
+]
+Cap\'{\i }tulo 3.
+(./namespaces.tex) [5] [6
+
+]
+Cap\'{\i }tulo 4.
+(./hierarchy.tex [7]) [8]
+Cap\'{\i }tulo 5.
+(./annotated.tex [9
+
+]) [10]
+Cap\'{\i }tulo 6.
+(./files.tex [11
+
+]) [12]
+Cap\'{\i }tulo 7.
+(./group__randomizes.tex
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
+1.
+ (/usr/share/texmf-dist/tex/latex/psnfss/ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 11.
+)
+[13
+
+] (./group__secops.tex
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 61.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 61.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 8.09995pt on input line 61.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 61.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 6.29996pt on input line 61.
+ [14
+
+]
+LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <8> not available
+(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 85.
+
+Underfull \hbox (badness 10000) detected at line 106
+[][][]
+ []
+
+[15] [16] [17]) [18] (./group__group__shipDadosEvents.tex
+
+Package hyperref Warning: Suppressing link with empty target on input line 5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 70.
+
+LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <7> not available
+(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 79.
+[19
+
+
+] [20]
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 7.19995pt on input line 144.
+
+Underfull \hbox (badness 10000) detected at line 147
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 156
+[][][]
+ []
+
+[21] [22]) [23] (./group__group__getsfromShipDados.tex [24
+
+
+] [25]) [26]
+Cap\'{\i }tulo 8.
+(./namespacePlanet__Bound.tex) (./namespacePlanet__Bound_1_1logica.tex)
+(./namespacePlanet__Bound_1_1logica_1_1dados.tex)
+(./namespacePlanet__Bound_1_1logica_1_1dados_1_1aux.tex)
+(./namespacePlanet__Bound_1_1logica_1_1dados_1_1events.tex [27
+
+
+])
+(./namespacePlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets.tex)
+(./namespacePlanet__Bound_1_1logica_1_1dados_1_1ship.tex)
+(./namespacePlanet__Bound_1_1logica_1_1estados.tex)
+(./namespacePlanet__Bound_1_1logica_1_1estados_1_1birthanddeath.tex)
+(./namespacePlanet__Bound_1_1logica_1_1estados_1_1noespaco.tex [28])
+(./namespacePlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestati
+on.tex)
+(./namespacePlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestati
+on_1_1conversion.tex)
+(./namespacePlanet__Bound_1_1logica_1_1estados_1_1noterreno.tex)
+(./namespacePlanet__Bound_1_1ui.tex [29])
+(./namespacePlanet__Bound_1_1ui_1_1gui.tex)
+(./namespacePlanet__Bound_1_1ui_1_1gui_1_1estados.tex)
+(./namespacePlanet__Bound_1_1ui_1_1gui_1_1info.tex)
+(./namespacePlanet__Bound_1_1ui_1_1gui_1_1info_1_1extraInfo.tex [30])
+(./namespacePlanet__Bound_1_1ui_1_1gui_1_1menu.tex) [31] [32
+
+]
+Cap\'{\i }tulo 9.
+
+(./classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1_1A
+lien.tex <./classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Ter
+reno_1_1Alien.pdf>
+<classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1_1Ali
+en.pdf, id=4536, 501.875pt x 100.87688pt>
+File: classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1
+_1Alien.pdf Graphic file (type pdf)
+<use classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1_
+1Alien.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandp
+lanets_1_1Terreno_1_1Alien.pdf  used on input line 6.
+(pdftex.def)             Requested size: 283.11574pt x 56.9055pt.
+ [33])
+(./classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestation_1
+_1conversion_1_1ConversionP1.tex <./classPlanet__Bound_1_1logica_1_1estados_1_1
+noespaco_1_1menusdospacestation_1_1conversion_1_1ConversionP1.pdf>
+<classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestation_1_1
+conversion_1_1ConversionP1.pdf, id=4564, 501.875pt x 58.2476pt>
+File: classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestatio
+n_1_1conversion_1_1ConversionP1.pdf Graphic file (type pdf)
+<use classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestation
+_1_1conversion_1_1ConversionP1.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_
+1menusdospacestation_1_1conversion_1_1ConversionP1.pdf  used on input line 6.
+(pdftex.def)             Requested size: 398.32246pt x 46.22878pt.
+
+Underfull \hbox (badness 1137) in paragraph at lines 3--8
+\T1/phv/m/n/10 Diagrama de he-ran-ças da classe Planet[]_[][]Bound.[]logica.[]e
+stados.[]noespaco.[]menusdospacestation.[]conversion.[]
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+\T1/pcr/m/n/8 Planet[]_[][]Bound.[]logica.[]estados.[]noespaco.[]menusdospacest
+ation.[]conversion.[]Conversion[]P1.[]Conversion[]P1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+[] \T1/pcr/m/n/8 Planet[]_[][]Bound.[]logica.[]estados.[]noespaco.[]menusdospac
+estation.[]conversion.[]Conversion[]P1.[]
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 22.39041pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+[] \T1/pcr/m/n/8 Planet[]_[][]Bound.[]logica.[]estados.[]noespaco.[]menusdospac
+estation.[]conversion.[]Conversion[]P1.[]set[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\T1/pcr/m/n/8 final Vector$\OML/cmm/m/it/8 <$[]$>$ \T1/pcr/m/n/8 Planet[]_[][]B
+ound.[]logica.[]estados.[]noespaco.[]menusdospacestation.[]conversion.[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+\T1/pcr/m/n/8 final boolean Planet[]_[][]Bound.[]logica.[]estados.[]noespaco.[]
+menusdospacestation.[]conversion.[]Conversion[]
+ []
+
+)
+(./classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestation_1
+_1conversion_1_1ConversionP2.tex <./classPlanet__Bound_1_1logica_1_1estados_1_1
+noespaco_1_1menusdospacestation_1_1conversion_1_1ConversionP2.pdf>
+<classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestation_1_1
+conversion_1_1ConversionP2.pdf, id=4607, 501.875pt x 58.2476pt>
+File: classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestatio
+n_1_1conversion_1_1ConversionP2.pdf Graphic file (type pdf)
+<use classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestation
+_1_1conversion_1_1ConversionP2.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_
+1menusdospacestation_1_1conversion_1_1ConversionP2.pdf  used on input line 6.
+(pdftex.def)             Requested size: 398.32246pt x 46.22878pt.
+
+Underfull \hbox (badness 1137) in paragraph at lines 3--8
+\T1/phv/m/n/10 Diagrama de he-ran-ças da classe Planet[]_[][]Bound.[]logica.[]e
+stados.[]noespaco.[]menusdospacestation.[]conversion.[]
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+\T1/pcr/m/n/8 Planet[]_[][]Bound.[]logica.[]estados.[]noespaco.[]menusdospacest
+ation.[]conversion.[]Conversion[]P2.[]Conversion[]P2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+[] \T1/pcr/m/n/8 Planet[]_[][]Bound.[]logica.[]estados.[]noespaco.[]menusdospac
+estation.[]conversion.[]Conversion[]P2.[]
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+[] \T1/pcr/m/n/8 Planet[]_[][]Bound.[]logica.[]estados.[]noespaco.[]menusdospac
+estation.[]conversion.[]Conversion[]P2.[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+\T1/pcr/m/n/8 boolean Planet[]_[][]Bound.[]logica.[]estados.[]noespaco.[]menusd
+ospacestation.[]conversion.[]Conversion[]P2.[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+[] \T1/pcr/m/n/8 Planet[]_[][]Bound.[]logica.[]estados.[]noespaco.[]menusdospac
+estation.[]conversion.[]Conversion[]P2.[]set[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+\T1/pcr/m/n/8 final Vector$\OML/cmm/m/it/8 <$[]$>$ \T1/pcr/m/n/8 Planet[]_[][]B
+ound.[]logica.[]estados.[]noespaco.[]menusdospacestation.[]conversion.[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+\T1/pcr/m/n/8 final boolean Planet[]_[][]Bound.[]logica.[]estados.[]noespaco.[]
+menusdospacestation.[]conversion.[]Conversion[]
+ []
+
+[38]) (./enumPlanet__Bound_1_1logica_1_1dados_1_1aux_1_1Direcoes.tex [39])
+(./classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1_1D
+rone.tex <./classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Ter
+reno_1_1Drone.pdf>
+<classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1_1Dro
+ne.pdf, id=4688, 501.875pt x 100.87688pt>
+File: classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1
+_1Drone.pdf Graphic file (type pdf)
+<use classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1_
+1Drone.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandp
+lanets_1_1Terreno_1_1Drone.pdf  used on input line 6.
+(pdftex.def)             Requested size: 283.11574pt x 56.9055pt.
+ [40])
+(./classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1_1E
+ntidade.tex <./classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1
+Terreno_1_1Entidade.pdf>
+<classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1_1Ent
+idade.pdf, id=4712, 501.875pt x 29.8716pt>
+File: classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1
+_1Entidade.pdf Graphic file (type pdf)
+<use classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1_
+1Entidade.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandp
+lanets_1_1Terreno_1_1Entidade.pdf  used on input line 6.
+(pdftex.def)             Requested size: 398.36076pt x 23.71048pt.
+ [41] [42]
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+\T1/pcr/m/n/8 final Integer []$ $[] Planet[]_[][]Bound.[]logica.[]dados.[]resou
+rcesandplanets.[]Terreno.[]Entidade.[]coordenadas
+ []
+
+)
+(./enumPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1_1En
+tidades.tex [43])
+(./classPlanet__Bound_1_1logica_1_1estados_1_1EstadoAdapter.tex <./classPlanet_
+_Bound_1_1logica_1_1estados_1_1EstadoAdapter.pdf>
+<classPlanet__Bound_1_1logica_1_1estados_1_1EstadoAdapter.pdf, id=4760, 501.875
+pt x 16.64218pt>
+File: classPlanet__Bound_1_1logica_1_1estados_1_1EstadoAdapter.pdf Graphic file
+ (type pdf)
+<use classPlanet__Bound_1_1logica_1_1estados_1_1EstadoAdapter.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1estados_1_1EstadoAdapt
+er.pdf  used on input line 6.
+(pdftex.def)             Requested size: 398.33012pt x 13.20828pt.
+ [44] [45] [46]
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+[]\T1/phv/m/n/10 Reimplementado em [],
+ []
+
+
+Overfull \hbox (216.6494pt too wide) in paragraph at lines 200--201
+[]\T1/phv/m/n/10 , []
+ []
+
+) (./enumPlanet__Bound_1_1logica_1_1estados_1_1EstadoJogo.tex [47])
+(./classPlanet__Bound_1_1logica_1_1dados_1_1events_1_1Event.tex <./classPlanet_
+_Bound_1_1logica_1_1dados_1_1events_1_1Event.pdf>
+<classPlanet__Bound_1_1logica_1_1dados_1_1events_1_1Event.pdf, id=4892, 501.875
+pt x 159.9576pt>
+File: classPlanet__Bound_1_1logica_1_1dados_1_1events_1_1Event.pdf Graphic file
+ (type pdf)
+<use classPlanet__Bound_1_1logica_1_1dados_1_1events_1_1Event.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1dados_1_1events_1_1Eve
+nt.pdf  used on input line 6.
+(pdftex.def)             Requested size: 178.53827pt x 56.9055pt.
+ [48] [49])
+(./enumPlanet__Bound_1_1logica_1_1dados_1_1events_1_1EventType.tex [50]
+[51] [52])
+(./classPlanet__Bound_1_1logica_1_1estados_1_1birthanddeath_1_1GameOver.tex <./
+classPlanet__Bound_1_1logica_1_1estados_1_1birthanddeath_1_1GameOver.pdf>
+<classPlanet__Bound_1_1logica_1_1estados_1_1birthanddeath_1_1GameOver.pdf, id=4
+982, 501.875pt x 91.53197pt>
+File: classPlanet__Bound_1_1logica_1_1estados_1_1birthanddeath_1_1GameOver.pdf 
+Graphic file (type pdf)
+<use classPlanet__Bound_1_1logica_1_1estados_1_1birthanddeath_1_1GameOver.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1estados_1_1birthanddea
+th_1_1GameOver.pdf  used on input line 6.
+(pdftex.def)             Requested size: 398.31482pt x 72.64534pt.
+
+[53]) (./classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GEscolha.tex <./classPla
+net__Bound_1_1ui_1_1gui_1_1estados_1_1GEscolha.pdf>
+<classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GEscolha.pdf, id=5008, 501.875pt
+ x 168.70027pt>
+File: classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GEscolha.pdf Graphic file (
+type pdf)
+<use classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GEscolha.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GEscolha
+.pdf  used on input line 6.
+(pdftex.def)             Requested size: 169.28743pt x 56.9055pt.
+ [54] [55] [56])
+(./classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GGameOver.tex <./classPlanet__
+Bound_1_1ui_1_1gui_1_1estados_1_1GGameOver.pdf>
+<classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GGameOver.pdf, id=5071, 501.875p
+t x 158.07054pt>
+File: classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GGameOver.pdf Graphic file 
+(type pdf)
+<use classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GGameOver.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GGameOve
+r.pdf  used on input line 6.
+(pdftex.def)             Requested size: 180.67485pt x 56.9055pt.
+ [57] [58])
+(./classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GLog.tex <./classPlanet__Bound_1_
+1ui_1_1gui_1_1info_1_1GLog.pdf>
+<classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GLog.pdf, id=5103, 501.875pt x 209.
+11124pt>
+File: classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GLog.pdf Graphic file (type pd
+f)
+<use classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GLog.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GLog.pdf  u
+sed on input line 6.
+(pdftex.def)             Requested size: 136.57251pt x 56.9055pt.
+ [59])
+(./classPlanet__Bound_1_1ui_1_1gui_1_1menu_1_1GMenu.tex <./classPlanet__Bound_1
+_1ui_1_1gui_1_1menu_1_1GMenu.pdf>
+<classPlanet__Bound_1_1ui_1_1gui_1_1menu_1_1GMenu.pdf, id=5130, 501.875pt x 189
+.38754pt>
+File: classPlanet__Bound_1_1ui_1_1gui_1_1menu_1_1GMenu.pdf Graphic file (type p
+df)
+<use classPlanet__Bound_1_1ui_1_1gui_1_1menu_1_1GMenu.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1ui_1_1gui_1_1menu_1_1GMenu.pdf  
+used on input line 6.
+(pdftex.def)             Requested size: 150.7934pt x 56.9055pt.
+ [60])
+(./classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GNoEspaco.tex <./classPlanet__
+Bound_1_1ui_1_1gui_1_1estados_1_1GNoEspaco.pdf>
+<classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GNoEspaco.pdf, id=5145, 501.875p
+t x 159.9576pt>
+File: classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GNoEspaco.pdf Graphic file 
+(type pdf)
+<use classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GNoEspaco.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GNoEspac
+o.pdf  used on input line 6.
+(pdftex.def)             Requested size: 178.53827pt x 56.9055pt.
+ [61] [62])
+(./classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GNovoShip.tex <./classPlanet__
+Bound_1_1ui_1_1gui_1_1estados_1_1GNovoShip.pdf>
+<classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GNovoShip.pdf, id=5196, 501.875p
+t x 161.89484pt>
+File: classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GNovoShip.pdf Graphic file 
+(type pdf)
+<use classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GNovoShip.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GNovoShi
+p.pdf  used on input line 6.
+(pdftex.def)             Requested size: 176.40936pt x 56.9055pt.
+ [63] [64])
+(./classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GRecursos.tex <./classPlanet__Bou
+nd_1_1ui_1_1gui_1_1info_1_1GRecursos.pdf>
+<classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GRecursos.pdf, id=5228, 501.875pt x
+ 179.23964pt>
+File: classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GRecursos.pdf Graphic file (ty
+pe pdf)
+<use classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GRecursos.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GRecursos.p
+df  used on input line 6.
+(pdftex.def)             Requested size: 159.33205pt x 56.9055pt.
+ [65] [66])
+(./classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GResumo.tex <./classPlanet__Bound
+_1_1ui_1_1gui_1_1info_1_1GResumo.pdf>
+<classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GResumo.pdf, id=5270, 501.875pt x 1
+86.7477pt>
+File: classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GResumo.pdf Graphic file (type
+ pdf)
+<use classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GResumo.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GResumo.pdf
+  used on input line 6.
+(pdftex.def)             Requested size: 152.92998pt x 56.9055pt.
+ [67])
+(./classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GTerreno.tex <./classPlanet__B
+ound_1_1ui_1_1gui_1_1estados_1_1GTerreno.pdf>
+<classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GTerreno.pdf, id=5295, 501.875pt
+ x 168.70027pt>
+File: classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GTerreno.pdf Graphic file (
+type pdf)
+<use classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GTerreno.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1ui_1_1gui_1_1estados_1_1GTerreno
+.pdf  used on input line 6.
+(pdftex.def)             Requested size: 169.28743pt x 56.9055pt.
+ [68] [69] [70])
+(./classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GTop.tex <./classPlanet__Bound_1_
+1ui_1_1gui_1_1info_1_1GTop.pdf>
+<classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GTop.pdf, id=5356, 501.875pt x 209.
+11124pt>
+File: classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GTop.pdf Graphic file (type pd
+f)
+<use classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GTop.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1GTop.pdf  u
+sed on input line 6.
+(pdftex.def)             Requested size: 136.57251pt x 56.9055pt.
+ [71] [72])
+(./classPlanet__Bound_1_1ui_1_1gui_1_1Gui.tex <./classPlanet__Bound_1_1ui_1_1gu
+i_1_1Gui.pdf>
+<classPlanet__Bound_1_1ui_1_1gui_1_1Gui.pdf, id=5392, 501.875pt x 257.37154pt>
+File: classPlanet__Bound_1_1ui_1_1gui_1_1Gui.pdf Graphic file (type pdf)
+<use classPlanet__Bound_1_1ui_1_1gui_1_1Gui.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1ui_1_1gui_1_1Gui.pdf  used on in
+put line 6.
+(pdftex.def)             Requested size: 110.9642pt x 56.9055pt.
+ [73] [74]) (./classPlanet__Bound_1_1ui_1_1gui_1_1Helper.tex
+[75]) (./interfacePlanet__Bound_1_1logica_1_1estados_1_1IEstado.tex <./interfac
+ePlanet__Bound_1_1logica_1_1estados_1_1IEstado.pdf>
+<interfacePlanet__Bound_1_1logica_1_1estados_1_1IEstado.pdf, id=5456, 501.875pt
+ x 16.64218pt>
+File: interfacePlanet__Bound_1_1logica_1_1estados_1_1IEstado.pdf Graphic file (
+type pdf)
+<use interfacePlanet__Bound_1_1logica_1_1estados_1_1IEstado.pdf>
+Package pdftex.def Info: interfacePlanet__Bound_1_1logica_1_1estados_1_1IEstado
+.pdf  used on input line 6.
+(pdftex.def)             Requested size: 398.33012pt x 13.20828pt.
+ [76]
+Overfull \hbox (178.51724pt too wide) in paragraph at lines 63--64
+[]\T1/phv/m/n/10 Implementado em [], [],
+ []
+
+
+Overfull \hbox (219.15129pt too wide) in paragraph at lines 63--64
+[]\T1/phv/m/n/10 , [],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+[]\T1/phv/m/n/10 , [] e
+ []
+
+[77]
+Overfull \hbox (28.4963pt too wide) in paragraph at lines 111--112
+[]\T1/phv/m/n/10 Implementado em [] e []. 
+ []
+
+[78]
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+[]\T1/phv/m/n/10 Implementado em [],
+ []
+
+
+Overfull \hbox (82.02968pt too wide) in paragraph at lines 149--150
+[]\T1/phv/m/n/10 , [],
+ []
+
+
+Overfull \hbox (87.14847pt too wide) in paragraph at lines 149--150
+[] \T1/phv/m/n/10 e []. 
+ []
+
+) (./classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1extraInfo_1_1InfoEspaco.tex <./
+classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1extraInfo_1_1InfoEspaco.pdf>
+<classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1extraInfo_1_1InfoEspaco.pdf, id=554
+2, 501.875pt x 144.41956pt>
+File: classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1extraInfo_1_1InfoEspaco.pdf Gr
+aphic file (type pdf)
+<use classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1extraInfo_1_1InfoEspaco.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1extraInfo_1
+_1InfoEspaco.pdf  used on input line 6.
+(pdftex.def)             Requested size: 197.75217pt x 56.9055pt.
+
+[79])
+(./classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1extraInfo_1_1InfoPlaneta.tex <./c
+lassPlanet__Bound_1_1ui_1_1gui_1_1info_1_1extraInfo_1_1InfoPlaneta.pdf>
+<classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1extraInfo_1_1InfoPlaneta.pdf, id=55
+62, 501.875pt x 144.41956pt>
+File: classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1extraInfo_1_1InfoPlaneta.pdf G
+raphic file (type pdf)
+<use classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1extraInfo_1_1InfoPlaneta.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1ui_1_1gui_1_1info_1_1extraInfo_1
+_1InfoPlaneta.pdf  used on input line 6.
+(pdftex.def)             Requested size: 197.75217pt x 56.9055pt.
+
+[80] [81]) (./classPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno.tex [82]
+Underfull \hbox (badness 10000) detected at line 74
+[][][]
+ []
+
+[83]
+Underfull \hbox (badness 10000) detected at line 90
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 106
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 119
+[][][]
+ []
+
+[84]) (./classPlanet__Bound_1_1Main.tex [85])
+(./classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1NoEspaco.tex <./class
+Planet__Bound_1_1logica_1_1estados_1_1noespaco_1_1NoEspaco.pdf>
+<classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1NoEspaco.pdf, id=5669, 
+501.875pt x 99.05005pt>
+File: classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1NoEspaco.pdf Graph
+ic file (type pdf)
+<use classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1NoEspaco.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_
+1NoEspaco.pdf  used on input line 11.
+(pdftex.def)             Requested size: 398.36076pt x 78.61931pt.
+ [86]
+Underfull \hbox (badness 10000) detected at line 66
+[][][]
+ []
+
+[87]
+Underfull \hbox (badness 10000) detected at line 129
+[][][]
+ []
+
+) (./classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno.tex <./c
+lassPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno.pdf>
+<classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno.pdf, id=5717
+, 501.875pt x 98.08646pt>
+File: classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno.pdf Gra
+phic file (type pdf)
+<use classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1_1NoTerreno.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1estados_1_1noterreno_1
+_1NoTerreno.pdf  used on input line 11.
+(pdftex.def)             Requested size: 398.33778pt x 77.85129pt.
+ [88])
+(./classPlanet__Bound_1_1logica_1_1estados_1_1birthanddeath_1_1NovoShip.tex <./
+classPlanet__Bound_1_1logica_1_1estados_1_1birthanddeath_1_1NovoShip.pdf>
+<classPlanet__Bound_1_1logica_1_1estados_1_1birthanddeath_1_1NovoShip.pdf, id=5
+747, 501.875pt x 93.2283pt>
+File: classPlanet__Bound_1_1logica_1_1estados_1_1birthanddeath_1_1NovoShip.pdf 
+Graphic file (type pdf)
+<use classPlanet__Bound_1_1logica_1_1estados_1_1birthanddeath_1_1NovoShip.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1estados_1_1birthanddea
+th_1_1NovoShip.pdf  used on input line 6.
+(pdftex.def)             Requested size: 398.33778pt x 73.9947pt.
+
+[89] [90]) (./enumPlanet__Bound_1_1logica_1_1dados_1_1aux_1_1Officer.tex
+[91])
+(./classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestation_1
+_1OnSpaceStation.tex <./classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1
+menusdospacestation_1_1OnSpaceStation.pdf>
+<classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestation_1_1
+OnSpaceStation.pdf, id=5800, 501.875pt x 65.32405pt>
+File: classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestatio
+n_1_1OnSpaceStation.pdf Graphic file (type pdf)
+<use classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_1menusdospacestation
+_1_1OnSpaceStation.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1estados_1_1noespaco_1_
+1menusdospacestation_1_1OnSpaceStation.pdf  used on input line 6.
+(pdftex.def)             Requested size: 398.33012pt x 51.84456pt.
+ [92]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+[] \T1/pcr/m/n/8 Planet[]_[][]Bound.[]logica.[]estados.[]noespaco.[]menusdospac
+estation.[]On[]Space[]Station.[]get[]Estado (
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\T1/pcr/m/n/8 boolean Planet[]_[][]Bound.[]logica.[]estados.[]noespaco.[]menusd
+ospacestation.[]On[]Space[]Station.[]resource[]Existe
+ []
+
+[93]) (./classPlanet__Bound_1_1logica_1_1dados_1_1aux_1_1Options.tex <./classPl
+anet__Bound_1_1logica_1_1dados_1_1aux_1_1Options.pdf>
+<classPlanet__Bound_1_1logica_1_1dados_1_1aux_1_1Options.pdf, id=5837, 501.875p
+t x 163.88226pt>
+File: classPlanet__Bound_1_1logica_1_1dados_1_1aux_1_1Options.pdf Graphic file 
+(type pdf)
+<use classPlanet__Bound_1_1logica_1_1dados_1_1aux_1_1Options.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1dados_1_1aux_1_1Option
+s.pdf  used on input line 6.
+(pdftex.def)             Requested size: 174.26512pt x 56.9055pt.
+ [94] [95] [96])
+(./enumPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1PlanetType.te
+x [97])
+(./enumPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Resource.tex
+[98] [99])
+(./classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1_1R
+esourceInPlanet.tex <./classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandpla
+nets_1_1Terreno_1_1ResourceInPlanet.pdf>
+<classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1_1Res
+ourceInPlanet.pdf, id=5944, 501.875pt x 89.62483pt>
+File: classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1
+_1ResourceInPlanet.pdf Graphic file (type pdf)
+<use classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno_1_
+1ResourceInPlanet.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandp
+lanets_1_1Terreno_1_1ResourceInPlanet.pdf  used on input line 6.
+(pdftex.def)             Requested size: 318.66411pt x 56.9055pt.
+ [100]
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+[] \T1/pcr/m/n/8 Planet[]_[][]Bound.[]logica.[]dados.[]resourcesandplanets.[]Te
+rreno.[]Resource[]In[]Planet.[]get[]Resource[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+\T1/pcr/m/n/8 boolean Planet[]_[][]Bound.[]logica.[]dados.[]resourcesandplanets
+.[]Terreno.[]Resource[]In[]Planet.[]apanhado[]Pelo[]
+ []
+
+)
+(./classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1ResourceType
+s.tex <./classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Resour
+ceTypes.pdf>
+<classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1ResourceTypes.
+pdf, id=5974, 501.875pt x 103.47658pt>
+File: classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1ResourceT
+ypes.pdf Graphic file (type pdf)
+<use classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1ResourceTy
+pes.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandp
+lanets_1_1ResourceTypes.pdf  used on input line 6.
+(pdftex.def)             Requested size: 276.00146pt x 56.9055pt.
+ [101]
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+\T1/pcr/m/n/8 List$\OML/cmm/m/it/8 <$[]$>$ \T1/pcr/m/n/8 Planet[]_[][]Bound.[]l
+ogica.[]dados.[]resourcesandplanets.[]Resource[]Types.[]get[]Normal[]Resources
+ []
+
+[102]
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+\T1/pcr/m/n/8 final Vector$\OML/cmm/m/it/8 <$[]$>$ \T1/pcr/m/n/8 Planet[]_[][]B
+ound.[]logica.[]dados.[]resourcesandplanets.[]Resource[]Types.[]planet[]Black
+ []
+
+[103]
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+\T1/pcr/m/n/8 final Vector$\OML/cmm/m/it/8 <$[]$>$ \T1/pcr/m/n/8 Planet[]_[][]B
+ound.[]logica.[]dados.[]resourcesandplanets.[]Resource[]Types.[]planet[]Blue
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+\T1/pcr/m/n/8 final Vector$\OML/cmm/m/it/8 <$[]$>$ \T1/pcr/m/n/8 Planet[]_[][]B
+ound.[]logica.[]dados.[]resourcesandplanets.[]Resource[]Types.[]planet[]Green
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+\T1/pcr/m/n/8 final Vector$\OML/cmm/m/it/8 <$[]$>$ \T1/pcr/m/n/8 Planet[]_[][]B
+ound.[]logica.[]dados.[]resourcesandplanets.[]Resource[]Types.[]planet[]Red
+ []
+
+
+Overfull \hbox (19.13118pt too wide) in paragraph at lines 151--152
+\T1/pcr/m/n/8 Vector$\OML/cmm/m/it/8 <$[]$>$ []$ $[] \T1/pcr/m/n/8 Planet[]_[][
+]Bound.[]logica.[]dados.[]resourcesandplanets.[]Resource[]Types.[]planets [priv
+ate] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\T1/pcr/m/n/8 final Vector$\OML/cmm/m/it/8 <$[]$>$ \T1/pcr/m/n/8 Planet[]_[][]B
+ound.[]logica.[]dados.[]resourcesandplanets.[]Resource[]Types.[]recursos
+ []
+
+) (./classPlanet__Bound_1_1ui_1_1gui_1_1Root.tex <./classPlanet__Bound_1_1ui_1_
+1gui_1_1Root.pdf>
+<classPlanet__Bound_1_1ui_1_1gui_1_1Root.pdf, id=6064, 501.875pt x 247.83592pt>
+
+File: classPlanet__Bound_1_1ui_1_1gui_1_1Root.pdf Graphic file (type pdf)
+<use classPlanet__Bound_1_1ui_1_1gui_1_1Root.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1ui_1_1gui_1_1Root.pdf  used on i
+nput line 6.
+(pdftex.def)             Requested size: 115.2297pt x 56.9055pt.
+ [104] [105])
+(./enumPlanet__Bound_1_1ui_1_1gui_1_1Root_1_1RootBackground.tex [106])
+(./classPlanet__Bound_1_1logica_1_1Ship.tex <./classPlanet__Bound_1_1logica_1_1
+Ship.pdf>
+<classPlanet__Bound_1_1logica_1_1Ship.pdf, id=6120, 501.875pt x 243.32907pt>
+File: classPlanet__Bound_1_1logica_1_1Ship.pdf Graphic file (type pdf)
+<use classPlanet__Bound_1_1logica_1_1Ship.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1Ship.pdf  used on inpu
+t line 6.
+(pdftex.def)             Requested size: 117.36629pt x 56.9055pt.
+ [107] [108]
+
+Package hyperref Warning: Suppressing link with empty target on input line 113.
+
+
+[109]
+Underfull \hbox (badness 10000) detected at line 177
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 180
+[][][]
+ []
+
+[110] [111]) (./classPlanet__Bound_1_1logica_1_1dados_1_1ship_1_1ShipDados.tex 
+<./classPlanet__Bound_1_1logica_1_1dados_1_1ship_1_1ShipDados.pdf>
+<classPlanet__Bound_1_1logica_1_1dados_1_1ship_1_1ShipDados.pdf, id=6260, 501.8
+75pt x 150.94392pt>
+File: classPlanet__Bound_1_1logica_1_1dados_1_1ship_1_1ShipDados.pdf Graphic fi
+le (type pdf)
+<use classPlanet__Bound_1_1logica_1_1dados_1_1ship_1_1ShipDados.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1dados_1_1ship_1_1ShipD
+ados.pdf  used on input line 11.
+(pdftex.def)             Requested size: 189.20586pt x 56.9055pt.
+ [112]
+[113] [114] [115] [116] [117])
+(./classPlanet__Bound_1_1logica_1_1ShipObservavel.tex <./classPlanet__Bound_1_1
+logica_1_1ShipObservavel.pdf>
+<classPlanet__Bound_1_1logica_1_1ShipObservavel.pdf, id=6432, 501.875pt x 173.8
+0936pt>
+File: classPlanet__Bound_1_1logica_1_1ShipObservavel.pdf Graphic file (type pdf
+)
+<use classPlanet__Bound_1_1logica_1_1ShipObservavel.pdf>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1ShipObservavel.pdf  us
+ed on input line 6.
+(pdftex.def)             Requested size: 164.30974pt x 56.9055pt.
+ [118] [119] [120] [121] [122] [123] [124])
+(./enumPlanet__Bound_1_1logica_1_1dados_1_1ship_1_1ShipType.tex <./enumPlanet__
+Bound_1_1logica_1_1dados_1_1ship_1_1ShipType.pdf>
+<enumPlanet__Bound_1_1logica_1_1dados_1_1ship_1_1ShipType.pdf, id=6588, 501.875
+pt x 155.6214pt>
+File: enumPlanet__Bound_1_1logica_1_1dados_1_1ship_1_1ShipType.pdf Graphic file
+ (type pdf)
+<use enumPlanet__Bound_1_1logica_1_1dados_1_1ship_1_1ShipType.pdf>
+Package pdftex.def Info: enumPlanet__Bound_1_1logica_1_1dados_1_1ship_1_1ShipTy
+pe.pdf  used on input line 6.
+(pdftex.def)             Requested size: 183.51596pt x 56.9055pt.
+ [125])
+(./classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno.tex 
+<./classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno.pdf>
+<classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno.pdf, i
+d=6603, 501.875pt x 116.37477pt>
+File: classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno.p
+df Graphic file (type pdf)
+<use classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandplanets_1_1Terreno.pd
+f>
+Package pdftex.def Info: classPlanet__Bound_1_1logica_1_1dados_1_1resourcesandp
+lanets_1_1Terreno.pdf  used on input line 6.
+(pdftex.def)             Requested size: 245.41547pt x 56.9055pt.
+[126] [127] [128]
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+\T1/pcr/m/n/8 static [] Planet[]_[][]Bound.[]logica.[]dados.[]resourcesandplane
+ts.[]Terreno.[]random[]Direction ( )
+ []
+
+[129] [130]) (./enumPlanet__Bound_1_1logica_1_1Ship_1_1ITerreno_1_1types.tex)
+[131] [132
+
+]
+Cap\'{\i }tulo 10.
+(./Direcoes_8java.tex) (./Officer_8java.tex) (./Options_8java.tex)
+(./Event_8java.tex [133]) (./EventType_8java.tex) (./PlanetType_8java.tex)
+(./Resource_8java.tex) (./ResourceTypes_8java.tex [134]) (./Terreno_8java.tex)
+(./ShipDados_8java.tex) (./ShipType_8java.tex) (./GameOver_8java.tex [135])
+(./NovoShip_8java.tex) (./EstadoAdapter_8java.tex) (./EstadoJogo_8java.tex
+[136]) (./IEstado_8java.tex) (./ConversionP1_8java.tex)
+(./ConversionP2_8java.tex) (./OnSpaceStation_8java.tex [137])
+(./NoEspaco_8java.tex) (./NoTerreno_8java.tex) (./Ship_8java.tex [138])
+(./ShipObservavel_8java.tex) (./Main_8java.tex) (./GEscolha_8java.tex)
+(./GGameOver_8java.tex [139]) (./GNoEspaco_8java.tex) (./GNovoShip_8java.tex)
+(./GTerreno_8java.tex) (./Gui_8java.tex [140]) (./Helper_8java.tex)
+(./InfoEspaco_8java.tex) (./InfoPlaneta_8java.tex) (./GLog_8java.tex [141])
+(./GRecursos_8java.tex) (./GResumo_8java.tex) (./GTop_8java.tex)
+(./GMenu_8java.tex [142]) (./Root_8java.tex) [143] [144
+
+] (./refman.ind
+Overfull \hbox (50.29124pt too wide) in paragraph at lines 18--20
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Alien
+,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 23--25
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (70.30687pt too wide) in paragraph at lines 25--27
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Entid
+ades,
+ []
+
+
+Overfull \hbox (36.22461pt too wide) in paragraph at lines 32--34
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Resource,
+ []
+
+
+Overfull \hbox (101.8153pt too wide) in paragraph at lines 35--37
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Resou
+rceInPlanet,
+ []
+
+
+Overfull \hbox (36.22461pt too wide) in paragraph at lines 48--50
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Resource,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 51--53
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (50.29124pt too wide) in paragraph at lines 54--56
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Alien
+,
+ []
+
+
+Overfull \hbox (42.15541pt too wide) in paragraph at lines 67--69
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.PlanetType,
+ []
+
+
+Overfull \hbox (36.22461pt too wide) in paragraph at lines 69--71
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Resource,
+ []
+
+
+Overfull \hbox (42.15541pt too wide) in paragraph at lines 72--74
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.PlanetType,
+ []
+
+
+Overfull \hbox (36.22461pt too wide) in paragraph at lines 74--76
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Resource,
+ []
+
+[145
+
+
+]
+Overfull \hbox (151.6566pt too wide) in paragraph at lines 117--119
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.co
+nversion.ConversionP1,
+ []
+
+
+Overfull \hbox (151.6566pt too wide) in paragraph at lines 120--122
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.co
+nversion.ConversionP2,
+ []
+
+
+Overfull \hbox (151.6566pt too wide) in paragraph at lines 129--131
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.co
+nversion.ConversionP2,
+ []
+
+
+Overfull \hbox (65.8069pt too wide) in paragraph at lines 142--144
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Entid
+ade,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 145--147
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 148--150
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (50.29124pt too wide) in paragraph at lines 154--156
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Alien
+,
+ []
+
+
+Overfull \hbox (54.79121pt too wide) in paragraph at lines 194--196
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Drone
+,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 199--201
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (70.30687pt too wide) in paragraph at lines 201--203
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Entid
+ades,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 213--215
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (65.8069pt too wide) in paragraph at lines 228--230
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Entid
+ade,
+ []
+
+[146]
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 251--253
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+
+Overfull \hbox (36.22461pt too wide) in paragraph at lines 254--256
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Resource,
+ []
+
+
+Overfull \hbox (20.49239pt too wide) in paragraph at lines 265--267
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.birthanddeath.GameOver,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 296--298
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (50.29124pt too wide) in paragraph at lines 305--307
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Alien
+,
+ []
+
+
+Overfull \hbox (65.8069pt too wide) in paragraph at lines 314--316
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Entid
+ade,
+ []
+
+
+Overfull \hbox (65.8069pt too wide) in paragraph at lines 317--319
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Entid
+ade,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 320--322
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (50.29124pt too wide) in paragraph at lines 324--326
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Alien
+,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 327--329
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (20.49239pt too wide) in paragraph at lines 333--335
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.birthanddeath.GameOver,
+ []
+
+
+Overfull \hbox (15.36258pt too wide) in paragraph at lines 335--337
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.birthanddeath.NovoShip,
+ []
+
+
+Overfull \hbox (151.6566pt too wide) in paragraph at lines 338--340
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.co
+nversion.ConversionP1,
+ []
+
+
+Overfull \hbox (151.6566pt too wide) in paragraph at lines 340--342
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.co
+nversion.ConversionP2,
+ []
+
+
+Overfull \hbox (115.46793pt too wide) in paragraph at lines 342--344
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.On
+SpaceStation,
+ []
+
+
+Overfull \hbox (54.79121pt too wide) in paragraph at lines 367--369
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Drone
+,
+ []
+
+[147]
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 375--377
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 378--380
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 399--401
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 406--408
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 419--421
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 422--424
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 425--427
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 428--430
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 435--437
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 441--443
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (101.8153pt too wide) in paragraph at lines 444--446
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Resou
+rceInPlanet,
+ []
+
+
+Overfull \hbox (50.29124pt too wide) in paragraph at lines 467--469
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Alien
+,
+ []
+
+[148]
+Overfull \hbox (42.15541pt too wide) in paragraph at lines 496--498
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.PlanetType,
+ []
+
+
+Overfull \hbox (36.22461pt too wide) in paragraph at lines 498--500
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Resource,
+ []
+
+
+Overfull \hbox (54.79121pt too wide) in paragraph at lines 529--531
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Drone
+,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 551--553
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (151.6566pt too wide) in paragraph at lines 583--585
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.co
+nversion.ConversionP1,
+ []
+
+
+Overfull \hbox (151.6566pt too wide) in paragraph at lines 585--587
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.co
+nversion.ConversionP2,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 590--592
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 593--595
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (151.6566pt too wide) in paragraph at lines 596--598
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.co
+nversion.ConversionP2,
+ []
+
+
+Overfull \hbox (54.79121pt too wide) in paragraph at lines 601--603
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Drone
+,
+ []
+
+
+Overfull \hbox (20.49239pt too wide) in paragraph at lines 613--615
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.birthanddeath.GameOver,
+ []
+
+[149]
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 652--654
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (65.8069pt too wide) in paragraph at lines 655--657
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Entid
+ade,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 658--660
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (65.8069pt too wide) in paragraph at lines 661--663
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Entid
+ade,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 664--666
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (65.8069pt too wide) in paragraph at lines 667--669
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Entid
+ade,
+ []
+
+
+Overfull \hbox (65.8069pt too wide) in paragraph at lines 670--672
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Entid
+ade,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 680--682
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (65.8069pt too wide) in paragraph at lines 683--685
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Entid
+ade,
+ []
+
+
+Overfull \hbox (20.49239pt too wide) in paragraph at lines 699--701
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.birthanddeath.GameOver,
+ []
+
+
+Overfull \hbox (15.36258pt too wide) in paragraph at lines 714--716
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.birthanddeath.NovoShip,
+ []
+
+
+Overfull \hbox (115.46793pt too wide) in paragraph at lines 726--728
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.On
+SpaceStation,
+ []
+
+
+Overfull \hbox (151.6566pt too wide) in paragraph at lines 729--731
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.co
+nversion.ConversionP1,
+ []
+
+
+Overfull \hbox (151.6566pt too wide) in paragraph at lines 731--733
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.co
+nversion.ConversionP2,
+ []
+
+[150]
+Overfull \hbox (22.15541pt too wide) in paragraph at lines 817--819
+[]\T1/phv/m/n/10 Planet_Bound.logica.dados.resourcesandplanets.PlanetType,
+ []
+
+
+Overfull \hbox (16.22461pt too wide) in paragraph at lines 823--825
+[]\T1/phv/m/n/10 Planet_Bound.logica.dados.resourcesandplanets.Resource,
+ []
+
+
+Overfull \hbox (39.65135pt too wide) in paragraph at lines 833--835
+[]\T1/phv/m/n/10 Planet_Bound.logica.dados.resourcesandplanets.ResourceTypes,
+ []
+
+
+Overfull \hbox (30.29124pt too wide) in paragraph at lines 875--877
+[]\T1/phv/m/n/10 Planet_Bound.logica.dados.resourcesandplanets.Terreno.Alien,
+ []
+
+[151]
+Overfull \hbox (34.79121pt too wide) in paragraph at lines 884--886
+[]\T1/phv/m/n/10 Planet_Bound.logica.dados.resourcesandplanets.Terreno.Drone,
+ []
+
+
+Overfull \hbox (45.8069pt too wide) in paragraph at lines 890--892
+[]\T1/phv/m/n/10 Planet_Bound.logica.dados.resourcesandplanets.Terreno.Entidade
+,
+ []
+
+
+Overfull \hbox (50.30687pt too wide) in paragraph at lines 901--903
+[]\T1/phv/m/n/10 Planet_Bound.logica.dados.resourcesandplanets.Terreno.Entidade
+s,
+ []
+
+
+Overfull \hbox (81.8153pt too wide) in paragraph at lines 906--908
+[]\T1/phv/m/n/10 Planet_Bound.logica.dados.resourcesandplanets.Terreno.Resource
+InPlanet,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 948--950
+[]\T1/phv/m/n/10 Planet_Bound.logica.estados.birthanddeath.NovoShip,
+ []
+
+
+Overfull \hbox (27.42935pt too wide) in paragraph at lines 985--987
+[]\T1/phv/m/n/10 Planet_Bound.logica.estados.noespaco.menusdospacestation,
+ []
+
+
+Overfull \hbox (73.0406pt too wide) in paragraph at lines 987--989
+[]\T1/phv/m/n/10 Planet_Bound.logica.estados.noespaco.menusdospacestation.conve
+rsion,
+ []
+
+
+Overfull \hbox (131.6566pt too wide) in paragraph at lines 989--991
+[]\T1/phv/m/n/10 Planet_Bound.logica.estados.noespaco.menusdospacestation.conve
+rsion.ConversionP1,
+ []
+
+[152]
+Overfull \hbox (131.6566pt too wide) in paragraph at lines 996--998
+[]\T1/phv/m/n/10 Planet_Bound.logica.estados.noespaco.menusdospacestation.conve
+rsion.ConversionP2,
+ []
+
+
+Overfull \hbox (95.46793pt too wide) in paragraph at lines 1006--1008
+[]\T1/phv/m/n/10 Planet_Bound.logica.estados.noespaco.menusdospacestation.OnSpa
+ceStation,
+ []
+
+[153] [154]
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 1244--1246
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 1247--1249
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 1250--1252
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 1253--1255
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 1256--1258
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 1289--1291
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 1298--1300
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 1305--1307
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+
+Overfull \hbox (42.15541pt too wide) in paragraph at lines 1309--1311
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.PlanetType,
+ []
+
+
+Overfull \hbox (36.22461pt too wide) in paragraph at lines 1311--1313
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Resource,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 1323--1325
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (70.30687pt too wide) in paragraph at lines 1325--1327
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Entid
+ades,
+ []
+
+
+Overfull \hbox (151.6566pt too wide) in paragraph at lines 1331--1333
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.co
+nversion.ConversionP2,
+ []
+
+
+Overfull \hbox (115.46793pt too wide) in paragraph at lines 1333--1335
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.On
+SpaceStation,
+ []
+
+
+Overfull \hbox (101.8153pt too wide) in paragraph at lines 1337--1339
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Resou
+rceInPlanet,
+ []
+
+
+Overfull \hbox (101.8153pt too wide) in paragraph at lines 1342--1344
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Resou
+rceInPlanet,
+ []
+
+
+Overfull \hbox (59.65135pt too wide) in paragraph at lines 1345--1347
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.ResourceTypes
+,
+ []
+
+[155]
+Overfull \hbox (15.36258pt too wide) in paragraph at lines 1401--1403
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.birthanddeath.NovoShip,
+ []
+
+
+Overfull \hbox (151.6566pt too wide) in paragraph at lines 1406--1408
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.co
+nversion.ConversionP1,
+ []
+
+
+Overfull \hbox (151.6566pt too wide) in paragraph at lines 1408--1410
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.co
+nversion.ConversionP2,
+ []
+
+
+Overfull \hbox (115.46793pt too wide) in paragraph at lines 1410--1412
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.On
+SpaceStation,
+ []
+
+
+Overfull \hbox (36.22461pt too wide) in paragraph at lines 1444--1446
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Resource,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1483--1485
+[]\T1/phv/m/n/10 src/Planet_Bound/logica/dados/events/EventType.java,
+ []
+
+
+Overfull \hbox (55.39175pt too wide) in paragraph at lines 1485--1487
+[]\T1/phv/m/n/10 src/Planet_Bound/logica/dados/resourcesandplanets/PlanetType.j
+ava,
+ []
+
+
+Overfull \hbox (49.46095pt too wide) in paragraph at lines 1487--1489
+[]\T1/phv/m/n/10 src/Planet_Bound/logica/dados/resourcesandplanets/Resource.jav
+a,
+ []
+
+[156]
+Overfull \hbox (72.8877pt too wide) in paragraph at lines 1489--1491
+[]\T1/phv/m/n/10 src/Planet_Bound/logica/dados/resourcesandplanets/ResourceType
+s.java,
+ []
+
+
+Overfull \hbox (41.154pt too wide) in paragraph at lines 1491--1493
+[]\T1/phv/m/n/10 src/Planet_Bound/logica/dados/resourcesandplanets/Terreno.java
+,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1493--1495
+[]\T1/phv/m/n/10 src/Planet_Bound/logica/dados/ship/ShipDados.java,
+ []
+
+
+Overfull \hbox (33.27872pt too wide) in paragraph at lines 1497--1499
+[]\T1/phv/m/n/10 src/Planet_Bound/logica/estados/birthanddeath/GameOver.java,
+ []
+
+
+Overfull \hbox (28.28394pt too wide) in paragraph at lines 1499--1501
+[]\T1/phv/m/n/10 src/Planet_Bound/logica/estados/birthanddeath/NovoShip.java,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1501--1503
+[]\T1/phv/m/n/10 src/Planet_Bound/logica/estados/EstadoAdapter.java,
+ []
+
+
+Overfull \hbox (165.25287pt too wide) in paragraph at lines 1507--1509
+[]\T1/phv/m/n/10 src/Planet_Bound/logica/estados/noespaco/menusdospacestation/c
+onversion/ConversionP1.java,
+ []
+
+
+Overfull \hbox (165.25287pt too wide) in paragraph at lines 1509--1511
+[]\T1/phv/m/n/10 src/Planet_Bound/logica/estados/noespaco/menusdospacestation/c
+onversion/ConversionP2.java,
+ []
+
+
+Overfull \hbox (129.0642pt too wide) in paragraph at lines 1511--1513
+[]\T1/phv/m/n/10 src/Planet_Bound/logica/estados/noespaco/menusdospacestation/O
+nSpaceStation.java,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1532--1534
+[]\T1/phv/m/n/10 src/Planet_Bound/ui/gui/info/extraInfo/InfoEspaco.java,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1534--1536
+[]\T1/phv/m/n/10 src/Planet_Bound/ui/gui/info/extraInfo/InfoPlaneta.java,
+ []
+
+
+Overfull \hbox (28.14267pt too wide) in paragraph at lines 1553--1555
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno,
+ []
+
+
+Overfull \hbox (20.49239pt too wide) in paragraph at lines 1566--1568
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.birthanddeath.GameOver,
+ []
+
+
+Overfull \hbox (50.29124pt too wide) in paragraph at lines 1569--1571
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.dados.resourcesandplanets.Terreno.Alien
+,
+ []
+
+
+Overfull \hbox (115.46793pt too wide) in paragraph at lines 1600--1602
+[]| \T1/phv/m/n/10 Pla-net_Bound.logica.estados.noespaco.menusdospacestation.On
+SpaceStation,
+ []
+
+[157])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 312.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 312.
+ (./refman.aux (./group__secops.aux) (./group__group__shipDadosEvents.aux) (./g
+roup__group__getsfromShipDados.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 312.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 312.
+
+
+Package rerunfilecheck Warning: File `refman.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `refman.out':
+(rerunfilecheck)             Before: 22364F9279E39527F031F896E1B4E42C;168412
+(rerunfilecheck)             After:  8A146E6F8DC8621872EE942546D93D7B;168493.
+ ) 
+Here is how much of TeX's memory you used:
+ 20770 strings out of 480478
+ 401456 string characters out of 5905960
+ 794785 words of memory out of 5000000
+ 34474 multiletter control sequences out of 15000+600000
+ 591284 words of font info for 93 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,16n,96p,1628b,766s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/
+share/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texmf-dist/font
+s/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/courier/u
+crro8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/sha
+re/texmf-dist/fonts/type1/urw/helvetic/uhvb8ac.pfb></usr/share/texmf-dist/fonts
+/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/
+uhvro8a.pfb>
+Output written on refman.pdf (177 pages, 721902 bytes).
+PDF statistics:
+ 8461 PDF objects out of 8907 (max. 8388607)
+ 8117 compressed objects within 82 object streams
+ 1745 named destinations out of 2073 (max. 500000)
+ 5941 words of extra memory for PDF output out of 10000 (max. 10000000)
+

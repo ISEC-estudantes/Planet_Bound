@@ -1,0 +1,1043 @@
+\indexentry{Randomizes@{Randomizes}|hyperpage}{13}
+\indexentry{Randomizes@{Randomizes}!eventosnormais@{eventosnormais}|hyperpage}{13}
+\indexentry{eventosnormais@{eventosnormais}!Randomizes@{Randomizes}|hyperpage}{13}
+\indexentry{Randomizes@{Randomizes}!resourceTypes@{resourceTypes}|hyperpage}{13}
+\indexentry{resourceTypes@{resourceTypes}!Randomizes@{Randomizes}|hyperpage}{13}
+\indexentry{Secção das opções@{Secção das opções}|hyperpage}{14}
+\indexentry{Secção das opções@{Secção das opções}!addOfficer@{addOfficer}|hyperpage}{14}
+\indexentry{addOfficer@{addOfficer}!Secção das opções@{Secção das opções}|hyperpage}{14}
+\indexentry{Secção das opções@{Secção das opções}!addXResourcesOfTypeY@{addXResourcesOfTypeY}|hyperpage}{15}
+\indexentry{addXResourcesOfTypeY@{addXResourcesOfTypeY}!Secção das opções@{Secção das opções}|hyperpage}{15}
+\indexentry{Secção das opções@{Secção das opções}!deleteAllResourcesOfTypeY@{deleteAllResourcesOfTypeY}|hyperpage}{15}
+\indexentry{deleteAllResourcesOfTypeY@{deleteAllResourcesOfTypeY}!Secção das opções@{Secção das opções}|hyperpage}{15}
+\indexentry{Secção das opções@{Secção das opções}!deleteXResourcesOfTypeY@{deleteXResourcesOfTypeY}|hyperpage}{15}
+\indexentry{deleteXResourcesOfTypeY@{deleteXResourcesOfTypeY}!Secção das opções@{Secção das opções}|hyperpage}{15}
+\indexentry{Secção das opções@{Secção das opções}!getCargoHold@{getCargoHold}|hyperpage}{15}
+\indexentry{getCargoHold@{getCargoHold}!Secção das opções@{Secção das opções}|hyperpage}{15}
+\indexentry{Secção das opções@{Secção das opções}!getMaxOfResourceY@{getMaxOfResourceY}|hyperpage}{15}
+\indexentry{getMaxOfResourceY@{getMaxOfResourceY}!Secção das opções@{Secção das opções}|hyperpage}{15}
+\indexentry{Secção das opções@{Secção das opções}!getNdeYRecursos@{getNdeYRecursos}|hyperpage}{15}
+\indexentry{getNdeYRecursos@{getNdeYRecursos}!Secção das opções@{Secção das opções}|hyperpage}{15}
+\indexentry{Secção das opções@{Secção das opções}!getOfficers@{getOfficers}|hyperpage}{16}
+\indexentry{getOfficers@{getOfficers}!Secção das opções@{Secção das opções}|hyperpage}{16}
+\indexentry{Secção das opções@{Secção das opções}!getOptions@{getOptions}|hyperpage}{16}
+\indexentry{getOptions@{getOptions}!Secção das opções@{Secção das opções}|hyperpage}{16}
+\indexentry{Secção das opções@{Secção das opções}!getResourceTypes@{getResourceTypes}|hyperpage}{16}
+\indexentry{getResourceTypes@{getResourceTypes}!Secção das opções@{Secção das opções}|hyperpage}{16}
+\indexentry{Secção das opções@{Secção das opções}!getShipType@{getShipType}|hyperpage}{16}
+\indexentry{getShipType@{getShipType}!Secção das opções@{Secção das opções}|hyperpage}{16}
+\indexentry{Secção das opções@{Secção das opções}!getVezesQueSePodeVizitarOPlaneta@{getVezesQueSePodeVizitarOPlaneta}|hyperpage}{16}
+\indexentry{getVezesQueSePodeVizitarOPlaneta@{getVezesQueSePodeVizitarOPlaneta}!Secção das opções@{Secção das opções}|hyperpage}{16}
+\indexentry{Secção das opções@{Secção das opções}!hasOfficer@{hasOfficer}|hyperpage}{16}
+\indexentry{hasOfficer@{hasOfficer}!Secção das opções@{Secção das opções}|hyperpage}{16}
+\indexentry{Secção das opções@{Secção das opções}!hasSpaceStation@{hasSpaceStation}|hyperpage}{16}
+\indexentry{hasSpaceStation@{hasSpaceStation}!Secção das opções@{Secção das opções}|hyperpage}{16}
+\indexentry{Secção das opções@{Secção das opções}!novoPlanet@{novoPlanet}|hyperpage}{17}
+\indexentry{novoPlanet@{novoPlanet}!Secção das opções@{Secção das opções}|hyperpage}{17}
+\indexentry{Secção das opções@{Secção das opções}!rechargeShields@{rechargeShields}|hyperpage}{17}
+\indexentry{rechargeShields@{rechargeShields}!Secção das opções@{Secção das opções}|hyperpage}{17}
+\indexentry{Secção das opções@{Secção das opções}!removeOfficer@{removeOfficer}|hyperpage}{17}
+\indexentry{removeOfficer@{removeOfficer}!Secção das opções@{Secção das opções}|hyperpage}{17}
+\indexentry{Secção das opções@{Secção das opções}!resourceExiste@{resourceExiste}|hyperpage}{17}
+\indexentry{resourceExiste@{resourceExiste}!Secção das opções@{Secção das opções}|hyperpage}{17}
+\indexentry{Secção das opções@{Secção das opções}!setOptions@{setOptions}|hyperpage}{17}
+\indexentry{setOptions@{setOptions}!Secção das opções@{Secção das opções}|hyperpage}{17}
+\indexentry{Secção das opções@{Secção das opções}!setXResourcesOfTypeY@{setXResourcesOfTypeY}|hyperpage}{17}
+\indexentry{setXResourcesOfTypeY@{setXResourcesOfTypeY}!Secção das opções@{Secção das opções}|hyperpage}{17}
+\indexentry{Secção das opções@{Secção das opções}!upgradeCargoHold@{upgradeCargoHold}|hyperpage}{17}
+\indexentry{upgradeCargoHold@{upgradeCargoHold}!Secção das opções@{Secção das opções}|hyperpage}{17}
+\indexentry{Secção das opções@{Secção das opções}!upgradeWeaponSystem@{upgradeWeaponSystem}|hyperpage}{18}
+\indexentry{upgradeWeaponSystem@{upgradeWeaponSystem}!Secção das opções@{Secção das opções}|hyperpage}{18}
+\indexentry{Secção das opções@{Secção das opções}!verificaeRetiraNrecursosdotipoYparaobterX@{verificaeRetiraNrecursosdotipoYparaobterX}|hyperpage}{18}
+\indexentry{verificaeRetiraNrecursosdotipoYparaobterX@{verificaeRetiraNrecursosdotipoYparaobterX}!Secção das opções@{Secção das opções}|hyperpage}{18}
+\indexentry{Secção das opções@{Secção das opções}!options@{options}|hyperpage}{18}
+\indexentry{options@{options}!Secção das opções@{Secção das opções}|hyperpage}{18}
+\indexentry{Gestão de eventos@{Gestão de eventos}|hyperpage}{19}
+\indexentry{Gestão de eventos@{Gestão de eventos}!addEvent@{addEvent}|hyperpage}{19}
+\indexentry{addEvent@{addEvent}!Gestão de eventos@{Gestão de eventos}|hyperpage}{19}
+\indexentry{Gestão de eventos@{Gestão de eventos}!clear@{clear}|hyperpage}{20}
+\indexentry{clear@{clear}!Gestão de eventos@{Gestão de eventos}|hyperpage}{20}
+\indexentry{Gestão de eventos@{Gestão de eventos}!ClearEvents@{ClearEvents}|hyperpage}{20}
+\indexentry{ClearEvents@{ClearEvents}!Gestão de eventos@{Gestão de eventos}|hyperpage}{20}
+\indexentry{Gestão de eventos@{Gestão de eventos}!getAllUnreadEvents@{getAllUnreadEvents}|hyperpage}{20}
+\indexentry{getAllUnreadEvents@{getAllUnreadEvents}!Gestão de eventos@{Gestão de eventos}|hyperpage}{20}
+\indexentry{Gestão de eventos@{Gestão de eventos}!getEvents@{getEvents}|hyperpage}{20}
+\indexentry{getEvents@{getEvents}!Gestão de eventos@{Gestão de eventos}|hyperpage}{20}
+\indexentry{Gestão de eventos@{Gestão de eventos}!getGanhados@{getGanhados}|hyperpage}{20}
+\indexentry{getGanhados@{getGanhados}!Gestão de eventos@{Gestão de eventos}|hyperpage}{20}
+\indexentry{Gestão de eventos@{Gestão de eventos}!getNLastEvents@{getNLastEvents}|hyperpage}{20}
+\indexentry{getNLastEvents@{getNLastEvents}!Gestão de eventos@{Gestão de eventos}|hyperpage}{20}
+\indexentry{Gestão de eventos@{Gestão de eventos}!getPlanetType@{getPlanetType}|hyperpage}{20}
+\indexentry{getPlanetType@{getPlanetType}!Gestão de eventos@{Gestão de eventos}|hyperpage}{20}
+\indexentry{Gestão de eventos@{Gestão de eventos}!getUnreadEvents@{getUnreadEvents}|hyperpage}{21}
+\indexentry{getUnreadEvents@{getUnreadEvents}!Gestão de eventos@{Gestão de eventos}|hyperpage}{21}
+\indexentry{Gestão de eventos@{Gestão de eventos}!maisUmGanhado@{maisUmGanhado}|hyperpage}{21}
+\indexentry{maisUmGanhado@{maisUmGanhado}!Gestão de eventos@{Gestão de eventos}|hyperpage}{21}
+\indexentry{Gestão de eventos@{Gestão de eventos}!newTerreno@{newTerreno}|hyperpage}{21}
+\indexentry{newTerreno@{newTerreno}!Gestão de eventos@{Gestão de eventos}|hyperpage}{21}
+\indexentry{Gestão de eventos@{Gestão de eventos}!randomResource@{randomResource}|hyperpage}{21}
+\indexentry{randomResource@{randomResource}!Gestão de eventos@{Gestão de eventos}|hyperpage}{21}
+\indexentry{Gestão de eventos@{Gestão de eventos}!randomResource@{randomResource}|hyperpage}{21}
+\indexentry{randomResource@{randomResource}!Gestão de eventos@{Gestão de eventos}|hyperpage}{21}
+\indexentry{Gestão de eventos@{Gestão de eventos}!reset@{reset}|hyperpage}{21}
+\indexentry{reset@{reset}!Gestão de eventos@{Gestão de eventos}|hyperpage}{21}
+\indexentry{Gestão de eventos@{Gestão de eventos}!setPlanetType@{setPlanetType}|hyperpage}{22}
+\indexentry{setPlanetType@{setPlanetType}!Gestão de eventos@{Gestão de eventos}|hyperpage}{22}
+\indexentry{Gestão de eventos@{Gestão de eventos}!setSpaceStation@{setSpaceStation}|hyperpage}{22}
+\indexentry{setSpaceStation@{setSpaceStation}!Gestão de eventos@{Gestão de eventos}|hyperpage}{22}
+\indexentry{Gestão de eventos@{Gestão de eventos}!debugingEvents@{debugingEvents}|hyperpage}{22}
+\indexentry{debugingEvents@{debugingEvents}!Gestão de eventos@{Gestão de eventos}|hyperpage}{22}
+\indexentry{Gestão de eventos@{Gestão de eventos}!ganhados@{ganhados}|hyperpage}{22}
+\indexentry{ganhados@{ganhados}!Gestão de eventos@{Gestão de eventos}|hyperpage}{22}
+\indexentry{Gestão de eventos@{Gestão de eventos}!officers@{officers}|hyperpage}{22}
+\indexentry{officers@{officers}!Gestão de eventos@{Gestão de eventos}|hyperpage}{22}
+\indexentry{Gestão de eventos@{Gestão de eventos}!resources@{resources}|hyperpage}{22}
+\indexentry{resources@{resources}!Gestão de eventos@{Gestão de eventos}|hyperpage}{22}
+\indexentry{Gestão de eventos@{Gestão de eventos}!staticEvents@{staticEvents}|hyperpage}{23}
+\indexentry{staticEvents@{staticEvents}!Gestão de eventos@{Gestão de eventos}|hyperpage}{23}
+\indexentry{Gestão de eventos@{Gestão de eventos}!uEnoD@{uEnoD}|hyperpage}{23}
+\indexentry{uEnoD@{uEnoD}!Gestão de eventos@{Gestão de eventos}|hyperpage}{23}
+\indexentry{Gestão de eventos@{Gestão de eventos}!unreadEvents@{unreadEvents}|hyperpage}{23}
+\indexentry{unreadEvents@{unreadEvents}!Gestão de eventos@{Gestão de eventos}|hyperpage}{23}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{24}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!ClearEvents@{ClearEvents}|hyperpage}{24}
+\indexentry{ClearEvents@{ClearEvents}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{24}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!droneHasResource@{droneHasResource}|hyperpage}{24}
+\indexentry{droneHasResource@{droneHasResource}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{24}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!getCargoHold@{getCargoHold}|hyperpage}{24}
+\indexentry{getCargoHold@{getCargoHold}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{24}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!getEstado@{getEstado}|hyperpage}{24}
+\indexentry{getEstado@{getEstado}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{24}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!getEstadoClass@{getEstadoClass}|hyperpage}{25}
+\indexentry{getEstadoClass@{getEstadoClass}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{25}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!getMaxOfResourceY@{getMaxOfResourceY}|hyperpage}{25}
+\indexentry{getMaxOfResourceY@{getMaxOfResourceY}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{25}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!getNdeYRecursos@{getNdeYRecursos}|hyperpage}{25}
+\indexentry{getNdeYRecursos@{getNdeYRecursos}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{25}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!getOfficers@{getOfficers}|hyperpage}{25}
+\indexentry{getOfficers@{getOfficers}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{25}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!getOptions@{getOptions}|hyperpage}{25}
+\indexentry{getOptions@{getOptions}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{25}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!getPlanetType@{getPlanetType}|hyperpage}{25}
+\indexentry{getPlanetType@{getPlanetType}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{25}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!getResourceTypes@{getResourceTypes}|hyperpage}{25}
+\indexentry{getResourceTypes@{getResourceTypes}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{25}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!getShipType@{getShipType}|hyperpage}{26}
+\indexentry{getShipType@{getShipType}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{26}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!getUnreadEvents@{getUnreadEvents}|hyperpage}{26}
+\indexentry{getUnreadEvents@{getUnreadEvents}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{26}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!getVezesQueSePodeVizitarOPlaneta@{getVezesQueSePodeVizitarOPlaneta}|hyperpage}{26}
+\indexentry{getVezesQueSePodeVizitarOPlaneta@{getVezesQueSePodeVizitarOPlaneta}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{26}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!hasDrone@{hasDrone}|hyperpage}{26}
+\indexentry{hasDrone@{hasDrone}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{26}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!hasOfficer@{hasOfficer}|hyperpage}{26}
+\indexentry{hasOfficer@{hasOfficer}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{26}
+\indexentry{Delegated gets do shipDados@{Delegated gets do shipDados}!hasSpaceStation@{hasSpaceStation}|hyperpage}{26}
+\indexentry{hasSpaceStation@{hasSpaceStation}!Delegated gets do shipDados@{Delegated gets do shipDados}|hyperpage}{26}
+\indexentry{Planet\_Bound@{Planet\_Bound}|hyperpage}{27}
+\indexentry{Planet\_Bound.logica@{Planet\_Bound.logica}|hyperpage}{27}
+\indexentry{Planet\_Bound.logica.dados@{Planet\_Bound.logica.dados}|hyperpage}{27}
+\indexentry{Planet\_Bound.logica.dados.aux@{Planet\_Bound.logica.dados.aux}|hyperpage}{28}
+\indexentry{Planet\_Bound.logica.dados.events@{Planet\_Bound.logica.dados.events}|hyperpage}{28}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets@{Planet\_Bound.logica.dados.resourcesandplanets}|hyperpage}{28}
+\indexentry{Planet\_Bound.logica.dados.ship@{Planet\_Bound.logica.dados.ship}|hyperpage}{28}
+\indexentry{Planet\_Bound.logica.estados@{Planet\_Bound.logica.estados}|hyperpage}{28}
+\indexentry{Planet\_Bound.logica.estados.birthanddeath@{Planet\_Bound.logica.estados.birthanddeath}|hyperpage}{29}
+\indexentry{Planet\_Bound.logica.estados.noespaco@{Planet\_Bound.logica.estados.noespaco}|hyperpage}{29}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation@{Planet\_Bound.logica.estados.noespaco.menusdospacestation}|hyperpage}{29}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion}|hyperpage}{29}
+\indexentry{Planet\_Bound.logica.estados.noterreno@{Planet\_Bound.logica.estados.noterreno}|hyperpage}{30}
+\indexentry{Planet\_Bound.ui@{Planet\_Bound.ui}|hyperpage}{30}
+\indexentry{Planet\_Bound.ui.gui@{Planet\_Bound.ui.gui}|hyperpage}{30}
+\indexentry{Planet\_Bound.ui.gui.estados@{Planet\_Bound.ui.gui.estados}|hyperpage}{30}
+\indexentry{Planet\_Bound.ui.gui.info@{Planet\_Bound.ui.gui.info}|hyperpage}{30}
+\indexentry{Planet\_Bound.ui.gui.info.extraInfo@{Planet\_Bound.ui.gui.info.extraInfo}|hyperpage}{31}
+\indexentry{Planet\_Bound.ui.gui.menu@{Planet\_Bound.ui.gui.menu}|hyperpage}{31}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}|hyperpage}{33}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}!Alien@{Alien}|hyperpage}{33}
+\indexentry{Alien@{Alien}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}|hyperpage}{33}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}!getAttack@{getAttack}|hyperpage}{34}
+\indexentry{getAttack@{getAttack}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}|hyperpage}{34}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}!getDeath@{getDeath}|hyperpage}{34}
+\indexentry{getDeath@{getDeath}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}|hyperpage}{34}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}!getType@{getType}|hyperpage}{34}
+\indexentry{getType@{getType}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}|hyperpage}{34}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}!attack@{attack}|hyperpage}{34}
+\indexentry{attack@{attack}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}|hyperpage}{34}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}!death@{death}|hyperpage}{34}
+\indexentry{death@{death}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}|hyperpage}{34}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}!type@{type}|hyperpage}{34}
+\indexentry{type@{type}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Alien}|hyperpage}{34}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}|hyperpage}{35}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}!ConversionP1@{ConversionP1}|hyperpage}{35}
+\indexentry{ConversionP1@{ConversionP1}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}|hyperpage}{35}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}!getEstado@{getEstado}|hyperpage}{36}
+\indexentry{getEstado@{getEstado}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}|hyperpage}{36}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}!setOpcao@{setOpcao}|hyperpage}{36}
+\indexentry{setOpcao@{setOpcao}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}|hyperpage}{36}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}!listaresources@{listaresources}|hyperpage}{36}
+\indexentry{listaresources@{listaresources}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}|hyperpage}{36}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}!onSpaceStation@{onSpaceStation}|hyperpage}{36}
+\indexentry{onSpaceStation@{onSpaceStation}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP1}|hyperpage}{36}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}|hyperpage}{37}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}!ConversionP2@{ConversionP2}|hyperpage}{37}
+\indexentry{ConversionP2@{ConversionP2}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}|hyperpage}{37}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}!converterXfromY@{converterXfromY}|hyperpage}{38}
+\indexentry{converterXfromY@{converterXfromY}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}|hyperpage}{38}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}!getEstado@{getEstado}|hyperpage}{38}
+\indexentry{getEstado@{getEstado}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}|hyperpage}{38}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}!resourceExiste@{resourceExiste}|hyperpage}{38}
+\indexentry{resourceExiste@{resourceExiste}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}|hyperpage}{38}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}!setOpcao@{setOpcao}|hyperpage}{38}
+\indexentry{setOpcao@{setOpcao}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}|hyperpage}{38}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}!listaresources@{listaresources}|hyperpage}{38}
+\indexentry{listaresources@{listaresources}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}|hyperpage}{38}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}!localresource@{localresource}|hyperpage}{39}
+\indexentry{localresource@{localresource}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}|hyperpage}{39}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}!onSpaceStation@{onSpaceStation}|hyperpage}{39}
+\indexentry{onSpaceStation@{onSpaceStation}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.conversion.ConversionP2}|hyperpage}{39}
+\indexentry{Planet\_Bound.logica.dados.aux.Direcoes@{Planet\_Bound.logica.dados.aux.Direcoes}|hyperpage}{39}
+\indexentry{Planet\_Bound.logica.dados.aux.Direcoes@{Planet\_Bound.logica.dados.aux.Direcoes}!baixo@{baixo}|hyperpage}{39}
+\indexentry{baixo@{baixo}!Planet\_Bound.logica.dados.aux.Direcoes@{Planet\_Bound.logica.dados.aux.Direcoes}|hyperpage}{39}
+\indexentry{Planet\_Bound.logica.dados.aux.Direcoes@{Planet\_Bound.logica.dados.aux.Direcoes}!cima@{cima}|hyperpage}{39}
+\indexentry{cima@{cima}!Planet\_Bound.logica.dados.aux.Direcoes@{Planet\_Bound.logica.dados.aux.Direcoes}|hyperpage}{39}
+\indexentry{Planet\_Bound.logica.dados.aux.Direcoes@{Planet\_Bound.logica.dados.aux.Direcoes}!direita@{direita}|hyperpage}{39}
+\indexentry{direita@{direita}!Planet\_Bound.logica.dados.aux.Direcoes@{Planet\_Bound.logica.dados.aux.Direcoes}|hyperpage}{39}
+\indexentry{Planet\_Bound.logica.dados.aux.Direcoes@{Planet\_Bound.logica.dados.aux.Direcoes}!esquerda@{esquerda}|hyperpage}{40}
+\indexentry{esquerda@{esquerda}!Planet\_Bound.logica.dados.aux.Direcoes@{Planet\_Bound.logica.dados.aux.Direcoes}|hyperpage}{40}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone}|hyperpage}{40}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone}!Drone@{Drone}|hyperpage}{40}
+\indexentry{Drone@{Drone}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone}|hyperpage}{40}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone}!getHealth@{getHealth}|hyperpage}{41}
+\indexentry{getHealth@{getHealth}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone}|hyperpage}{41}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone}!loseHealth@{loseHealth}|hyperpage}{41}
+\indexentry{loseHealth@{loseHealth}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone}|hyperpage}{41}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone}!health@{health}|hyperpage}{41}
+\indexentry{health@{health}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Drone}|hyperpage}{41}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}|hyperpage}{41}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}!Entidade@{Entidade}|hyperpage}{42}
+\indexentry{Entidade@{Entidade}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}|hyperpage}{42}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}!getCoordenadasX@{getCoordenadasX}|hyperpage}{42}
+\indexentry{getCoordenadasX@{getCoordenadasX}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}|hyperpage}{42}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}!getCoordenadasY@{getCoordenadasY}|hyperpage}{42}
+\indexentry{getCoordenadasY@{getCoordenadasY}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}|hyperpage}{42}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}!movedown@{movedown}|hyperpage}{42}
+\indexentry{movedown@{movedown}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}|hyperpage}{42}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}!moveleft@{moveleft}|hyperpage}{42}
+\indexentry{moveleft@{moveleft}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}|hyperpage}{42}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}!moverigh@{moverigh}|hyperpage}{43}
+\indexentry{moverigh@{moverigh}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}|hyperpage}{43}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}!moveup@{moveup}|hyperpage}{43}
+\indexentry{moveup@{moveup}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}|hyperpage}{43}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}!newRandomLocation@{newRandomLocation}|hyperpage}{43}
+\indexentry{newRandomLocation@{newRandomLocation}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}|hyperpage}{43}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}!coordenadas@{coordenadas}|hyperpage}{43}
+\indexentry{coordenadas@{coordenadas}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidade}|hyperpage}{43}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades}|hyperpage}{43}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades}!alien@{alien}|hyperpage}{44}
+\indexentry{alien@{alien}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades}|hyperpage}{44}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades}!drone@{drone}|hyperpage}{44}
+\indexentry{drone@{drone}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades}|hyperpage}{44}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades}!resource@{resource}|hyperpage}{44}
+\indexentry{resource@{resource}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.Entidades}|hyperpage}{44}
+\indexentry{Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}|hyperpage}{44}
+\indexentry{Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}!EstadoAdapter@{EstadoAdapter}|hyperpage}{45}
+\indexentry{EstadoAdapter@{EstadoAdapter}!Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}|hyperpage}{45}
+\indexentry{Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}!aplicaEvento@{aplicaEvento}|hyperpage}{45}
+\indexentry{aplicaEvento@{aplicaEvento}!Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}|hyperpage}{45}
+\indexentry{Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}!convertResources@{convertResources}|hyperpage}{45}
+\indexentry{convertResources@{convertResources}!Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}|hyperpage}{45}
+\indexentry{Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}!getShipDados@{getShipDados}|hyperpage}{45}
+\indexentry{getShipDados@{getShipDados}!Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}|hyperpage}{45}
+\indexentry{Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}!landOnSpaceStation@{landOnSpaceStation}|hyperpage}{45}
+\indexentry{landOnSpaceStation@{landOnSpaceStation}!Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}|hyperpage}{45}
+\indexentry{Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}!landOnThePlanet@{landOnThePlanet}|hyperpage}{46}
+\indexentry{landOnThePlanet@{landOnThePlanet}!Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}|hyperpage}{46}
+\indexentry{Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}!move@{move}|hyperpage}{46}
+\indexentry{move@{move}!Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}|hyperpage}{46}
+\indexentry{Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}!novoJogo@{novoJogo}|hyperpage}{46}
+\indexentry{novoJogo@{novoJogo}!Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}|hyperpage}{46}
+\indexentry{Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}!proximoPlaneta@{proximoPlaneta}|hyperpage}{46}
+\indexentry{proximoPlaneta@{proximoPlaneta}!Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}|hyperpage}{46}
+\indexentry{Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}!returnToShip@{returnToShip}|hyperpage}{46}
+\indexentry{returnToShip@{returnToShip}!Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}|hyperpage}{46}
+\indexentry{Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}!setOpcao@{setOpcao}|hyperpage}{47}
+\indexentry{setOpcao@{setOpcao}!Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}|hyperpage}{47}
+\indexentry{Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}!shipDados@{shipDados}|hyperpage}{47}
+\indexentry{shipDados@{shipDados}!Planet\_Bound.logica.estados.EstadoAdapter@{Planet\_Bound.logica.estados.EstadoAdapter}|hyperpage}{47}
+\indexentry{Planet\_Bound.logica.estados.EstadoJogo@{Planet\_Bound.logica.estados.EstadoJogo}|hyperpage}{47}
+\indexentry{Planet\_Bound.logica.estados.EstadoJogo@{Planet\_Bound.logica.estados.EstadoJogo}!ConvertResources@{ConvertResources}|hyperpage}{48}
+\indexentry{ConvertResources@{ConvertResources}!Planet\_Bound.logica.estados.EstadoJogo@{Planet\_Bound.logica.estados.EstadoJogo}|hyperpage}{48}
+\indexentry{Planet\_Bound.logica.estados.EstadoJogo@{Planet\_Bound.logica.estados.EstadoJogo}!GameOver@{GameOver}|hyperpage}{48}
+\indexentry{GameOver@{GameOver}!Planet\_Bound.logica.estados.EstadoJogo@{Planet\_Bound.logica.estados.EstadoJogo}|hyperpage}{48}
+\indexentry{Planet\_Bound.logica.estados.EstadoJogo@{Planet\_Bound.logica.estados.EstadoJogo}!NoEspaco@{NoEspaco}|hyperpage}{48}
+\indexentry{NoEspaco@{NoEspaco}!Planet\_Bound.logica.estados.EstadoJogo@{Planet\_Bound.logica.estados.EstadoJogo}|hyperpage}{48}
+\indexentry{Planet\_Bound.logica.estados.EstadoJogo@{Planet\_Bound.logica.estados.EstadoJogo}!NoTerreno@{NoTerreno}|hyperpage}{48}
+\indexentry{NoTerreno@{NoTerreno}!Planet\_Bound.logica.estados.EstadoJogo@{Planet\_Bound.logica.estados.EstadoJogo}|hyperpage}{48}
+\indexentry{Planet\_Bound.logica.estados.EstadoJogo@{Planet\_Bound.logica.estados.EstadoJogo}!NovoShip@{NovoShip}|hyperpage}{48}
+\indexentry{NovoShip@{NovoShip}!Planet\_Bound.logica.estados.EstadoJogo@{Planet\_Bound.logica.estados.EstadoJogo}|hyperpage}{48}
+\indexentry{Planet\_Bound.logica.estados.EstadoJogo@{Planet\_Bound.logica.estados.EstadoJogo}!OnSpaceStation@{OnSpaceStation}|hyperpage}{48}
+\indexentry{OnSpaceStation@{OnSpaceStation}!Planet\_Bound.logica.estados.EstadoJogo@{Planet\_Bound.logica.estados.EstadoJogo}|hyperpage}{48}
+\indexentry{Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}|hyperpage}{49}
+\indexentry{Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}!Event@{Event}|hyperpage}{49}
+\indexentry{Event@{Event}!Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}|hyperpage}{49}
+\indexentry{Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}!getEventType@{getEventType}|hyperpage}{50}
+\indexentry{getEventType@{getEventType}!Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}|hyperpage}{50}
+\indexentry{Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}!getMsg@{getMsg}|hyperpage}{50}
+\indexentry{getMsg@{getMsg}!Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}|hyperpage}{50}
+\indexentry{Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}!getTimeWithoutMilisecs@{getTimeWithoutMilisecs}|hyperpage}{50}
+\indexentry{getTimeWithoutMilisecs@{getTimeWithoutMilisecs}!Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}|hyperpage}{50}
+\indexentry{Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}!getUnixTimewithMilisecs@{getUnixTimewithMilisecs}|hyperpage}{50}
+\indexentry{getUnixTimewithMilisecs@{getUnixTimewithMilisecs}!Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}|hyperpage}{50}
+\indexentry{Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}!toString@{toString}|hyperpage}{50}
+\indexentry{toString@{toString}!Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}|hyperpage}{50}
+\indexentry{Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}!eventType@{eventType}|hyperpage}{50}
+\indexentry{eventType@{eventType}!Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}|hyperpage}{50}
+\indexentry{Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}!msg@{msg}|hyperpage}{50}
+\indexentry{msg@{msg}!Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}|hyperpage}{50}
+\indexentry{Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}!unixTimewithMilisecs@{unixTimewithMilisecs}|hyperpage}{51}
+\indexentry{unixTimewithMilisecs@{unixTimewithMilisecs}!Planet\_Bound.logica.dados.events.Event@{Planet\_Bound.logica.dados.events.Event}|hyperpage}{51}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{51}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!AlienKilled@{AlienKilled}|hyperpage}{51}
+\indexentry{AlienKilled@{AlienKilled}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{51}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!ChoosenItem@{ChoosenItem}|hyperpage}{51}
+\indexentry{ChoosenItem@{ChoosenItem}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{51}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!ConversorDeItens@{ConversorDeItens}|hyperpage}{52}
+\indexentry{ConversorDeItens@{ConversorDeItens}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{52}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!Debug@{Debug}|hyperpage}{52}
+\indexentry{Debug@{Debug}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{52}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!DroneDeath@{DroneDeath}|hyperpage}{52}
+\indexentry{DroneDeath@{DroneDeath}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{52}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!DroneMovement@{DroneMovement}|hyperpage}{52}
+\indexentry{DroneMovement@{DroneMovement}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{52}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!GameOver@{GameOver}|hyperpage}{52}
+\indexentry{GameOver@{GameOver}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{52}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!Info@{Info}|hyperpage}{52}
+\indexentry{Info@{Info}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{52}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!MoreResources@{MoreResources}|hyperpage}{52}
+\indexentry{MoreResources@{MoreResources}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{52}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!NovoPlaneta@{NovoPlaneta}|hyperpage}{52}
+\indexentry{NovoPlaneta@{NovoPlaneta}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{52}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!NovoShip@{NovoShip}|hyperpage}{53}
+\indexentry{NovoShip@{NovoShip}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{53}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!OnSpaceStation@{OnSpaceStation}|hyperpage}{53}
+\indexentry{OnSpaceStation@{OnSpaceStation}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{53}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!RandomEvent@{RandomEvent}|hyperpage}{53}
+\indexentry{RandomEvent@{RandomEvent}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{53}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!Warning@{Warning}|hyperpage}{53}
+\indexentry{Warning@{Warning}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{53}
+\indexentry{Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}!WormHole@{WormHole}|hyperpage}{53}
+\indexentry{WormHole@{WormHole}!Planet\_Bound.logica.dados.events.EventType@{Planet\_Bound.logica.dados.events.EventType}|hyperpage}{53}
+\indexentry{Planet\_Bound.logica.estados.birthanddeath.GameOver@{Planet\_Bound.logica.estados.birthanddeath.GameOver}|hyperpage}{53}
+\indexentry{Planet\_Bound.logica.estados.birthanddeath.GameOver@{Planet\_Bound.logica.estados.birthanddeath.GameOver}!GameOver@{GameOver}|hyperpage}{54}
+\indexentry{GameOver@{GameOver}!Planet\_Bound.logica.estados.birthanddeath.GameOver@{Planet\_Bound.logica.estados.birthanddeath.GameOver}|hyperpage}{54}
+\indexentry{Planet\_Bound.logica.estados.birthanddeath.GameOver@{Planet\_Bound.logica.estados.birthanddeath.GameOver}!getEstado@{getEstado}|hyperpage}{54}
+\indexentry{getEstado@{getEstado}!Planet\_Bound.logica.estados.birthanddeath.GameOver@{Planet\_Bound.logica.estados.birthanddeath.GameOver}|hyperpage}{54}
+\indexentry{Planet\_Bound.logica.estados.birthanddeath.GameOver@{Planet\_Bound.logica.estados.birthanddeath.GameOver}!novoJogo@{novoJogo}|hyperpage}{54}
+\indexentry{novoJogo@{novoJogo}!Planet\_Bound.logica.estados.birthanddeath.GameOver@{Planet\_Bound.logica.estados.birthanddeath.GameOver}|hyperpage}{54}
+\indexentry{Planet\_Bound.logica.estados.birthanddeath.GameOver@{Planet\_Bound.logica.estados.birthanddeath.GameOver}!toString@{toString}|hyperpage}{54}
+\indexentry{toString@{toString}!Planet\_Bound.logica.estados.birthanddeath.GameOver@{Planet\_Bound.logica.estados.birthanddeath.GameOver}|hyperpage}{54}
+\indexentry{Planet\_Bound.logica.estados.birthanddeath.GameOver@{Planet\_Bound.logica.estados.birthanddeath.GameOver}!mensagem@{mensagem}|hyperpage}{55}
+\indexentry{mensagem@{mensagem}!Planet\_Bound.logica.estados.birthanddeath.GameOver@{Planet\_Bound.logica.estados.birthanddeath.GameOver}|hyperpage}{55}
+\indexentry{Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}|hyperpage}{55}
+\indexentry{Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}!GEscolha@{GEscolha}|hyperpage}{56}
+\indexentry{GEscolha@{GEscolha}!Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}|hyperpage}{56}
+\indexentry{Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}!addTitle@{addTitle}|hyperpage}{56}
+\indexentry{addTitle@{addTitle}!Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}|hyperpage}{56}
+\indexentry{Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}!atualizaVista@{atualizaVista}|hyperpage}{56}
+\indexentry{atualizaVista@{atualizaVista}!Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}|hyperpage}{56}
+\indexentry{Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}!bSOButtons@{bSOButtons}|hyperpage}{56}
+\indexentry{bSOButtons@{bSOButtons}!Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}|hyperpage}{56}
+\indexentry{Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}!bSOSquares@{bSOSquares}|hyperpage}{56}
+\indexentry{bSOSquares@{bSOSquares}!Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}|hyperpage}{56}
+\indexentry{Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}!setUpButtons@{setUpButtons}|hyperpage}{56}
+\indexentry{setUpButtons@{setUpButtons}!Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}|hyperpage}{56}
+\indexentry{Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}!escolhas@{escolhas}|hyperpage}{57}
+\indexentry{escolhas@{escolhas}!Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}|hyperpage}{57}
+\indexentry{Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}!lastState@{lastState}|hyperpage}{57}
+\indexentry{lastState@{lastState}!Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}|hyperpage}{57}
+\indexentry{Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}!modelo@{modelo}|hyperpage}{57}
+\indexentry{modelo@{modelo}!Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}|hyperpage}{57}
+\indexentry{Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}!questao@{questao}|hyperpage}{57}
+\indexentry{questao@{questao}!Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}|hyperpage}{57}
+\indexentry{Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}!questaoBox@{questaoBox}|hyperpage}{57}
+\indexentry{questaoBox@{questaoBox}!Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}|hyperpage}{57}
+\indexentry{Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}!questaoSquare@{questaoSquare}|hyperpage}{57}
+\indexentry{questaoSquare@{questaoSquare}!Planet\_Bound.ui.gui.estados.GEscolha@{Planet\_Bound.ui.gui.estados.GEscolha}|hyperpage}{57}
+\indexentry{Planet\_Bound.ui.gui.estados.GGameOver@{Planet\_Bound.ui.gui.estados.GGameOver}|hyperpage}{58}
+\indexentry{Planet\_Bound.ui.gui.estados.GGameOver@{Planet\_Bound.ui.gui.estados.GGameOver}!GGameOver@{GGameOver}|hyperpage}{58}
+\indexentry{GGameOver@{GGameOver}!Planet\_Bound.ui.gui.estados.GGameOver@{Planet\_Bound.ui.gui.estados.GGameOver}|hyperpage}{58}
+\indexentry{Planet\_Bound.ui.gui.estados.GGameOver@{Planet\_Bound.ui.gui.estados.GGameOver}!actulizaVista@{actulizaVista}|hyperpage}{58}
+\indexentry{actulizaVista@{actulizaVista}!Planet\_Bound.ui.gui.estados.GGameOver@{Planet\_Bound.ui.gui.estados.GGameOver}|hyperpage}{58}
+\indexentry{Planet\_Bound.ui.gui.estados.GGameOver@{Planet\_Bound.ui.gui.estados.GGameOver}!organiza@{organiza}|hyperpage}{58}
+\indexentry{organiza@{organiza}!Planet\_Bound.ui.gui.estados.GGameOver@{Planet\_Bound.ui.gui.estados.GGameOver}|hyperpage}{58}
+\indexentry{Planet\_Bound.ui.gui.estados.GGameOver@{Planet\_Bound.ui.gui.estados.GGameOver}!modelo@{modelo}|hyperpage}{59}
+\indexentry{modelo@{modelo}!Planet\_Bound.ui.gui.estados.GGameOver@{Planet\_Bound.ui.gui.estados.GGameOver}|hyperpage}{59}
+\indexentry{Planet\_Bound.ui.gui.estados.GGameOver@{Planet\_Bound.ui.gui.estados.GGameOver}!questao@{questao}|hyperpage}{59}
+\indexentry{questao@{questao}!Planet\_Bound.ui.gui.estados.GGameOver@{Planet\_Bound.ui.gui.estados.GGameOver}|hyperpage}{59}
+\indexentry{Planet\_Bound.ui.gui.info.GLog@{Planet\_Bound.ui.gui.info.GLog}|hyperpage}{59}
+\indexentry{Planet\_Bound.ui.gui.info.GLog@{Planet\_Bound.ui.gui.info.GLog}!GLog@{GLog}|hyperpage}{60}
+\indexentry{GLog@{GLog}!Planet\_Bound.ui.gui.info.GLog@{Planet\_Bound.ui.gui.info.GLog}|hyperpage}{60}
+\indexentry{Planet\_Bound.ui.gui.info.GLog@{Planet\_Bound.ui.gui.info.GLog}!setValues@{setValues}|hyperpage}{60}
+\indexentry{setValues@{setValues}!Planet\_Bound.ui.gui.info.GLog@{Planet\_Bound.ui.gui.info.GLog}|hyperpage}{60}
+\indexentry{Planet\_Bound.ui.gui.info.GLog@{Planet\_Bound.ui.gui.info.GLog}!log@{log}|hyperpage}{60}
+\indexentry{log@{log}!Planet\_Bound.ui.gui.info.GLog@{Planet\_Bound.ui.gui.info.GLog}|hyperpage}{60}
+\indexentry{Planet\_Bound.ui.gui.info.GLog@{Planet\_Bound.ui.gui.info.GLog}!modelo@{modelo}|hyperpage}{60}
+\indexentry{modelo@{modelo}!Planet\_Bound.ui.gui.info.GLog@{Planet\_Bound.ui.gui.info.GLog}|hyperpage}{60}
+\indexentry{Planet\_Bound.ui.gui.menu.GMenu@{Planet\_Bound.ui.gui.menu.GMenu}|hyperpage}{60}
+\indexentry{Planet\_Bound.ui.gui.menu.GMenu@{Planet\_Bound.ui.gui.menu.GMenu}!GMenu@{GMenu}|hyperpage}{61}
+\indexentry{GMenu@{GMenu}!Planet\_Bound.ui.gui.menu.GMenu@{Planet\_Bound.ui.gui.menu.GMenu}|hyperpage}{61}
+\indexentry{Planet\_Bound.ui.gui.menu.GMenu@{Planet\_Bound.ui.gui.menu.GMenu}!file@{file}|hyperpage}{61}
+\indexentry{file@{file}!Planet\_Bound.ui.gui.menu.GMenu@{Planet\_Bound.ui.gui.menu.GMenu}|hyperpage}{61}
+\indexentry{Planet\_Bound.ui.gui.menu.GMenu@{Planet\_Bound.ui.gui.menu.GMenu}!help@{help}|hyperpage}{61}
+\indexentry{help@{help}!Planet\_Bound.ui.gui.menu.GMenu@{Planet\_Bound.ui.gui.menu.GMenu}|hyperpage}{61}
+\indexentry{Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}|hyperpage}{61}
+\indexentry{Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}!GNoEspaco@{GNoEspaco}|hyperpage}{62}
+\indexentry{GNoEspaco@{GNoEspaco}!Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}|hyperpage}{62}
+\indexentry{Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}!atualizaVista@{atualizaVista}|hyperpage}{62}
+\indexentry{atualizaVista@{atualizaVista}!Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}|hyperpage}{62}
+\indexentry{Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}!organiza@{organiza}|hyperpage}{62}
+\indexentry{organiza@{organiza}!Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}|hyperpage}{62}
+\indexentry{Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}!setUpConversor@{setUpConversor}|hyperpage}{62}
+\indexentry{setUpConversor@{setUpConversor}!Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}|hyperpage}{62}
+\indexentry{Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}!setUpNext@{setUpNext}|hyperpage}{63}
+\indexentry{setUpNext@{setUpNext}!Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}|hyperpage}{63}
+\indexentry{Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}!setUpPlaneta@{setUpPlaneta}|hyperpage}{63}
+\indexentry{setUpPlaneta@{setUpPlaneta}!Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}|hyperpage}{63}
+\indexentry{Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}!setUpSpaceStation@{setUpSpaceStation}|hyperpage}{63}
+\indexentry{setUpSpaceStation@{setUpSpaceStation}!Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}|hyperpage}{63}
+\indexentry{Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}!conversor@{conversor}|hyperpage}{63}
+\indexentry{conversor@{conversor}!Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}|hyperpage}{63}
+\indexentry{Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}!modelo@{modelo}|hyperpage}{63}
+\indexentry{modelo@{modelo}!Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}|hyperpage}{63}
+\indexentry{Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}!next@{next}|hyperpage}{63}
+\indexentry{next@{next}!Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}|hyperpage}{63}
+\indexentry{Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}!planeta@{planeta}|hyperpage}{63}
+\indexentry{planeta@{planeta}!Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}|hyperpage}{63}
+\indexentry{Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}!spaceStation@{spaceStation}|hyperpage}{64}
+\indexentry{spaceStation@{spaceStation}!Planet\_Bound.ui.gui.estados.GNoEspaco@{Planet\_Bound.ui.gui.estados.GNoEspaco}|hyperpage}{64}
+\indexentry{Planet\_Bound.ui.gui.estados.GNovoShip@{Planet\_Bound.ui.gui.estados.GNovoShip}|hyperpage}{64}
+\indexentry{Planet\_Bound.ui.gui.estados.GNovoShip@{Planet\_Bound.ui.gui.estados.GNovoShip}!GNovoShip@{GNovoShip}|hyperpage}{64}
+\indexentry{GNovoShip@{GNovoShip}!Planet\_Bound.ui.gui.estados.GNovoShip@{Planet\_Bound.ui.gui.estados.GNovoShip}|hyperpage}{64}
+\indexentry{Planet\_Bound.ui.gui.estados.GNovoShip@{Planet\_Bound.ui.gui.estados.GNovoShip}!atualizaVista@{atualizaVista}|hyperpage}{65}
+\indexentry{atualizaVista@{atualizaVista}!Planet\_Bound.ui.gui.estados.GNovoShip@{Planet\_Bound.ui.gui.estados.GNovoShip}|hyperpage}{65}
+\indexentry{Planet\_Bound.ui.gui.estados.GNovoShip@{Planet\_Bound.ui.gui.estados.GNovoShip}!organizaComponentes@{organizaComponentes}|hyperpage}{65}
+\indexentry{organizaComponentes@{organizaComponentes}!Planet\_Bound.ui.gui.estados.GNovoShip@{Planet\_Bound.ui.gui.estados.GNovoShip}|hyperpage}{65}
+\indexentry{Planet\_Bound.ui.gui.estados.GNovoShip@{Planet\_Bound.ui.gui.estados.GNovoShip}!modelo@{modelo}|hyperpage}{65}
+\indexentry{modelo@{modelo}!Planet\_Bound.ui.gui.estados.GNovoShip@{Planet\_Bound.ui.gui.estados.GNovoShip}|hyperpage}{65}
+\indexentry{Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}|hyperpage}{65}
+\indexentry{Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}!GRecursos@{GRecursos}|hyperpage}{66}
+\indexentry{GRecursos@{GRecursos}!Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}|hyperpage}{66}
+\indexentry{Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}!organizaComponentes@{organizaComponentes}|hyperpage}{66}
+\indexentry{organizaComponentes@{organizaComponentes}!Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}|hyperpage}{66}
+\indexentry{Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}!setValues@{setValues}|hyperpage}{66}
+\indexentry{setValues@{setValues}!Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}|hyperpage}{66}
+\indexentry{Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}!DroneBox@{DroneBox}|hyperpage}{66}
+\indexentry{DroneBox@{DroneBox}!Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}|hyperpage}{66}
+\indexentry{Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}!droneStats@{droneStats}|hyperpage}{66}
+\indexentry{droneStats@{droneStats}!Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}|hyperpage}{66}
+\indexentry{Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}!infoEspaco@{infoEspaco}|hyperpage}{67}
+\indexentry{infoEspaco@{infoEspaco}!Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}|hyperpage}{67}
+\indexentry{Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}!modelo@{modelo}|hyperpage}{67}
+\indexentry{modelo@{modelo}!Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}|hyperpage}{67}
+\indexentry{Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}!recursos@{recursos}|hyperpage}{67}
+\indexentry{recursos@{recursos}!Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}|hyperpage}{67}
+\indexentry{Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}!title@{title}|hyperpage}{67}
+\indexentry{title@{title}!Planet\_Bound.ui.gui.info.GRecursos@{Planet\_Bound.ui.gui.info.GRecursos}|hyperpage}{67}
+\indexentry{Planet\_Bound.ui.gui.info.GResumo@{Planet\_Bound.ui.gui.info.GResumo}|hyperpage}{67}
+\indexentry{Planet\_Bound.ui.gui.info.GResumo@{Planet\_Bound.ui.gui.info.GResumo}!GResumo@{GResumo}|hyperpage}{68}
+\indexentry{GResumo@{GResumo}!Planet\_Bound.ui.gui.info.GResumo@{Planet\_Bound.ui.gui.info.GResumo}|hyperpage}{68}
+\indexentry{Planet\_Bound.ui.gui.info.GResumo@{Planet\_Bound.ui.gui.info.GResumo}!organizaComponentes@{organizaComponentes}|hyperpage}{68}
+\indexentry{organizaComponentes@{organizaComponentes}!Planet\_Bound.ui.gui.info.GResumo@{Planet\_Bound.ui.gui.info.GResumo}|hyperpage}{68}
+\indexentry{Planet\_Bound.ui.gui.info.GResumo@{Planet\_Bound.ui.gui.info.GResumo}!setValues@{setValues}|hyperpage}{68}
+\indexentry{setValues@{setValues}!Planet\_Bound.ui.gui.info.GResumo@{Planet\_Bound.ui.gui.info.GResumo}|hyperpage}{68}
+\indexentry{Planet\_Bound.ui.gui.info.GResumo@{Planet\_Bound.ui.gui.info.GResumo}!labelComandantes@{labelComandantes}|hyperpage}{68}
+\indexentry{labelComandantes@{labelComandantes}!Planet\_Bound.ui.gui.info.GResumo@{Planet\_Bound.ui.gui.info.GResumo}|hyperpage}{68}
+\indexentry{Planet\_Bound.ui.gui.info.GResumo@{Planet\_Bound.ui.gui.info.GResumo}!labelNome@{labelNome}|hyperpage}{68}
+\indexentry{labelNome@{labelNome}!Planet\_Bound.ui.gui.info.GResumo@{Planet\_Bound.ui.gui.info.GResumo}|hyperpage}{68}
+\indexentry{Planet\_Bound.ui.gui.info.GResumo@{Planet\_Bound.ui.gui.info.GResumo}!modelo@{modelo}|hyperpage}{69}
+\indexentry{modelo@{modelo}!Planet\_Bound.ui.gui.info.GResumo@{Planet\_Bound.ui.gui.info.GResumo}|hyperpage}{69}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{69}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}!GTerreno@{GTerreno}|hyperpage}{70}
+\indexentry{GTerreno@{GTerreno}!Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{70}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}!atualizaVista@{atualizaVista}|hyperpage}{70}
+\indexentry{atualizaVista@{atualizaVista}!Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{70}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}!compareVector@{compareVector}|hyperpage}{70}
+\indexentry{compareVector@{compareVector}!Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{70}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}!compareVector@{compareVector}|hyperpage}{70}
+\indexentry{compareVector@{compareVector}!Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{70}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}!direcao@{direcao}|hyperpage}{70}
+\indexentry{direcao@{direcao}!Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{70}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}!organiza@{organiza}|hyperpage}{70}
+\indexentry{organiza@{organiza}!Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{70}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}!alien@{alien}|hyperpage}{71}
+\indexentry{alien@{alien}!Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{71}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}!conversor@{conversor}|hyperpage}{71}
+\indexentry{conversor@{conversor}!Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{71}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}!drone@{drone}|hyperpage}{71}
+\indexentry{drone@{drone}!Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{71}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}!modelo@{modelo}|hyperpage}{71}
+\indexentry{modelo@{modelo}!Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{71}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}!next@{next}|hyperpage}{71}
+\indexentry{next@{next}!Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{71}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}!planeta@{planeta}|hyperpage}{71}
+\indexentry{planeta@{planeta}!Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{71}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}!resource@{resource}|hyperpage}{71}
+\indexentry{resource@{resource}!Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{71}
+\indexentry{Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}!spaceStation@{spaceStation}|hyperpage}{72}
+\indexentry{spaceStation@{spaceStation}!Planet\_Bound.ui.gui.estados.GTerreno@{Planet\_Bound.ui.gui.estados.GTerreno}|hyperpage}{72}
+\indexentry{Planet\_Bound.ui.gui.info.GTop@{Planet\_Bound.ui.gui.info.GTop}|hyperpage}{72}
+\indexentry{Planet\_Bound.ui.gui.info.GTop@{Planet\_Bound.ui.gui.info.GTop}!GTop@{GTop}|hyperpage}{72}
+\indexentry{GTop@{GTop}!Planet\_Bound.ui.gui.info.GTop@{Planet\_Bound.ui.gui.info.GTop}|hyperpage}{72}
+\indexentry{Planet\_Bound.ui.gui.info.GTop@{Planet\_Bound.ui.gui.info.GTop}!organiza@{organiza}|hyperpage}{73}
+\indexentry{organiza@{organiza}!Planet\_Bound.ui.gui.info.GTop@{Planet\_Bound.ui.gui.info.GTop}|hyperpage}{73}
+\indexentry{Planet\_Bound.ui.gui.info.GTop@{Planet\_Bound.ui.gui.info.GTop}!setOption@{setOption}|hyperpage}{73}
+\indexentry{setOption@{setOption}!Planet\_Bound.ui.gui.info.GTop@{Planet\_Bound.ui.gui.info.GTop}|hyperpage}{73}
+\indexentry{Planet\_Bound.ui.gui.info.GTop@{Planet\_Bound.ui.gui.info.GTop}!update@{update}|hyperpage}{73}
+\indexentry{update@{update}!Planet\_Bound.ui.gui.info.GTop@{Planet\_Bound.ui.gui.info.GTop}|hyperpage}{73}
+\indexentry{Planet\_Bound.ui.gui.info.GTop@{Planet\_Bound.ui.gui.info.GTop}!bt@{bt}|hyperpage}{73}
+\indexentry{bt@{bt}!Planet\_Bound.ui.gui.info.GTop@{Planet\_Bound.ui.gui.info.GTop}|hyperpage}{73}
+\indexentry{Planet\_Bound.ui.gui.info.GTop@{Planet\_Bound.ui.gui.info.GTop}!modelo@{modelo}|hyperpage}{73}
+\indexentry{modelo@{modelo}!Planet\_Bound.ui.gui.info.GTop@{Planet\_Bound.ui.gui.info.GTop}|hyperpage}{73}
+\indexentry{Planet\_Bound.ui.gui.Gui@{Planet\_Bound.ui.gui.Gui}|hyperpage}{74}
+\indexentry{Planet\_Bound.ui.gui.Gui@{Planet\_Bound.ui.gui.Gui}!getMB@{getMB}|hyperpage}{74}
+\indexentry{getMB@{getMB}!Planet\_Bound.ui.gui.Gui@{Planet\_Bound.ui.gui.Gui}|hyperpage}{74}
+\indexentry{Planet\_Bound.ui.gui.Gui@{Planet\_Bound.ui.gui.Gui}!main2@{main2}|hyperpage}{74}
+\indexentry{main2@{main2}!Planet\_Bound.ui.gui.Gui@{Planet\_Bound.ui.gui.Gui}|hyperpage}{74}
+\indexentry{Planet\_Bound.ui.gui.Gui@{Planet\_Bound.ui.gui.Gui}!start@{start}|hyperpage}{74}
+\indexentry{start@{start}!Planet\_Bound.ui.gui.Gui@{Planet\_Bound.ui.gui.Gui}|hyperpage}{74}
+\indexentry{Planet\_Bound.ui.gui.Gui@{Planet\_Bound.ui.gui.Gui}!modelo@{modelo}|hyperpage}{75}
+\indexentry{modelo@{modelo}!Planet\_Bound.ui.gui.Gui@{Planet\_Bound.ui.gui.Gui}|hyperpage}{75}
+\indexentry{Planet\_Bound.ui.gui.Gui@{Planet\_Bound.ui.gui.Gui}!root@{root}|hyperpage}{75}
+\indexentry{root@{root}!Planet\_Bound.ui.gui.Gui@{Planet\_Bound.ui.gui.Gui}|hyperpage}{75}
+\indexentry{Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}|hyperpage}{75}
+\indexentry{Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}!PlanetType2Color@{PlanetType2Color}|hyperpage}{75}
+\indexentry{PlanetType2Color@{PlanetType2Color}!Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}|hyperpage}{75}
+\indexentry{Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}!ResouceLabel@{ResouceLabel}|hyperpage}{76}
+\indexentry{ResouceLabel@{ResouceLabel}!Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}|hyperpage}{76}
+\indexentry{Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}!Resource2Color@{Resource2Color}|hyperpage}{76}
+\indexentry{Resource2Color@{Resource2Color}!Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}|hyperpage}{76}
+\indexentry{Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}!Type2Color@{Type2Color}|hyperpage}{76}
+\indexentry{Type2Color@{Type2Color}!Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}|hyperpage}{76}
+\indexentry{Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}!Type2Color@{Type2Color}|hyperpage}{76}
+\indexentry{Type2Color@{Type2Color}!Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}|hyperpage}{76}
+\indexentry{Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}!Type2Color@{Type2Color}|hyperpage}{76}
+\indexentry{Type2Color@{Type2Color}!Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}|hyperpage}{76}
+\indexentry{Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}!RETANGLE\_SIZE@{RETANGLE\_SIZE}|hyperpage}{76}
+\indexentry{RETANGLE\_SIZE@{RETANGLE\_SIZE}!Planet\_Bound.ui.gui.Helper@{Planet\_Bound.ui.gui.Helper}|hyperpage}{76}
+\indexentry{Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}|hyperpage}{77}
+\indexentry{Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}!aplicaEvento@{aplicaEvento}|hyperpage}{77}
+\indexentry{aplicaEvento@{aplicaEvento}!Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}|hyperpage}{77}
+\indexentry{Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}!convertResources@{convertResources}|hyperpage}{77}
+\indexentry{convertResources@{convertResources}!Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}|hyperpage}{77}
+\indexentry{Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}!getEstado@{getEstado}|hyperpage}{78}
+\indexentry{getEstado@{getEstado}!Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}|hyperpage}{78}
+\indexentry{Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}!landOnSpaceStation@{landOnSpaceStation}|hyperpage}{78}
+\indexentry{landOnSpaceStation@{landOnSpaceStation}!Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}|hyperpage}{78}
+\indexentry{Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}!landOnThePlanet@{landOnThePlanet}|hyperpage}{78}
+\indexentry{landOnThePlanet@{landOnThePlanet}!Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}|hyperpage}{78}
+\indexentry{Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}!move@{move}|hyperpage}{78}
+\indexentry{move@{move}!Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}|hyperpage}{78}
+\indexentry{Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}!novoJogo@{novoJogo}|hyperpage}{78}
+\indexentry{novoJogo@{novoJogo}!Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}|hyperpage}{78}
+\indexentry{Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}!proximoPlaneta@{proximoPlaneta}|hyperpage}{79}
+\indexentry{proximoPlaneta@{proximoPlaneta}!Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}|hyperpage}{79}
+\indexentry{Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}!returnToShip@{returnToShip}|hyperpage}{79}
+\indexentry{returnToShip@{returnToShip}!Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}|hyperpage}{79}
+\indexentry{Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}!setOpcao@{setOpcao}|hyperpage}{79}
+\indexentry{setOpcao@{setOpcao}!Planet\_Bound.logica.estados.IEstado@{Planet\_Bound.logica.estados.IEstado}|hyperpage}{79}
+\indexentry{Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco@{Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco}|hyperpage}{79}
+\indexentry{Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco@{Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco}!InfoEspaco@{InfoEspaco}|hyperpage}{80}
+\indexentry{InfoEspaco@{InfoEspaco}!Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco@{Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco}|hyperpage}{80}
+\indexentry{Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco@{Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco}!setUp@{setUp}|hyperpage}{80}
+\indexentry{setUp@{setUp}!Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco@{Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco}|hyperpage}{80}
+\indexentry{Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco@{Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco}!update@{update}|hyperpage}{80}
+\indexentry{update@{update}!Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco@{Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco}|hyperpage}{80}
+\indexentry{Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco@{Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco}!modelo@{modelo}|hyperpage}{80}
+\indexentry{modelo@{modelo}!Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco@{Planet\_Bound.ui.gui.info.extraInfo.InfoEspaco}|hyperpage}{80}
+\indexentry{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta@{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}|hyperpage}{81}
+\indexentry{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta@{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}!InfoPlaneta@{InfoPlaneta}|hyperpage}{81}
+\indexentry{InfoPlaneta@{InfoPlaneta}!Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta@{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}|hyperpage}{81}
+\indexentry{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta@{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}!setUp@{setUp}|hyperpage}{81}
+\indexentry{setUp@{setUp}!Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta@{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}|hyperpage}{81}
+\indexentry{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta@{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}!update@{update}|hyperpage}{82}
+\indexentry{update@{update}!Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta@{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}|hyperpage}{82}
+\indexentry{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta@{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}!droneStats@{droneStats}|hyperpage}{82}
+\indexentry{droneStats@{droneStats}!Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta@{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}|hyperpage}{82}
+\indexentry{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta@{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}!modelo@{modelo}|hyperpage}{82}
+\indexentry{modelo@{modelo}!Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta@{Planet\_Bound.ui.gui.info.extraInfo.InfoPlaneta}|hyperpage}{82}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}|hyperpage}{82}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!ITerreno@{ITerreno}|hyperpage}{83}
+\indexentry{ITerreno@{ITerreno}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}|hyperpage}{83}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!droneHasResource@{droneHasResource}|hyperpage}{83}
+\indexentry{droneHasResource@{droneHasResource}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}|hyperpage}{83}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!getAlienType@{getAlienType}|hyperpage}{83}
+\indexentry{getAlienType@{getAlienType}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}|hyperpage}{83}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!getCoordenadas@{getCoordenadas}|hyperpage}{83}
+\indexentry{getCoordenadas@{getCoordenadas}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}|hyperpage}{83}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!getCoordenadas@{getCoordenadas}|hyperpage}{84}
+\indexentry{getCoordenadas@{getCoordenadas}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}|hyperpage}{84}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!getCounter@{getCounter}|hyperpage}{84}
+\indexentry{getCounter@{getCounter}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}|hyperpage}{84}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!getDroneHealth@{getDroneHealth}|hyperpage}{84}
+\indexentry{getDroneHealth@{getDroneHealth}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}|hyperpage}{84}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!getResourceType@{getResourceType}|hyperpage}{84}
+\indexentry{getResourceType@{getResourceType}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}|hyperpage}{84}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!getTerreno@{getTerreno}|hyperpage}{85}
+\indexentry{getTerreno@{getTerreno}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}|hyperpage}{85}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}!terreno@{terreno}|hyperpage}{85}
+\indexentry{terreno@{terreno}!Planet\_Bound.logica.Ship.ITerreno@{Planet\_Bound.logica.Ship.ITerreno}|hyperpage}{85}
+\indexentry{Planet\_Bound.Main@{Planet\_Bound.Main}|hyperpage}{85}
+\indexentry{Planet\_Bound.Main@{Planet\_Bound.Main}!main@{main}|hyperpage}{85}
+\indexentry{main@{main}!Planet\_Bound.Main@{Planet\_Bound.Main}|hyperpage}{85}
+\indexentry{Planet\_Bound.Main@{Planet\_Bound.Main}!printhelp@{printhelp}|hyperpage}{85}
+\indexentry{printhelp@{printhelp}!Planet\_Bound.Main@{Planet\_Bound.Main}|hyperpage}{85}
+\indexentry{Planet\_Bound.Main@{Planet\_Bound.Main}!versao@{versao}|hyperpage}{86}
+\indexentry{versao@{versao}!Planet\_Bound.Main@{Planet\_Bound.Main}|hyperpage}{86}
+\indexentry{Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}|hyperpage}{86}
+\indexentry{Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}!NoEspaco@{NoEspaco}|hyperpage}{87}
+\indexentry{NoEspaco@{NoEspaco}!Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}|hyperpage}{87}
+\indexentry{Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}!aplicaEvento@{aplicaEvento}|hyperpage}{87}
+\indexentry{aplicaEvento@{aplicaEvento}!Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}|hyperpage}{87}
+\indexentry{Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}!convertResources@{convertResources}|hyperpage}{87}
+\indexentry{convertResources@{convertResources}!Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}|hyperpage}{87}
+\indexentry{Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}!getEstado@{getEstado}|hyperpage}{87}
+\indexentry{getEstado@{getEstado}!Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}|hyperpage}{87}
+\indexentry{Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}!landOnSpaceStation@{landOnSpaceStation}|hyperpage}{87}
+\indexentry{landOnSpaceStation@{landOnSpaceStation}!Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}|hyperpage}{87}
+\indexentry{Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}!landOnThePlanet@{landOnThePlanet}|hyperpage}{88}
+\indexentry{landOnThePlanet@{landOnThePlanet}!Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}|hyperpage}{88}
+\indexentry{Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}!proximoPlaneta@{proximoPlaneta}|hyperpage}{88}
+\indexentry{proximoPlaneta@{proximoPlaneta}!Planet\_Bound.logica.estados.noespaco.NoEspaco@{Planet\_Bound.logica.estados.noespaco.NoEspaco}|hyperpage}{88}
+\indexentry{Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}|hyperpage}{88}
+\indexentry{Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}!NoTerreno@{NoTerreno}|hyperpage}{89}
+\indexentry{NoTerreno@{NoTerreno}!Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}|hyperpage}{89}
+\indexentry{Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}!getEstado@{getEstado}|hyperpage}{89}
+\indexentry{getEstado@{getEstado}!Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}|hyperpage}{89}
+\indexentry{Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}!move@{move}|hyperpage}{89}
+\indexentry{move@{move}!Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}|hyperpage}{89}
+\indexentry{Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}!returnToShip@{returnToShip}|hyperpage}{89}
+\indexentry{returnToShip@{returnToShip}!Planet\_Bound.logica.estados.noterreno.NoTerreno@{Planet\_Bound.logica.estados.noterreno.NoTerreno}|hyperpage}{89}
+\indexentry{Planet\_Bound.logica.estados.birthanddeath.NovoShip@{Planet\_Bound.logica.estados.birthanddeath.NovoShip}|hyperpage}{90}
+\indexentry{Planet\_Bound.logica.estados.birthanddeath.NovoShip@{Planet\_Bound.logica.estados.birthanddeath.NovoShip}!NovoShip@{NovoShip}|hyperpage}{90}
+\indexentry{NovoShip@{NovoShip}!Planet\_Bound.logica.estados.birthanddeath.NovoShip@{Planet\_Bound.logica.estados.birthanddeath.NovoShip}|hyperpage}{90}
+\indexentry{Planet\_Bound.logica.estados.birthanddeath.NovoShip@{Planet\_Bound.logica.estados.birthanddeath.NovoShip}!getEstado@{getEstado}|hyperpage}{90}
+\indexentry{getEstado@{getEstado}!Planet\_Bound.logica.estados.birthanddeath.NovoShip@{Planet\_Bound.logica.estados.birthanddeath.NovoShip}|hyperpage}{90}
+\indexentry{Planet\_Bound.logica.estados.birthanddeath.NovoShip@{Planet\_Bound.logica.estados.birthanddeath.NovoShip}!setOpcao@{setOpcao}|hyperpage}{91}
+\indexentry{setOpcao@{setOpcao}!Planet\_Bound.logica.estados.birthanddeath.NovoShip@{Planet\_Bound.logica.estados.birthanddeath.NovoShip}|hyperpage}{91}
+\indexentry{Planet\_Bound.logica.dados.aux.Officer@{Planet\_Bound.logica.dados.aux.Officer}|hyperpage}{91}
+\indexentry{Planet\_Bound.logica.dados.aux.Officer@{Planet\_Bound.logica.dados.aux.Officer}!Captain@{Captain}|hyperpage}{91}
+\indexentry{Captain@{Captain}!Planet\_Bound.logica.dados.aux.Officer@{Planet\_Bound.logica.dados.aux.Officer}|hyperpage}{91}
+\indexentry{Planet\_Bound.logica.dados.aux.Officer@{Planet\_Bound.logica.dados.aux.Officer}!Cargo@{Cargo}|hyperpage}{91}
+\indexentry{Cargo@{Cargo}!Planet\_Bound.logica.dados.aux.Officer@{Planet\_Bound.logica.dados.aux.Officer}|hyperpage}{91}
+\indexentry{Planet\_Bound.logica.dados.aux.Officer@{Planet\_Bound.logica.dados.aux.Officer}!Landing@{Landing}|hyperpage}{91}
+\indexentry{Landing@{Landing}!Planet\_Bound.logica.dados.aux.Officer@{Planet\_Bound.logica.dados.aux.Officer}|hyperpage}{91}
+\indexentry{Planet\_Bound.logica.dados.aux.Officer@{Planet\_Bound.logica.dados.aux.Officer}!Navigation@{Navigation}|hyperpage}{92}
+\indexentry{Navigation@{Navigation}!Planet\_Bound.logica.dados.aux.Officer@{Planet\_Bound.logica.dados.aux.Officer}|hyperpage}{92}
+\indexentry{Planet\_Bound.logica.dados.aux.Officer@{Planet\_Bound.logica.dados.aux.Officer}!Shilds@{Shilds}|hyperpage}{92}
+\indexentry{Shilds@{Shilds}!Planet\_Bound.logica.dados.aux.Officer@{Planet\_Bound.logica.dados.aux.Officer}|hyperpage}{92}
+\indexentry{Planet\_Bound.logica.dados.aux.Officer@{Planet\_Bound.logica.dados.aux.Officer}!Weapons@{Weapons}|hyperpage}{92}
+\indexentry{Weapons@{Weapons}!Planet\_Bound.logica.dados.aux.Officer@{Planet\_Bound.logica.dados.aux.Officer}|hyperpage}{92}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}|hyperpage}{92}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}!OnSpaceStation@{OnSpaceStation}|hyperpage}{93}
+\indexentry{OnSpaceStation@{OnSpaceStation}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}|hyperpage}{93}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}!getEstado@{getEstado}|hyperpage}{93}
+\indexentry{getEstado@{getEstado}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}|hyperpage}{93}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}!resourceExiste@{resourceExiste}|hyperpage}{93}
+\indexentry{resourceExiste@{resourceExiste}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}|hyperpage}{93}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}!setOpcao@{setOpcao}|hyperpage}{94}
+\indexentry{setOpcao@{setOpcao}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}|hyperpage}{94}
+\indexentry{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}!verificaeretiraNrecursosdotipoYparaobterX@{verificaeretiraNrecursosdotipoYparaobterX}|hyperpage}{94}
+\indexentry{verificaeretiraNrecursosdotipoYparaobterX@{verificaeretiraNrecursosdotipoYparaobterX}!Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation@{Planet\_Bound.logica.estados.noespaco.menusdospacestation.OnSpaceStation}|hyperpage}{94}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{94}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}!Options@{Options}|hyperpage}{95}
+\indexentry{Options@{Options}!Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{95}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}!Options@{Options}|hyperpage}{95}
+\indexentry{Options@{Options}!Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{95}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}!Options@{Options}|hyperpage}{95}
+\indexentry{Options@{Options}!Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{95}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}!getHeaderResource@{getHeaderResource}|hyperpage}{96}
+\indexentry{getHeaderResource@{getHeaderResource}!Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{96}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}!getHeaderString@{getHeaderString}|hyperpage}{96}
+\indexentry{getHeaderString@{getHeaderString}!Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{96}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}!getNOptions@{getNOptions}|hyperpage}{96}
+\indexentry{getNOptions@{getNOptions}!Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{96}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}!getOptionsResources@{getOptionsResources}|hyperpage}{96}
+\indexentry{getOptionsResources@{getOptionsResources}!Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{96}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}!getOptionsString@{getOptionsString}|hyperpage}{96}
+\indexentry{getOptionsString@{getOptionsString}!Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{96}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}!toString@{toString}|hyperpage}{96}
+\indexentry{toString@{toString}!Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{96}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}!headerResource@{headerResource}|hyperpage}{96}
+\indexentry{headerResource@{headerResource}!Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{96}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}!headerString@{headerString}|hyperpage}{97}
+\indexentry{headerString@{headerString}!Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{97}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}!optionsResource@{optionsResource}|hyperpage}{97}
+\indexentry{optionsResource@{optionsResource}!Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{97}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}!optionsSize@{optionsSize}|hyperpage}{97}
+\indexentry{optionsSize@{optionsSize}!Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{97}
+\indexentry{Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}!optionsString@{optionsString}|hyperpage}{97}
+\indexentry{optionsString@{optionsString}!Planet\_Bound.logica.dados.aux.Options@{Planet\_Bound.logica.dados.aux.Options}|hyperpage}{97}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.PlanetType@{Planet\_Bound.logica.dados.resourcesandplanets.PlanetType}|hyperpage}{97}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.PlanetType@{Planet\_Bound.logica.dados.resourcesandplanets.PlanetType}!Black@{Black}|hyperpage}{97}
+\indexentry{Black@{Black}!Planet\_Bound.logica.dados.resourcesandplanets.PlanetType@{Planet\_Bound.logica.dados.resourcesandplanets.PlanetType}|hyperpage}{97}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.PlanetType@{Planet\_Bound.logica.dados.resourcesandplanets.PlanetType}!Blue@{Blue}|hyperpage}{98}
+\indexentry{Blue@{Blue}!Planet\_Bound.logica.dados.resourcesandplanets.PlanetType@{Planet\_Bound.logica.dados.resourcesandplanets.PlanetType}|hyperpage}{98}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.PlanetType@{Planet\_Bound.logica.dados.resourcesandplanets.PlanetType}!Green@{Green}|hyperpage}{98}
+\indexentry{Green@{Green}!Planet\_Bound.logica.dados.resourcesandplanets.PlanetType@{Planet\_Bound.logica.dados.resourcesandplanets.PlanetType}|hyperpage}{98}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.PlanetType@{Planet\_Bound.logica.dados.resourcesandplanets.PlanetType}!Red@{Red}|hyperpage}{98}
+\indexentry{Red@{Red}!Planet\_Bound.logica.dados.resourcesandplanets.PlanetType@{Planet\_Bound.logica.dados.resourcesandplanets.PlanetType}|hyperpage}{98}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}|hyperpage}{98}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}!Ammo@{Ammo}|hyperpage}{99}
+\indexentry{Ammo@{Ammo}!Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}|hyperpage}{99}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}!Artifact@{Artifact}|hyperpage}{99}
+\indexentry{Artifact@{Artifact}!Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}|hyperpage}{99}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}!Black@{Black}|hyperpage}{99}
+\indexentry{Black@{Black}!Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}|hyperpage}{99}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}!Blue@{Blue}|hyperpage}{99}
+\indexentry{Blue@{Blue}!Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}|hyperpage}{99}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}!Fuel@{Fuel}|hyperpage}{99}
+\indexentry{Fuel@{Fuel}!Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}|hyperpage}{99}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}!Green@{Green}|hyperpage}{99}
+\indexentry{Green@{Green}!Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}|hyperpage}{99}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}!Red@{Red}|hyperpage}{100}
+\indexentry{Red@{Red}!Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}|hyperpage}{100}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}!Shield@{Shield}|hyperpage}{100}
+\indexentry{Shield@{Shield}!Planet\_Bound.logica.dados.resourcesandplanets.Resource@{Planet\_Bound.logica.dados.resourcesandplanets.Resource}|hyperpage}{100}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet}|hyperpage}{100}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet}!ResourceInPlanet@{ResourceInPlanet}|hyperpage}{101}
+\indexentry{ResourceInPlanet@{ResourceInPlanet}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet}|hyperpage}{101}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet}!getResourceType@{getResourceType}|hyperpage}{101}
+\indexentry{getResourceType@{getResourceType}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet}|hyperpage}{101}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet}!apanhadoPeloDrone@{apanhadoPeloDrone}|hyperpage}{101}
+\indexentry{apanhadoPeloDrone@{apanhadoPeloDrone}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet}|hyperpage}{101}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet}!resourceType@{resourceType}|hyperpage}{101}
+\indexentry{resourceType@{resourceType}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno.ResourceInPlanet}|hyperpage}{101}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{101}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!ResourceTypes@{ResourceTypes}|hyperpage}{102}
+\indexentry{ResourceTypes@{ResourceTypes}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{102}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!fillVector@{fillVector}|hyperpage}{102}
+\indexentry{fillVector@{fillVector}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{102}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!fillVector@{fillVector}|hyperpage}{102}
+\indexentry{fillVector@{fillVector}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{102}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!getNormalResources@{getNormalResources}|hyperpage}{103}
+\indexentry{getNormalResources@{getNormalResources}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{103}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!getPlanetBlack@{getPlanetBlack}|hyperpage}{103}
+\indexentry{getPlanetBlack@{getPlanetBlack}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{103}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!getPlanetBlue@{getPlanetBlue}|hyperpage}{103}
+\indexentry{getPlanetBlue@{getPlanetBlue}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{103}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!getPlanetGreen@{getPlanetGreen}|hyperpage}{103}
+\indexentry{getPlanetGreen@{getPlanetGreen}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{103}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!getPlanetRed@{getPlanetRed}|hyperpage}{103}
+\indexentry{getPlanetRed@{getPlanetRed}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{103}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!getPlanetTypes@{getPlanetTypes}|hyperpage}{103}
+\indexentry{getPlanetTypes@{getPlanetTypes}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{103}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!randomPlanet@{randomPlanet}|hyperpage}{103}
+\indexentry{randomPlanet@{randomPlanet}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{103}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!planetBlack@{planetBlack}|hyperpage}{104}
+\indexentry{planetBlack@{planetBlack}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{104}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!planetBlue@{planetBlue}|hyperpage}{104}
+\indexentry{planetBlue@{planetBlue}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{104}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!planetGreen@{planetGreen}|hyperpage}{104}
+\indexentry{planetGreen@{planetGreen}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{104}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!planetRed@{planetRed}|hyperpage}{104}
+\indexentry{planetRed@{planetRed}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{104}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!planets@{planets}|hyperpage}{104}
+\indexentry{planets@{planets}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{104}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}!recursos@{recursos}|hyperpage}{104}
+\indexentry{recursos@{recursos}!Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes@{Planet\_Bound.logica.dados.resourcesandplanets.ResourceTypes}|hyperpage}{104}
+\indexentry{Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}|hyperpage}{105}
+\indexentry{Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}!Root@{Root}|hyperpage}{105}
+\indexentry{Root@{Root}!Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}|hyperpage}{105}
+\indexentry{Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}!organizaComponentes@{organizaComponentes}|hyperpage}{106}
+\indexentry{organizaComponentes@{organizaComponentes}!Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}|hyperpage}{106}
+\indexentry{Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}!updateSize@{updateSize}|hyperpage}{106}
+\indexentry{updateSize@{updateSize}!Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}|hyperpage}{106}
+\indexentry{Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}!center@{center}|hyperpage}{106}
+\indexentry{center@{center}!Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}|hyperpage}{106}
+\indexentry{Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}!gLog@{gLog}|hyperpage}{106}
+\indexentry{gLog@{gLog}!Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}|hyperpage}{106}
+\indexentry{Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}!gRecursos@{gRecursos}|hyperpage}{106}
+\indexentry{gRecursos@{gRecursos}!Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}|hyperpage}{106}
+\indexentry{Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}!gTop@{gTop}|hyperpage}{106}
+\indexentry{gTop@{gTop}!Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}|hyperpage}{106}
+\indexentry{Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}!modelo@{modelo}|hyperpage}{107}
+\indexentry{modelo@{modelo}!Planet\_Bound.ui.gui.Root@{Planet\_Bound.ui.gui.Root}|hyperpage}{107}
+\indexentry{Planet\_Bound.ui.gui.Root.RootBackground@{Planet\_Bound.ui.gui.Root.RootBackground}|hyperpage}{107}
+\indexentry{Planet\_Bound.ui.gui.Root.RootBackground@{Planet\_Bound.ui.gui.Root.RootBackground}!Space@{Space}|hyperpage}{107}
+\indexentry{Space@{Space}!Planet\_Bound.ui.gui.Root.RootBackground@{Planet\_Bound.ui.gui.Root.RootBackground}|hyperpage}{107}
+\indexentry{Planet\_Bound.ui.gui.Root.RootBackground@{Planet\_Bound.ui.gui.Root.RootBackground}!Store@{Store}|hyperpage}{107}
+\indexentry{Store@{Store}!Planet\_Bound.ui.gui.Root.RootBackground@{Planet\_Bound.ui.gui.Root.RootBackground}|hyperpage}{107}
+\indexentry{Planet\_Bound.ui.gui.Root.RootBackground@{Planet\_Bound.ui.gui.Root.RootBackground}!Terreno@{Terreno}|hyperpage}{107}
+\indexentry{Terreno@{Terreno}!Planet\_Bound.ui.gui.Root.RootBackground@{Planet\_Bound.ui.gui.Root.RootBackground}|hyperpage}{107}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{108}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!Ship@{Ship}|hyperpage}{109}
+\indexentry{Ship@{Ship}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{109}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!addEvent@{addEvent}|hyperpage}{109}
+\indexentry{addEvent@{addEvent}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{109}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!aplicaEvento@{aplicaEvento}|hyperpage}{109}
+\indexentry{aplicaEvento@{aplicaEvento}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{109}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!convertResources@{convertResources}|hyperpage}{110}
+\indexentry{convertResources@{convertResources}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{110}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!getAllUnreadEvents@{getAllUnreadEvents}|hyperpage}{110}
+\indexentry{getAllUnreadEvents@{getAllUnreadEvents}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{110}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!getEvents@{getEvents}|hyperpage}{110}
+\indexentry{getEvents@{getEvents}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{110}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!getIEstado@{getIEstado}|hyperpage}{110}
+\indexentry{getIEstado@{getIEstado}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{110}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!getITerreno@{getITerreno}|hyperpage}{110}
+\indexentry{getITerreno@{getITerreno}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{110}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!getNLastEvents@{getNLastEvents}|hyperpage}{110}
+\indexentry{getNLastEvents@{getNLastEvents}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{110}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!getPlanet@{getPlanet}|hyperpage}{111}
+\indexentry{getPlanet@{getPlanet}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{111}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!getShipDados@{getShipDados}|hyperpage}{111}
+\indexentry{getShipDados@{getShipDados}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{111}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!getTerreno@{getTerreno}|hyperpage}{111}
+\indexentry{getTerreno@{getTerreno}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{111}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!landOnSpaceStation@{landOnSpaceStation}|hyperpage}{111}
+\indexentry{landOnSpaceStation@{landOnSpaceStation}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{111}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!landOnThePlanet@{landOnThePlanet}|hyperpage}{111}
+\indexentry{landOnThePlanet@{landOnThePlanet}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{111}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!move@{move}|hyperpage}{111}
+\indexentry{move@{move}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{111}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!novoJogo@{novoJogo}|hyperpage}{111}
+\indexentry{novoJogo@{novoJogo}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{111}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!proximoPlaneta@{proximoPlaneta}|hyperpage}{112}
+\indexentry{proximoPlaneta@{proximoPlaneta}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{112}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!returnToShip@{returnToShip}|hyperpage}{112}
+\indexentry{returnToShip@{returnToShip}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{112}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!setEstado@{setEstado}|hyperpage}{112}
+\indexentry{setEstado@{setEstado}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{112}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!setOpcao@{setOpcao}|hyperpage}{112}
+\indexentry{setOpcao@{setOpcao}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{112}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!estado@{estado}|hyperpage}{112}
+\indexentry{estado@{estado}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{112}
+\indexentry{Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}!shipDados@{shipDados}|hyperpage}{112}
+\indexentry{shipDados@{shipDados}!Planet\_Bound.logica.Ship@{Planet\_Bound.logica.Ship}|hyperpage}{112}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{113}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!ShipDados@{ShipDados}|hyperpage}{115}
+\indexentry{ShipDados@{ShipDados}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{115}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!comprarDrone@{comprarDrone}|hyperpage}{115}
+\indexentry{comprarDrone@{comprarDrone}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{115}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!deleteTerreno@{deleteTerreno}|hyperpage}{115}
+\indexentry{deleteTerreno@{deleteTerreno}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{115}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!deVoltaAShipComRecurso@{deVoltaAShipComRecurso}|hyperpage}{116}
+\indexentry{deVoltaAShipComRecurso@{deVoltaAShipComRecurso}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{116}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!getRandom@{getRandom}|hyperpage}{116}
+\indexentry{getRandom@{getRandom}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{116}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!getTerreno@{getTerreno}|hyperpage}{116}
+\indexentry{getTerreno@{getTerreno}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{116}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!hasDrone@{hasDrone}|hyperpage}{116}
+\indexentry{hasDrone@{hasDrone}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{116}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!morteDoDrone@{morteDoDrone}|hyperpage}{116}
+\indexentry{morteDoDrone@{morteDoDrone}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{116}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!artfactoFoiMinado@{artfactoFoiMinado}|hyperpage}{116}
+\indexentry{artfactoFoiMinado@{artfactoFoiMinado}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{116}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!cargo\_multiplyer@{cargo\_multiplyer}|hyperpage}{116}
+\indexentry{cargo\_multiplyer@{cargo\_multiplyer}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{116}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!cargo\_multiplyer\_max@{cargo\_multiplyer\_max}|hyperpage}{117}
+\indexentry{cargo\_multiplyer\_max@{cargo\_multiplyer\_max}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{117}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!cargo\_upgraded\_here@{cargo\_upgraded\_here}|hyperpage}{117}
+\indexentry{cargo\_upgraded\_here@{cargo\_upgraded\_here}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{117}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!drone@{drone}|hyperpage}{117}
+\indexentry{drone@{drone}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{117}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!fuel\_max@{fuel\_max}|hyperpage}{117}
+\indexentry{fuel\_max@{fuel\_max}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{117}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!planetType@{planetType}|hyperpage}{117}
+\indexentry{planetType@{planetType}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{117}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!shield\_max@{shield\_max}|hyperpage}{117}
+\indexentry{shield\_max@{shield\_max}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{117}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!shipType@{shipType}|hyperpage}{117}
+\indexentry{shipType@{shipType}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{117}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!spaceStation@{spaceStation}|hyperpage}{117}
+\indexentry{spaceStation@{spaceStation}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{117}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!terreno@{terreno}|hyperpage}{118}
+\indexentry{terreno@{terreno}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{118}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!vezesQueSePodeVizitarOPlaneta@{vezesQueSePodeVizitarOPlaneta}|hyperpage}{118}
+\indexentry{vezesQueSePodeVizitarOPlaneta@{vezesQueSePodeVizitarOPlaneta}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{118}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}!weapon\_max@{weapon\_max}|hyperpage}{118}
+\indexentry{weapon\_max@{weapon\_max}!Planet\_Bound.logica.dados.ship.ShipDados@{Planet\_Bound.logica.dados.ship.ShipDados}|hyperpage}{118}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{118}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!ShipObservavel@{ShipObservavel}|hyperpage}{119}
+\indexentry{ShipObservavel@{ShipObservavel}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{119}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!addEvent@{addEvent}|hyperpage}{120}
+\indexentry{addEvent@{addEvent}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{120}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!addPropertyChangeListener@{addPropertyChangeListener}|hyperpage}{120}
+\indexentry{addPropertyChangeListener@{addPropertyChangeListener}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{120}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!addPropertyChangeListener@{addPropertyChangeListener}|hyperpage}{120}
+\indexentry{addPropertyChangeListener@{addPropertyChangeListener}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{120}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!ClearEvents@{ClearEvents}|hyperpage}{120}
+\indexentry{ClearEvents@{ClearEvents}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{120}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!convertResources@{convertResources}|hyperpage}{120}
+\indexentry{convertResources@{convertResources}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{120}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!droneHasResource@{droneHasResource}|hyperpage}{120}
+\indexentry{droneHasResource@{droneHasResource}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{120}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getAllUnreadEvents@{getAllUnreadEvents}|hyperpage}{121}
+\indexentry{getAllUnreadEvents@{getAllUnreadEvents}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{121}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getCargoHold@{getCargoHold}|hyperpage}{121}
+\indexentry{getCargoHold@{getCargoHold}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{121}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getEstado@{getEstado}|hyperpage}{121}
+\indexentry{getEstado@{getEstado}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{121}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getEstadoClass@{getEstadoClass}|hyperpage}{121}
+\indexentry{getEstadoClass@{getEstadoClass}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{121}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getEstadoJogo@{getEstadoJogo}|hyperpage}{121}
+\indexentry{getEstadoJogo@{getEstadoJogo}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{121}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getEvents@{getEvents}|hyperpage}{121}
+\indexentry{getEvents@{getEvents}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{121}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getITerreno@{getITerreno}|hyperpage}{121}
+\indexentry{getITerreno@{getITerreno}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{121}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getMaxOfResourceY@{getMaxOfResourceY}|hyperpage}{121}
+\indexentry{getMaxOfResourceY@{getMaxOfResourceY}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{121}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getNdeYRecursos@{getNdeYRecursos}|hyperpage}{122}
+\indexentry{getNdeYRecursos@{getNdeYRecursos}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{122}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getNLastEvents@{getNLastEvents}|hyperpage}{122}
+\indexentry{getNLastEvents@{getNLastEvents}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{122}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getOfficers@{getOfficers}|hyperpage}{122}
+\indexentry{getOfficers@{getOfficers}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{122}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getOptions@{getOptions}|hyperpage}{122}
+\indexentry{getOptions@{getOptions}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{122}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getPlanetType@{getPlanetType}|hyperpage}{122}
+\indexentry{getPlanetType@{getPlanetType}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{122}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getResourceTypes@{getResourceTypes}|hyperpage}{122}
+\indexentry{getResourceTypes@{getResourceTypes}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{122}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getShipType@{getShipType}|hyperpage}{122}
+\indexentry{getShipType@{getShipType}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{122}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getUnreadEvents@{getUnreadEvents}|hyperpage}{123}
+\indexentry{getUnreadEvents@{getUnreadEvents}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{123}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!getVezesQueSePodeVizitarOPlaneta@{getVezesQueSePodeVizitarOPlaneta}|hyperpage}{123}
+\indexentry{getVezesQueSePodeVizitarOPlaneta@{getVezesQueSePodeVizitarOPlaneta}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{123}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!hasDrone@{hasDrone}|hyperpage}{123}
+\indexentry{hasDrone@{hasDrone}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{123}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!hasOfficer@{hasOfficer}|hyperpage}{123}
+\indexentry{hasOfficer@{hasOfficer}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{123}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!hasSpaceStation@{hasSpaceStation}|hyperpage}{123}
+\indexentry{hasSpaceStation@{hasSpaceStation}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{123}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!landOnSpaceStation@{landOnSpaceStation}|hyperpage}{123}
+\indexentry{landOnSpaceStation@{landOnSpaceStation}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{123}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!landOnThePlanet@{landOnThePlanet}|hyperpage}{123}
+\indexentry{landOnThePlanet@{landOnThePlanet}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{123}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!load@{load}|hyperpage}{124}
+\indexentry{load@{load}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{124}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!move@{move}|hyperpage}{124}
+\indexentry{move@{move}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{124}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!novoJogo@{novoJogo}|hyperpage}{124}
+\indexentry{novoJogo@{novoJogo}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{124}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!proximoPlaneta@{proximoPlaneta}|hyperpage}{124}
+\indexentry{proximoPlaneta@{proximoPlaneta}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{124}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!returnToShip@{returnToShip}|hyperpage}{124}
+\indexentry{returnToShip@{returnToShip}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{124}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!save@{save}|hyperpage}{124}
+\indexentry{save@{save}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{124}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!setDebugEvents@{setDebugEvents}|hyperpage}{124}
+\indexentry{setDebugEvents@{setDebugEvents}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{124}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!setOpcao@{setOpcao}|hyperpage}{125}
+\indexentry{setOpcao@{setOpcao}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{125}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!propertyChangeSupport@{propertyChangeSupport}|hyperpage}{125}
+\indexentry{propertyChangeSupport@{propertyChangeSupport}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{125}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!serialVersionUID@{serialVersionUID}|hyperpage}{125}
+\indexentry{serialVersionUID@{serialVersionUID}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{125}
+\indexentry{Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}!ship@{ship}|hyperpage}{125}
+\indexentry{ship@{ship}!Planet\_Bound.logica.ShipObservavel@{Planet\_Bound.logica.ShipObservavel}|hyperpage}{125}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipType@{Planet\_Bound.logica.dados.ship.ShipType}|hyperpage}{125}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipType@{Planet\_Bound.logica.dados.ship.ShipType}!military@{military}|hyperpage}{126}
+\indexentry{military@{military}!Planet\_Bound.logica.dados.ship.ShipType@{Planet\_Bound.logica.dados.ship.ShipType}|hyperpage}{126}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipType@{Planet\_Bound.logica.dados.ship.ShipType}!mining@{mining}|hyperpage}{126}
+\indexentry{mining@{mining}!Planet\_Bound.logica.dados.ship.ShipType@{Planet\_Bound.logica.dados.ship.ShipType}|hyperpage}{126}
+\indexentry{Planet\_Bound.logica.dados.ship.ShipType@{Planet\_Bound.logica.dados.ship.ShipType}!placeholder@{placeholder}|hyperpage}{126}
+\indexentry{placeholder@{placeholder}!Planet\_Bound.logica.dados.ship.ShipType@{Planet\_Bound.logica.dados.ship.ShipType}|hyperpage}{126}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{126}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!Terreno@{Terreno}|hyperpage}{127}
+\indexentry{Terreno@{Terreno}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{127}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!ATTACK@{ATTACK}|hyperpage}{128}
+\indexentry{ATTACK@{ATTACK}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{128}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!criaNovoAlien@{criaNovoAlien}|hyperpage}{128}
+\indexentry{criaNovoAlien@{criaNovoAlien}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{128}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!droneHasResource@{droneHasResource}|hyperpage}{128}
+\indexentry{droneHasResource@{droneHasResource}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{128}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!getAlien@{getAlien}|hyperpage}{128}
+\indexentry{getAlien@{getAlien}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{128}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!getCounter@{getCounter}|hyperpage}{128}
+\indexentry{getCounter@{getCounter}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{128}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!getDrone@{getDrone}|hyperpage}{128}
+\indexentry{getDrone@{getDrone}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{128}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!getLocalInicialX@{getLocalInicialX}|hyperpage}{128}
+\indexentry{getLocalInicialX@{getLocalInicialX}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{128}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!getLocalInicialY@{getLocalInicialY}|hyperpage}{129}
+\indexentry{getLocalInicialY@{getLocalInicialY}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{129}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!getOppositeDirection@{getOppositeDirection}|hyperpage}{129}
+\indexentry{getOppositeDirection@{getOppositeDirection}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{129}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!getResource@{getResource}|hyperpage}{129}
+\indexentry{getResource@{getResource}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{129}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!inTheSameSpot@{inTheSameSpot}|hyperpage}{129}
+\indexentry{inTheSameSpot@{inTheSameSpot}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{129}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!moveAlien@{moveAlien}|hyperpage}{129}
+\indexentry{moveAlien@{moveAlien}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{129}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!moveDrone@{moveDrone}|hyperpage}{129}
+\indexentry{moveDrone@{moveDrone}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{129}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!moveObject@{moveObject}|hyperpage}{129}
+\indexentry{moveObject@{moveObject}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{129}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!nearBy@{nearBy}|hyperpage}{130}
+\indexentry{nearBy@{nearBy}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{130}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!randomDirection@{randomDirection}|hyperpage}{130}
+\indexentry{randomDirection@{randomDirection}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{130}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!alien@{alien}|hyperpage}{130}
+\indexentry{alien@{alien}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{130}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!counter@{counter}|hyperpage}{130}
+\indexentry{counter@{counter}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{130}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!drone@{drone}|hyperpage}{130}
+\indexentry{drone@{drone}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{130}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!localInicialX@{localInicialX}|hyperpage}{130}
+\indexentry{localInicialX@{localInicialX}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{130}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!localInicialY@{localInicialY}|hyperpage}{130}
+\indexentry{localInicialY@{localInicialY}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{130}
+\indexentry{Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}!resource@{resource}|hyperpage}{131}
+\indexentry{resource@{resource}!Planet\_Bound.logica.dados.resourcesandplanets.Terreno@{Planet\_Bound.logica.dados.resourcesandplanets.Terreno}|hyperpage}{131}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno.types@{Planet\_Bound.logica.Ship.ITerreno.types}|hyperpage}{131}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno.types@{Planet\_Bound.logica.Ship.ITerreno.types}!Alien@{Alien}|hyperpage}{131}
+\indexentry{Alien@{Alien}!Planet\_Bound.logica.Ship.ITerreno.types@{Planet\_Bound.logica.Ship.ITerreno.types}|hyperpage}{131}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno.types@{Planet\_Bound.logica.Ship.ITerreno.types}!Drone@{Drone}|hyperpage}{131}
+\indexentry{Drone@{Drone}!Planet\_Bound.logica.Ship.ITerreno.types@{Planet\_Bound.logica.Ship.ITerreno.types}|hyperpage}{131}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno.types@{Planet\_Bound.logica.Ship.ITerreno.types}!InicialSpot@{InicialSpot}|hyperpage}{131}
+\indexentry{InicialSpot@{InicialSpot}!Planet\_Bound.logica.Ship.ITerreno.types@{Planet\_Bound.logica.Ship.ITerreno.types}|hyperpage}{131}
+\indexentry{Planet\_Bound.logica.Ship.ITerreno.types@{Planet\_Bound.logica.Ship.ITerreno.types}!Resource@{Resource}|hyperpage}{131}
+\indexentry{Resource@{Resource}!Planet\_Bound.logica.Ship.ITerreno.types@{Planet\_Bound.logica.Ship.ITerreno.types}|hyperpage}{131}
+\indexentry{src/Planet\_Bound/logica/dados/aux/Direcoes.java@{src/Planet\_Bound/logica/dados/aux/Direcoes.java}|hyperpage}{133}
+\indexentry{src/Planet\_Bound/logica/dados/aux/Officer.java@{src/Planet\_Bound/logica/dados/aux/Officer.java}|hyperpage}{133}
+\indexentry{src/Planet\_Bound/logica/dados/aux/Options.java@{src/Planet\_Bound/logica/dados/aux/Options.java}|hyperpage}{133}
+\indexentry{src/Planet\_Bound/logica/dados/events/Event.java@{src/Planet\_Bound/logica/dados/events/Event.java}|hyperpage}{134}
+\indexentry{src/Planet\_Bound/logica/dados/events/EventType.java@{src/Planet\_Bound/logica/dados/events/EventType.java}|hyperpage}{134}
+\indexentry{src/Planet\_Bound/logica/dados/resourcesandplanets/PlanetType.java@{src/Planet\_Bound/logica/dados/resourcesandplanets/PlanetType.java}|hyperpage}{134}
+\indexentry{src/Planet\_Bound/logica/dados/resourcesandplanets/Resource.java@{src/Planet\_Bound/logica/dados/resourcesandplanets/Resource.java}|hyperpage}{134}
+\indexentry{src/Planet\_Bound/logica/dados/resourcesandplanets/ResourceTypes.java@{src/Planet\_Bound/logica/dados/resourcesandplanets/ResourceTypes.java}|hyperpage}{135}
+\indexentry{src/Planet\_Bound/logica/dados/resourcesandplanets/Terreno.java@{src/Planet\_Bound/logica/dados/resourcesandplanets/Terreno.java}|hyperpage}{135}
+\indexentry{src/Planet\_Bound/logica/dados/ship/ShipDados.java@{src/Planet\_Bound/logica/dados/ship/ShipDados.java}|hyperpage}{135}
+\indexentry{src/Planet\_Bound/logica/dados/ship/ShipType.java@{src/Planet\_Bound/logica/dados/ship/ShipType.java}|hyperpage}{136}
+\indexentry{src/Planet\_Bound/logica/estados/birthanddeath/GameOver.java@{src/Planet\_Bound/logica/estados/birthanddeath/GameOver.java}|hyperpage}{136}
+\indexentry{src/Planet\_Bound/logica/estados/birthanddeath/NovoShip.java@{src/Planet\_Bound/logica/estados/birthanddeath/NovoShip.java}|hyperpage}{136}
+\indexentry{src/Planet\_Bound/logica/estados/EstadoAdapter.java@{src/Planet\_Bound/logica/estados/EstadoAdapter.java}|hyperpage}{136}
+\indexentry{src/Planet\_Bound/logica/estados/EstadoJogo.java@{src/Planet\_Bound/logica/estados/EstadoJogo.java}|hyperpage}{137}
+\indexentry{src/Planet\_Bound/logica/estados/IEstado.java@{src/Planet\_Bound/logica/estados/IEstado.java}|hyperpage}{137}
+\indexentry{src/Planet\_Bound/logica/estados/noespaco/menusdospacestation/conversion/ConversionP1.java@{src/Planet\_Bound/logica/estados/noespaco/menusdospacestation/conversion/ConversionP1.java}|hyperpage}{137}
+\indexentry{src/Planet\_Bound/logica/estados/noespaco/menusdospacestation/conversion/ConversionP2.java@{src/Planet\_Bound/logica/estados/noespaco/menusdospacestation/conversion/ConversionP2.java}|hyperpage}{138}
+\indexentry{src/Planet\_Bound/logica/estados/noespaco/menusdospacestation/OnSpaceStation.java@{src/Planet\_Bound/logica/estados/noespaco/menusdospacestation/OnSpaceStation.java}|hyperpage}{138}
+\indexentry{src/Planet\_Bound/logica/estados/noespaco/NoEspaco.java@{src/Planet\_Bound/logica/estados/noespaco/NoEspaco.java}|hyperpage}{138}
+\indexentry{src/Planet\_Bound/logica/estados/noterreno/NoTerreno.java@{src/Planet\_Bound/logica/estados/noterreno/NoTerreno.java}|hyperpage}{138}
+\indexentry{src/Planet\_Bound/logica/Ship.java@{src/Planet\_Bound/logica/Ship.java}|hyperpage}{139}
+\indexentry{src/Planet\_Bound/logica/ShipObservavel.java@{src/Planet\_Bound/logica/ShipObservavel.java}|hyperpage}{139}
+\indexentry{src/Planet\_Bound/Main.java@{src/Planet\_Bound/Main.java}|hyperpage}{139}
+\indexentry{src/Planet\_Bound/ui/gui/estados/GEscolha.java@{src/Planet\_Bound/ui/gui/estados/GEscolha.java}|hyperpage}{139}
+\indexentry{src/Planet\_Bound/ui/gui/estados/GGameOver.java@{src/Planet\_Bound/ui/gui/estados/GGameOver.java}|hyperpage}{140}
+\indexentry{src/Planet\_Bound/ui/gui/estados/GNoEspaco.java@{src/Planet\_Bound/ui/gui/estados/GNoEspaco.java}|hyperpage}{140}
+\indexentry{src/Planet\_Bound/ui/gui/estados/GNovoShip.java@{src/Planet\_Bound/ui/gui/estados/GNovoShip.java}|hyperpage}{140}
+\indexentry{src/Planet\_Bound/ui/gui/estados/GTerreno.java@{src/Planet\_Bound/ui/gui/estados/GTerreno.java}|hyperpage}{140}
+\indexentry{src/Planet\_Bound/ui/gui/Gui.java@{src/Planet\_Bound/ui/gui/Gui.java}|hyperpage}{141}
+\indexentry{src/Planet\_Bound/ui/gui/Helper.java@{src/Planet\_Bound/ui/gui/Helper.java}|hyperpage}{141}
+\indexentry{src/Planet\_Bound/ui/gui/info/extraInfo/InfoEspaco.java@{src/Planet\_Bound/ui/gui/info/extraInfo/InfoEspaco.java}|hyperpage}{141}
+\indexentry{src/Planet\_Bound/ui/gui/info/extraInfo/InfoPlaneta.java@{src/Planet\_Bound/ui/gui/info/extraInfo/InfoPlaneta.java}|hyperpage}{141}
+\indexentry{src/Planet\_Bound/ui/gui/info/GLog.java@{src/Planet\_Bound/ui/gui/info/GLog.java}|hyperpage}{142}
+\indexentry{src/Planet\_Bound/ui/gui/info/GRecursos.java@{src/Planet\_Bound/ui/gui/info/GRecursos.java}|hyperpage}{142}
+\indexentry{src/Planet\_Bound/ui/gui/info/GResumo.java@{src/Planet\_Bound/ui/gui/info/GResumo.java}|hyperpage}{142}
+\indexentry{src/Planet\_Bound/ui/gui/info/GTop.java@{src/Planet\_Bound/ui/gui/info/GTop.java}|hyperpage}{142}
+\indexentry{src/Planet\_Bound/ui/gui/menu/GMenu.java@{src/Planet\_Bound/ui/gui/menu/GMenu.java}|hyperpage}{143}
+\indexentry{src/Planet\_Bound/ui/gui/Root.java@{src/Planet\_Bound/ui/gui/Root.java}|hyperpage}{143}

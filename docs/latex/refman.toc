@@ -1,0 +1,723 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {portuges}{}
+\contentsline {chapter}{\numberline {1}Trabalho de PA 1920}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introdução}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}No\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Espaço}{2}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Índice dos módulos}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Módulos}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Índice dos namespaces}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Pacotes}{5}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Índice da hierarquia}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Hierarquia de classes}{7}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Índice dos componentes}{9}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Lista de componentes}{9}{section.5.1}%
+\contentsline {chapter}{\numberline {6}Índice dos ficheiros}{11}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Lista de ficheiros}{11}{section.6.1}%
+\contentsline {chapter}{\numberline {7}Documentação do módulo}{13}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Randomizes}{13}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Descrição detalhada}{13}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Documentação das variáveis}{13}{subsection.7.1.2}%
+\contentsline {subsubsection}{\numberline {7.1.2.1}eventosnormais}{13}{subsubsection.7.1.2.1}%
+\contentsline {subsubsection}{\numberline {7.1.2.2}resourceTypes}{13}{subsubsection.7.1.2.2}%
+\contentsline {section}{\numberline {7.2}Secção das opções}{14}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Descrição detalhada}{14}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Documentação das funções}{14}{subsection.7.2.2}%
+\contentsline {subsubsection}{\numberline {7.2.2.1}addOfficer()}{15}{subsubsection.7.2.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.2.2}addXResourcesOfTypeY()}{15}{subsubsection.7.2.2.2}%
+\contentsline {subsubsection}{\numberline {7.2.2.3}deleteAllResourcesOfTypeY()}{15}{subsubsection.7.2.2.3}%
+\contentsline {subsubsection}{\numberline {7.2.2.4}deleteXResourcesOfTypeY()}{15}{subsubsection.7.2.2.4}%
+\contentsline {subsubsection}{\numberline {7.2.2.5}getCargoHold()}{15}{subsubsection.7.2.2.5}%
+\contentsline {subsubsection}{\numberline {7.2.2.6}getMaxOfResourceY()}{15}{subsubsection.7.2.2.6}%
+\contentsline {subsubsection}{\numberline {7.2.2.7}getNdeYRecursos()}{16}{subsubsection.7.2.2.7}%
+\contentsline {subsubsection}{\numberline {7.2.2.8}getOfficers()}{16}{subsubsection.7.2.2.8}%
+\contentsline {subsubsection}{\numberline {7.2.2.9}getOptions()}{16}{subsubsection.7.2.2.9}%
+\contentsline {subsubsection}{\numberline {7.2.2.10}getResourceTypes()}{16}{subsubsection.7.2.2.10}%
+\contentsline {subsubsection}{\numberline {7.2.2.11}getShipType()}{16}{subsubsection.7.2.2.11}%
+\contentsline {subsubsection}{\numberline {7.2.2.12}getVezesQueSePodeVizitarOPlaneta()}{16}{subsubsection.7.2.2.12}%
+\contentsline {subsubsection}{\numberline {7.2.2.13}hasOfficer()}{16}{subsubsection.7.2.2.13}%
+\contentsline {subsubsection}{\numberline {7.2.2.14}hasSpaceStation()}{17}{subsubsection.7.2.2.14}%
+\contentsline {subsubsection}{\numberline {7.2.2.15}novoPlanet()}{17}{subsubsection.7.2.2.15}%
+\contentsline {subsubsection}{\numberline {7.2.2.16}rechargeShields()}{17}{subsubsection.7.2.2.16}%
+\contentsline {subsubsection}{\numberline {7.2.2.17}removeOfficer()}{17}{subsubsection.7.2.2.17}%
+\contentsline {subsubsection}{\numberline {7.2.2.18}resourceExiste()}{17}{subsubsection.7.2.2.18}%
+\contentsline {subsubsection}{\numberline {7.2.2.19}setOptions()}{17}{subsubsection.7.2.2.19}%
+\contentsline {subsubsection}{\numberline {7.2.2.20}setXResourcesOfTypeY()}{17}{subsubsection.7.2.2.20}%
+\contentsline {subsubsection}{\numberline {7.2.2.21}upgradeCargoHold()}{18}{subsubsection.7.2.2.21}%
+\contentsline {subsubsection}{\numberline {7.2.2.22}upgradeWeaponSystem()}{18}{subsubsection.7.2.2.22}%
+\contentsline {subsubsection}{\numberline {7.2.2.23}verificaeRetiraNrecursosdotipoYparaobterX()}{18}{subsubsection.7.2.2.23}%
+\contentsline {subsection}{\numberline {7.2.3}Documentação das variáveis}{18}{subsection.7.2.3}%
+\contentsline {subsubsection}{\numberline {7.2.3.1}options}{18}{subsubsection.7.2.3.1}%
+\contentsline {section}{\numberline {7.3}Gestão de eventos}{19}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Descrição detalhada}{19}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Documentação das funções}{19}{subsection.7.3.2}%
+\contentsline {subsubsection}{\numberline {7.3.2.1}addEvent()}{20}{subsubsection.7.3.2.1}%
+\contentsline {subsubsection}{\numberline {7.3.2.2}clear()}{20}{subsubsection.7.3.2.2}%
+\contentsline {subsubsection}{\numberline {7.3.2.3}ClearEvents()}{20}{subsubsection.7.3.2.3}%
+\contentsline {subsubsection}{\numberline {7.3.2.4}getAllUnreadEvents()}{20}{subsubsection.7.3.2.4}%
+\contentsline {subsubsection}{\numberline {7.3.2.5}getEvents()}{20}{subsubsection.7.3.2.5}%
+\contentsline {subsubsection}{\numberline {7.3.2.6}getGanhados()}{20}{subsubsection.7.3.2.6}%
+\contentsline {subsubsection}{\numberline {7.3.2.7}getNLastEvents()}{20}{subsubsection.7.3.2.7}%
+\contentsline {subsubsection}{\numberline {7.3.2.8}getPlanetType()}{21}{subsubsection.7.3.2.8}%
+\contentsline {subsubsection}{\numberline {7.3.2.9}getUnreadEvents()}{21}{subsubsection.7.3.2.9}%
+\contentsline {subsubsection}{\numberline {7.3.2.10}maisUmGanhado()}{21}{subsubsection.7.3.2.10}%
+\contentsline {subsubsection}{\numberline {7.3.2.11}newTerreno()}{21}{subsubsection.7.3.2.11}%
+\contentsline {subsubsection}{\numberline {7.3.2.12}randomResource()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{21}{subsubsection.7.3.2.12}%
+\contentsline {subsubsection}{\numberline {7.3.2.13}randomResource()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{21}{subsubsection.7.3.2.13}%
+\contentsline {subsubsection}{\numberline {7.3.2.14}reset()}{22}{subsubsection.7.3.2.14}%
+\contentsline {subsubsection}{\numberline {7.3.2.15}setPlanetType()}{22}{subsubsection.7.3.2.15}%
+\contentsline {subsubsection}{\numberline {7.3.2.16}setSpaceStation()}{22}{subsubsection.7.3.2.16}%
+\contentsline {subsection}{\numberline {7.3.3}Documentação das variáveis}{22}{subsection.7.3.3}%
+\contentsline {subsubsection}{\numberline {7.3.3.1}debugingEvents}{22}{subsubsection.7.3.3.1}%
+\contentsline {subsubsection}{\numberline {7.3.3.2}ganhados}{22}{subsubsection.7.3.3.2}%
+\contentsline {subsubsection}{\numberline {7.3.3.3}officers}{22}{subsubsection.7.3.3.3}%
+\contentsline {subsubsection}{\numberline {7.3.3.4}resources}{23}{subsubsection.7.3.3.4}%
+\contentsline {subsubsection}{\numberline {7.3.3.5}staticEvents}{23}{subsubsection.7.3.3.5}%
+\contentsline {subsubsection}{\numberline {7.3.3.6}uEnoD}{23}{subsubsection.7.3.3.6}%
+\contentsline {subsubsection}{\numberline {7.3.3.7}unreadEvents}{23}{subsubsection.7.3.3.7}%
+\contentsline {section}{\numberline {7.4}Delegated gets do ship\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Dados}{24}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Descrição detalhada}{24}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Documentação das funções}{24}{subsection.7.4.2}%
+\contentsline {subsubsection}{\numberline {7.4.2.1}ClearEvents()}{24}{subsubsection.7.4.2.1}%
+\contentsline {subsubsection}{\numberline {7.4.2.2}droneHasResource()}{24}{subsubsection.7.4.2.2}%
+\contentsline {subsubsection}{\numberline {7.4.2.3}getCargoHold()}{24}{subsubsection.7.4.2.3}%
+\contentsline {subsubsection}{\numberline {7.4.2.4}getEstado()}{25}{subsubsection.7.4.2.4}%
+\contentsline {subsubsection}{\numberline {7.4.2.5}getEstadoClass()}{25}{subsubsection.7.4.2.5}%
+\contentsline {subsubsection}{\numberline {7.4.2.6}getMaxOfResourceY()}{25}{subsubsection.7.4.2.6}%
+\contentsline {subsubsection}{\numberline {7.4.2.7}getNdeYRecursos()}{25}{subsubsection.7.4.2.7}%
+\contentsline {subsubsection}{\numberline {7.4.2.8}getOfficers()}{25}{subsubsection.7.4.2.8}%
+\contentsline {subsubsection}{\numberline {7.4.2.9}getOptions()}{25}{subsubsection.7.4.2.9}%
+\contentsline {subsubsection}{\numberline {7.4.2.10}getPlanetType()}{25}{subsubsection.7.4.2.10}%
+\contentsline {subsubsection}{\numberline {7.4.2.11}getResourceTypes()}{26}{subsubsection.7.4.2.11}%
+\contentsline {subsubsection}{\numberline {7.4.2.12}getShipType()}{26}{subsubsection.7.4.2.12}%
+\contentsline {subsubsection}{\numberline {7.4.2.13}getUnreadEvents()}{26}{subsubsection.7.4.2.13}%
+\contentsline {subsubsection}{\numberline {7.4.2.14}getVezesQueSePodeVizitarOPlaneta()}{26}{subsubsection.7.4.2.14}%
+\contentsline {subsubsection}{\numberline {7.4.2.15}hasDrone()}{26}{subsubsection.7.4.2.15}%
+\contentsline {subsubsection}{\numberline {7.4.2.16}hasOfficer()}{26}{subsubsection.7.4.2.16}%
+\contentsline {subsubsection}{\numberline {7.4.2.17}hasSpaceStation()}{26}{subsubsection.7.4.2.17}%
+\contentsline {chapter}{\numberline {8}Documentação dos namespaces}{27}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound}{27}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica}{27}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados}{27}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}aux}{28}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}events}{28}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}resourcesandplanets}{28}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ship}{28}{section.8.7}%
+\contentsline {section}{\numberline {8.8}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados}{28}{section.8.8}%
+\contentsline {section}{\numberline {8.9}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}birthanddeath}{29}{section.8.9}%
+\contentsline {section}{\numberline {8.10}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}noespaco}{29}{section.8.10}%
+\contentsline {section}{\numberline {8.11}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}noespaco.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}menusdospacestation}{29}{section.8.11}%
+\contentsline {section}{\numberline {8.12}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}noespaco.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}menusdospacestation.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}conversion}{29}{section.8.12}%
+\contentsline {section}{\numberline {8.13}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}noterreno}{30}{section.8.13}%
+\contentsline {section}{\numberline {8.14}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui}{30}{section.8.14}%
+\contentsline {section}{\numberline {8.15}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui}{30}{section.8.15}%
+\contentsline {section}{\numberline {8.16}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados}{30}{section.8.16}%
+\contentsline {section}{\numberline {8.17}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}info}{30}{section.8.17}%
+\contentsline {section}{\numberline {8.18}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}info.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}extra\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info}{31}{section.8.18}%
+\contentsline {section}{\numberline {8.19}Pacote Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}menu}{31}{section.8.19}%
+\contentsline {chapter}{\numberline {9}Documentação da classe}{33}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}resourcesandplanets.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Terreno.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Alien}{33}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Documentação dos Construtores \& Destrutor}{33}{subsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.1.1}Alien()}{34}{subsubsection.9.1.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}Documentação dos métodos}{34}{subsection.9.1.2}%
+\contentsline {subsubsection}{\numberline {9.1.2.1}getAttack()}{34}{subsubsection.9.1.2.1}%
+\contentsline {subsubsection}{\numberline {9.1.2.2}getDeath()}{34}{subsubsection.9.1.2.2}%
+\contentsline {subsubsection}{\numberline {9.1.2.3}getType()}{34}{subsubsection.9.1.2.3}%
+\contentsline {subsection}{\numberline {9.1.3}Documentação dos dados membro}{34}{subsection.9.1.3}%
+\contentsline {subsubsection}{\numberline {9.1.3.1}attack}{34}{subsubsection.9.1.3.1}%
+\contentsline {subsubsection}{\numberline {9.1.3.2}death}{34}{subsubsection.9.1.3.2}%
+\contentsline {subsubsection}{\numberline {9.1.3.3}type}{35}{subsubsection.9.1.3.3}%
+\contentsline {section}{\numberline {9.2}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}noespaco.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}menusdospacestation.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}conversion.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Conversion\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}P1}{35}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}Documentação dos Construtores \& Destrutor}{35}{subsection.9.2.1}%
+\contentsline {subsubsection}{\numberline {9.2.1.1}ConversionP1()}{35}{subsubsection.9.2.1.1}%
+\contentsline {subsection}{\numberline {9.2.2}Documentação dos métodos}{36}{subsection.9.2.2}%
+\contentsline {subsubsection}{\numberline {9.2.2.1}getEstado()}{36}{subsubsection.9.2.2.1}%
+\contentsline {subsubsection}{\numberline {9.2.2.2}setOpcao()}{36}{subsubsection.9.2.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}Documentação dos dados membro}{36}{subsection.9.2.3}%
+\contentsline {subsubsection}{\numberline {9.2.3.1}listaresources}{36}{subsubsection.9.2.3.1}%
+\contentsline {subsubsection}{\numberline {9.2.3.2}onSpaceStation}{36}{subsubsection.9.2.3.2}%
+\contentsline {section}{\numberline {9.3}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}noespaco.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}menusdospacestation.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}conversion.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Conversion\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}P2}{37}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}Documentação dos Construtores \& Destrutor}{37}{subsection.9.3.1}%
+\contentsline {subsubsection}{\numberline {9.3.1.1}ConversionP2()}{37}{subsubsection.9.3.1.1}%
+\contentsline {subsection}{\numberline {9.3.2}Documentação dos métodos}{38}{subsection.9.3.2}%
+\contentsline {subsubsection}{\numberline {9.3.2.1}converterXfromY()}{38}{subsubsection.9.3.2.1}%
+\contentsline {subsubsection}{\numberline {9.3.2.2}getEstado()}{38}{subsubsection.9.3.2.2}%
+\contentsline {subsubsection}{\numberline {9.3.2.3}resourceExiste()}{38}{subsubsection.9.3.2.3}%
+\contentsline {subsubsection}{\numberline {9.3.2.4}setOpcao()}{38}{subsubsection.9.3.2.4}%
+\contentsline {subsection}{\numberline {9.3.3}Documentação dos dados membro}{38}{subsection.9.3.3}%
+\contentsline {subsubsection}{\numberline {9.3.3.1}listaresources}{39}{subsubsection.9.3.3.1}%
+\contentsline {subsubsection}{\numberline {9.3.3.2}localresource}{39}{subsubsection.9.3.3.2}%
+\contentsline {subsubsection}{\numberline {9.3.3.3}onSpaceStation}{39}{subsubsection.9.3.3.3}%
+\contentsline {section}{\numberline {9.4}Referência da enumeração Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}aux.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Direcoes}{39}{section.9.4}%
+\contentsline {subsection}{\numberline {9.4.1}Documentação dos dados membro}{39}{subsection.9.4.1}%
+\contentsline {subsubsection}{\numberline {9.4.1.1}baixo}{39}{subsubsection.9.4.1.1}%
+\contentsline {subsubsection}{\numberline {9.4.1.2}cima}{39}{subsubsection.9.4.1.2}%
+\contentsline {subsubsection}{\numberline {9.4.1.3}direita}{40}{subsubsection.9.4.1.3}%
+\contentsline {subsubsection}{\numberline {9.4.1.4}esquerda}{40}{subsubsection.9.4.1.4}%
+\contentsline {section}{\numberline {9.5}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}resourcesandplanets.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Terreno.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Drone}{40}{section.9.5}%
+\contentsline {subsection}{\numberline {9.5.1}Documentação dos Construtores \& Destrutor}{40}{subsection.9.5.1}%
+\contentsline {subsubsection}{\numberline {9.5.1.1}Drone()}{41}{subsubsection.9.5.1.1}%
+\contentsline {subsection}{\numberline {9.5.2}Documentação dos métodos}{41}{subsection.9.5.2}%
+\contentsline {subsubsection}{\numberline {9.5.2.1}getHealth()}{41}{subsubsection.9.5.2.1}%
+\contentsline {subsubsection}{\numberline {9.5.2.2}loseHealth()}{41}{subsubsection.9.5.2.2}%
+\contentsline {subsection}{\numberline {9.5.3}Documentação dos dados membro}{41}{subsection.9.5.3}%
+\contentsline {subsubsection}{\numberline {9.5.3.1}health}{41}{subsubsection.9.5.3.1}%
+\contentsline {section}{\numberline {9.6}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}resourcesandplanets.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Terreno.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Entidade}{41}{section.9.6}%
+\contentsline {subsection}{\numberline {9.6.1}Documentação dos Construtores \& Destrutor}{42}{subsection.9.6.1}%
+\contentsline {subsubsection}{\numberline {9.6.1.1}Entidade()}{42}{subsubsection.9.6.1.1}%
+\contentsline {subsection}{\numberline {9.6.2}Documentação dos métodos}{42}{subsection.9.6.2}%
+\contentsline {subsubsection}{\numberline {9.6.2.1}getCoordenadasX()}{42}{subsubsection.9.6.2.1}%
+\contentsline {subsubsection}{\numberline {9.6.2.2}getCoordenadasY()}{42}{subsubsection.9.6.2.2}%
+\contentsline {subsubsection}{\numberline {9.6.2.3}movedown()}{42}{subsubsection.9.6.2.3}%
+\contentsline {subsubsection}{\numberline {9.6.2.4}moveleft()}{43}{subsubsection.9.6.2.4}%
+\contentsline {subsubsection}{\numberline {9.6.2.5}moverigh()}{43}{subsubsection.9.6.2.5}%
+\contentsline {subsubsection}{\numberline {9.6.2.6}moveup()}{43}{subsubsection.9.6.2.6}%
+\contentsline {subsubsection}{\numberline {9.6.2.7}newRandomLocation()}{43}{subsubsection.9.6.2.7}%
+\contentsline {subsection}{\numberline {9.6.3}Documentação dos dados membro}{43}{subsection.9.6.3}%
+\contentsline {subsubsection}{\numberline {9.6.3.1}coordenadas}{43}{subsubsection.9.6.3.1}%
+\contentsline {section}{\numberline {9.7}Referência da enumeração Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}resourcesandplanets.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Terreno.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Entidades}{43}{section.9.7}%
+\contentsline {subsection}{\numberline {9.7.1}Documentação dos dados membro}{44}{subsection.9.7.1}%
+\contentsline {subsubsection}{\numberline {9.7.1.1}alien}{44}{subsubsection.9.7.1.1}%
+\contentsline {subsubsection}{\numberline {9.7.1.2}drone}{44}{subsubsection.9.7.1.2}%
+\contentsline {subsubsection}{\numberline {9.7.1.3}resource}{44}{subsubsection.9.7.1.3}%
+\contentsline {section}{\numberline {9.8}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Estado\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Adapter}{44}{section.9.8}%
+\contentsline {subsection}{\numberline {9.8.1}Documentação dos Construtores \& Destrutor}{45}{subsection.9.8.1}%
+\contentsline {subsubsection}{\numberline {9.8.1.1}EstadoAdapter()}{45}{subsubsection.9.8.1.1}%
+\contentsline {subsection}{\numberline {9.8.2}Documentação dos métodos}{45}{subsection.9.8.2}%
+\contentsline {subsubsection}{\numberline {9.8.2.1}aplicaEvento()}{45}{subsubsection.9.8.2.1}%
+\contentsline {subsubsection}{\numberline {9.8.2.2}convertResources()}{45}{subsubsection.9.8.2.2}%
+\contentsline {subsubsection}{\numberline {9.8.2.3}getShipDados()}{45}{subsubsection.9.8.2.3}%
+\contentsline {subsubsection}{\numberline {9.8.2.4}landOnSpaceStation()}{46}{subsubsection.9.8.2.4}%
+\contentsline {subsubsection}{\numberline {9.8.2.5}landOnThePlanet()}{46}{subsubsection.9.8.2.5}%
+\contentsline {subsubsection}{\numberline {9.8.2.6}move()}{46}{subsubsection.9.8.2.6}%
+\contentsline {subsubsection}{\numberline {9.8.2.7}novoJogo()}{46}{subsubsection.9.8.2.7}%
+\contentsline {subsubsection}{\numberline {9.8.2.8}proximoPlaneta()}{46}{subsubsection.9.8.2.8}%
+\contentsline {subsubsection}{\numberline {9.8.2.9}returnToShip()}{47}{subsubsection.9.8.2.9}%
+\contentsline {subsubsection}{\numberline {9.8.2.10}setOpcao()}{47}{subsubsection.9.8.2.10}%
+\contentsline {subsection}{\numberline {9.8.3}Documentação dos dados membro}{47}{subsection.9.8.3}%
+\contentsline {subsubsection}{\numberline {9.8.3.1}shipDados}{47}{subsubsection.9.8.3.1}%
+\contentsline {section}{\numberline {9.9}Referência da enumeração Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Estado\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Jogo}{47}{section.9.9}%
+\contentsline {subsection}{\numberline {9.9.1}Documentação dos dados membro}{48}{subsection.9.9.1}%
+\contentsline {subsubsection}{\numberline {9.9.1.1}ConvertResources}{48}{subsubsection.9.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.9.1.2}GameOver}{48}{subsubsection.9.9.1.2}%
+\contentsline {subsubsection}{\numberline {9.9.1.3}NoEspaco}{48}{subsubsection.9.9.1.3}%
+\contentsline {subsubsection}{\numberline {9.9.1.4}NoTerreno}{48}{subsubsection.9.9.1.4}%
+\contentsline {subsubsection}{\numberline {9.9.1.5}NovoShip}{48}{subsubsection.9.9.1.5}%
+\contentsline {subsubsection}{\numberline {9.9.1.6}OnSpaceStation}{48}{subsubsection.9.9.1.6}%
+\contentsline {section}{\numberline {9.10}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}events.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Event}{49}{section.9.10}%
+\contentsline {subsection}{\numberline {9.10.1}Descrição detalhada}{49}{subsection.9.10.1}%
+\contentsline {subsection}{\numberline {9.10.2}Documentação dos Construtores \& Destrutor}{49}{subsection.9.10.2}%
+\contentsline {subsubsection}{\numberline {9.10.2.1}Event()}{49}{subsubsection.9.10.2.1}%
+\contentsline {subsection}{\numberline {9.10.3}Documentação dos métodos}{50}{subsection.9.10.3}%
+\contentsline {subsubsection}{\numberline {9.10.3.1}getEventType()}{50}{subsubsection.9.10.3.1}%
+\contentsline {subsubsection}{\numberline {9.10.3.2}getMsg()}{50}{subsubsection.9.10.3.2}%
+\contentsline {subsubsection}{\numberline {9.10.3.3}getTimeWithoutMilisecs()}{50}{subsubsection.9.10.3.3}%
+\contentsline {subsubsection}{\numberline {9.10.3.4}getUnixTimewithMilisecs()}{50}{subsubsection.9.10.3.4}%
+\contentsline {subsubsection}{\numberline {9.10.3.5}toString()}{50}{subsubsection.9.10.3.5}%
+\contentsline {subsection}{\numberline {9.10.4}Documentação dos dados membro}{50}{subsection.9.10.4}%
+\contentsline {subsubsection}{\numberline {9.10.4.1}eventType}{50}{subsubsection.9.10.4.1}%
+\contentsline {subsubsection}{\numberline {9.10.4.2}msg}{51}{subsubsection.9.10.4.2}%
+\contentsline {subsubsection}{\numberline {9.10.4.3}unixTimewithMilisecs}{51}{subsubsection.9.10.4.3}%
+\contentsline {section}{\numberline {9.11}Referência da enumeração Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}events.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Event\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type}{51}{section.9.11}%
+\contentsline {subsection}{\numberline {9.11.1}Documentação dos dados membro}{51}{subsection.9.11.1}%
+\contentsline {subsubsection}{\numberline {9.11.1.1}AlienKilled}{51}{subsubsection.9.11.1.1}%
+\contentsline {subsubsection}{\numberline {9.11.1.2}ChoosenItem}{52}{subsubsection.9.11.1.2}%
+\contentsline {subsubsection}{\numberline {9.11.1.3}ConversorDeItens}{52}{subsubsection.9.11.1.3}%
+\contentsline {subsubsection}{\numberline {9.11.1.4}Debug}{52}{subsubsection.9.11.1.4}%
+\contentsline {subsubsection}{\numberline {9.11.1.5}DroneDeath}{52}{subsubsection.9.11.1.5}%
+\contentsline {subsubsection}{\numberline {9.11.1.6}DroneMovement}{52}{subsubsection.9.11.1.6}%
+\contentsline {subsubsection}{\numberline {9.11.1.7}GameOver}{52}{subsubsection.9.11.1.7}%
+\contentsline {subsubsection}{\numberline {9.11.1.8}Info}{52}{subsubsection.9.11.1.8}%
+\contentsline {subsubsection}{\numberline {9.11.1.9}MoreResources}{52}{subsubsection.9.11.1.9}%
+\contentsline {subsubsection}{\numberline {9.11.1.10}NovoPlaneta}{53}{subsubsection.9.11.1.10}%
+\contentsline {subsubsection}{\numberline {9.11.1.11}NovoShip}{53}{subsubsection.9.11.1.11}%
+\contentsline {subsubsection}{\numberline {9.11.1.12}OnSpaceStation}{53}{subsubsection.9.11.1.12}%
+\contentsline {subsubsection}{\numberline {9.11.1.13}RandomEvent}{53}{subsubsection.9.11.1.13}%
+\contentsline {subsubsection}{\numberline {9.11.1.14}Warning}{53}{subsubsection.9.11.1.14}%
+\contentsline {subsubsection}{\numberline {9.11.1.15}WormHole}{53}{subsubsection.9.11.1.15}%
+\contentsline {section}{\numberline {9.12}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}birthanddeath.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Game\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Over}{53}{section.9.12}%
+\contentsline {subsection}{\numberline {9.12.1}Documentação dos Construtores \& Destrutor}{54}{subsection.9.12.1}%
+\contentsline {subsubsection}{\numberline {9.12.1.1}GameOver()}{54}{subsubsection.9.12.1.1}%
+\contentsline {subsection}{\numberline {9.12.2}Documentação dos métodos}{54}{subsection.9.12.2}%
+\contentsline {subsubsection}{\numberline {9.12.2.1}getEstado()}{54}{subsubsection.9.12.2.1}%
+\contentsline {subsubsection}{\numberline {9.12.2.2}novoJogo()}{54}{subsubsection.9.12.2.2}%
+\contentsline {subsubsection}{\numberline {9.12.2.3}toString()}{54}{subsubsection.9.12.2.3}%
+\contentsline {subsection}{\numberline {9.12.3}Documentação dos dados membro}{55}{subsection.9.12.3}%
+\contentsline {subsubsection}{\numberline {9.12.3.1}mensagem}{55}{subsubsection.9.12.3.1}%
+\contentsline {section}{\numberline {9.13}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Escolha}{55}{section.9.13}%
+\contentsline {subsection}{\numberline {9.13.1}Documentação dos Construtores \& Destrutor}{56}{subsection.9.13.1}%
+\contentsline {subsubsection}{\numberline {9.13.1.1}GEscolha()}{56}{subsubsection.9.13.1.1}%
+\contentsline {subsection}{\numberline {9.13.2}Documentação dos métodos}{56}{subsection.9.13.2}%
+\contentsline {subsubsection}{\numberline {9.13.2.1}addTitle()}{56}{subsubsection.9.13.2.1}%
+\contentsline {subsubsection}{\numberline {9.13.2.2}atualizaVista()}{56}{subsubsection.9.13.2.2}%
+\contentsline {subsubsection}{\numberline {9.13.2.3}bSOButtons()}{56}{subsubsection.9.13.2.3}%
+\contentsline {subsubsection}{\numberline {9.13.2.4}bSOSquares()}{56}{subsubsection.9.13.2.4}%
+\contentsline {subsubsection}{\numberline {9.13.2.5}setUpButtons()}{56}{subsubsection.9.13.2.5}%
+\contentsline {subsection}{\numberline {9.13.3}Documentação dos dados membro}{57}{subsection.9.13.3}%
+\contentsline {subsubsection}{\numberline {9.13.3.1}escolhas}{57}{subsubsection.9.13.3.1}%
+\contentsline {subsubsection}{\numberline {9.13.3.2}lastState}{57}{subsubsection.9.13.3.2}%
+\contentsline {subsubsection}{\numberline {9.13.3.3}modelo}{57}{subsubsection.9.13.3.3}%
+\contentsline {subsubsection}{\numberline {9.13.3.4}questao}{57}{subsubsection.9.13.3.4}%
+\contentsline {subsubsection}{\numberline {9.13.3.5}questaoBox}{57}{subsubsection.9.13.3.5}%
+\contentsline {subsubsection}{\numberline {9.13.3.6}questaoSquare}{57}{subsubsection.9.13.3.6}%
+\contentsline {section}{\numberline {9.14}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Game\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Over}{58}{section.9.14}%
+\contentsline {subsection}{\numberline {9.14.1}Documentação dos Construtores \& Destrutor}{58}{subsection.9.14.1}%
+\contentsline {subsubsection}{\numberline {9.14.1.1}GGameOver()}{58}{subsubsection.9.14.1.1}%
+\contentsline {subsection}{\numberline {9.14.2}Documentação dos métodos}{58}{subsection.9.14.2}%
+\contentsline {subsubsection}{\numberline {9.14.2.1}actulizaVista()}{58}{subsubsection.9.14.2.1}%
+\contentsline {subsubsection}{\numberline {9.14.2.2}organiza()}{59}{subsubsection.9.14.2.2}%
+\contentsline {subsection}{\numberline {9.14.3}Documentação dos dados membro}{59}{subsection.9.14.3}%
+\contentsline {subsubsection}{\numberline {9.14.3.1}modelo}{59}{subsubsection.9.14.3.1}%
+\contentsline {subsubsection}{\numberline {9.14.3.2}questao}{59}{subsubsection.9.14.3.2}%
+\contentsline {section}{\numberline {9.15}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}info.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Log}{59}{section.9.15}%
+\contentsline {subsection}{\numberline {9.15.1}Documentação dos Construtores \& Destrutor}{60}{subsection.9.15.1}%
+\contentsline {subsubsection}{\numberline {9.15.1.1}GLog()}{60}{subsubsection.9.15.1.1}%
+\contentsline {subsection}{\numberline {9.15.2}Documentação dos métodos}{60}{subsection.9.15.2}%
+\contentsline {subsubsection}{\numberline {9.15.2.1}setValues()}{60}{subsubsection.9.15.2.1}%
+\contentsline {subsection}{\numberline {9.15.3}Documentação dos dados membro}{60}{subsection.9.15.3}%
+\contentsline {subsubsection}{\numberline {9.15.3.1}log}{60}{subsubsection.9.15.3.1}%
+\contentsline {subsubsection}{\numberline {9.15.3.2}modelo}{60}{subsubsection.9.15.3.2}%
+\contentsline {section}{\numberline {9.16}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}menu.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Menu}{60}{section.9.16}%
+\contentsline {subsection}{\numberline {9.16.1}Documentação dos Construtores \& Destrutor}{61}{subsection.9.16.1}%
+\contentsline {subsubsection}{\numberline {9.16.1.1}GMenu()}{61}{subsubsection.9.16.1.1}%
+\contentsline {subsection}{\numberline {9.16.2}Documentação dos dados membro}{61}{subsection.9.16.2}%
+\contentsline {subsubsection}{\numberline {9.16.2.1}file}{61}{subsubsection.9.16.2.1}%
+\contentsline {subsubsection}{\numberline {9.16.2.2}help}{61}{subsubsection.9.16.2.2}%
+\contentsline {section}{\numberline {9.17}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}No\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Espaco}{61}{section.9.17}%
+\contentsline {subsection}{\numberline {9.17.1}Documentação dos Construtores \& Destrutor}{62}{subsection.9.17.1}%
+\contentsline {subsubsection}{\numberline {9.17.1.1}GNoEspaco()}{62}{subsubsection.9.17.1.1}%
+\contentsline {subsection}{\numberline {9.17.2}Documentação dos métodos}{62}{subsection.9.17.2}%
+\contentsline {subsubsection}{\numberline {9.17.2.1}atualizaVista()}{62}{subsubsection.9.17.2.1}%
+\contentsline {subsubsection}{\numberline {9.17.2.2}organiza()}{62}{subsubsection.9.17.2.2}%
+\contentsline {subsubsection}{\numberline {9.17.2.3}setUpConversor()}{63}{subsubsection.9.17.2.3}%
+\contentsline {subsubsection}{\numberline {9.17.2.4}setUpNext()}{63}{subsubsection.9.17.2.4}%
+\contentsline {subsubsection}{\numberline {9.17.2.5}setUpPlaneta()}{63}{subsubsection.9.17.2.5}%
+\contentsline {subsubsection}{\numberline {9.17.2.6}setUpSpaceStation()}{63}{subsubsection.9.17.2.6}%
+\contentsline {subsection}{\numberline {9.17.3}Documentação dos dados membro}{63}{subsection.9.17.3}%
+\contentsline {subsubsection}{\numberline {9.17.3.1}conversor}{63}{subsubsection.9.17.3.1}%
+\contentsline {subsubsection}{\numberline {9.17.3.2}modelo}{63}{subsubsection.9.17.3.2}%
+\contentsline {subsubsection}{\numberline {9.17.3.3}next}{63}{subsubsection.9.17.3.3}%
+\contentsline {subsubsection}{\numberline {9.17.3.4}planeta}{64}{subsubsection.9.17.3.4}%
+\contentsline {subsubsection}{\numberline {9.17.3.5}spaceStation}{64}{subsubsection.9.17.3.5}%
+\contentsline {section}{\numberline {9.18}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Novo\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ship}{64}{section.9.18}%
+\contentsline {subsection}{\numberline {9.18.1}Documentação dos Construtores \& Destrutor}{64}{subsection.9.18.1}%
+\contentsline {subsubsection}{\numberline {9.18.1.1}GNovoShip()}{64}{subsubsection.9.18.1.1}%
+\contentsline {subsection}{\numberline {9.18.2}Documentação dos métodos}{65}{subsection.9.18.2}%
+\contentsline {subsubsection}{\numberline {9.18.2.1}atualizaVista()}{65}{subsubsection.9.18.2.1}%
+\contentsline {subsubsection}{\numberline {9.18.2.2}organizaComponentes()}{65}{subsubsection.9.18.2.2}%
+\contentsline {subsection}{\numberline {9.18.3}Documentação dos dados membro}{65}{subsection.9.18.3}%
+\contentsline {subsubsection}{\numberline {9.18.3.1}modelo}{65}{subsubsection.9.18.3.1}%
+\contentsline {section}{\numberline {9.19}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}info.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Recursos}{65}{section.9.19}%
+\contentsline {subsection}{\numberline {9.19.1}Documentação dos Construtores \& Destrutor}{66}{subsection.9.19.1}%
+\contentsline {subsubsection}{\numberline {9.19.1.1}GRecursos()}{66}{subsubsection.9.19.1.1}%
+\contentsline {subsection}{\numberline {9.19.2}Documentação dos métodos}{66}{subsection.9.19.2}%
+\contentsline {subsubsection}{\numberline {9.19.2.1}organizaComponentes()}{66}{subsubsection.9.19.2.1}%
+\contentsline {subsubsection}{\numberline {9.19.2.2}setValues()}{66}{subsubsection.9.19.2.2}%
+\contentsline {subsection}{\numberline {9.19.3}Documentação dos dados membro}{66}{subsection.9.19.3}%
+\contentsline {subsubsection}{\numberline {9.19.3.1}DroneBox}{66}{subsubsection.9.19.3.1}%
+\contentsline {subsubsection}{\numberline {9.19.3.2}droneStats}{67}{subsubsection.9.19.3.2}%
+\contentsline {subsubsection}{\numberline {9.19.3.3}infoEspaco}{67}{subsubsection.9.19.3.3}%
+\contentsline {subsubsection}{\numberline {9.19.3.4}modelo}{67}{subsubsection.9.19.3.4}%
+\contentsline {subsubsection}{\numberline {9.19.3.5}recursos}{67}{subsubsection.9.19.3.5}%
+\contentsline {subsubsection}{\numberline {9.19.3.6}title}{67}{subsubsection.9.19.3.6}%
+\contentsline {section}{\numberline {9.20}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}info.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Resumo}{67}{section.9.20}%
+\contentsline {subsection}{\numberline {9.20.1}Documentação dos Construtores \& Destrutor}{68}{subsection.9.20.1}%
+\contentsline {subsubsection}{\numberline {9.20.1.1}GResumo()}{68}{subsubsection.9.20.1.1}%
+\contentsline {subsection}{\numberline {9.20.2}Documentação dos métodos}{68}{subsection.9.20.2}%
+\contentsline {subsubsection}{\numberline {9.20.2.1}organizaComponentes()}{68}{subsubsection.9.20.2.1}%
+\contentsline {subsubsection}{\numberline {9.20.2.2}setValues()}{68}{subsubsection.9.20.2.2}%
+\contentsline {subsection}{\numberline {9.20.3}Documentação dos dados membro}{68}{subsection.9.20.3}%
+\contentsline {subsubsection}{\numberline {9.20.3.1}labelComandantes}{68}{subsubsection.9.20.3.1}%
+\contentsline {subsubsection}{\numberline {9.20.3.2}labelNome}{69}{subsubsection.9.20.3.2}%
+\contentsline {subsubsection}{\numberline {9.20.3.3}modelo}{69}{subsubsection.9.20.3.3}%
+\contentsline {section}{\numberline {9.21}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Terreno}{69}{section.9.21}%
+\contentsline {subsection}{\numberline {9.21.1}Documentação dos Construtores \& Destrutor}{70}{subsection.9.21.1}%
+\contentsline {subsubsection}{\numberline {9.21.1.1}GTerreno()}{70}{subsubsection.9.21.1.1}%
+\contentsline {subsection}{\numberline {9.21.2}Documentação dos métodos}{70}{subsection.9.21.2}%
+\contentsline {subsubsection}{\numberline {9.21.2.1}atualizaVista()}{70}{subsubsection.9.21.2.1}%
+\contentsline {subsubsection}{\numberline {9.21.2.2}compareVector()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{70}{subsubsection.9.21.2.2}%
+\contentsline {subsubsection}{\numberline {9.21.2.3}compareVector()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{70}{subsubsection.9.21.2.3}%
+\contentsline {subsubsection}{\numberline {9.21.2.4}direcao()}{70}{subsubsection.9.21.2.4}%
+\contentsline {subsubsection}{\numberline {9.21.2.5}organiza()}{71}{subsubsection.9.21.2.5}%
+\contentsline {subsection}{\numberline {9.21.3}Documentação dos dados membro}{71}{subsection.9.21.3}%
+\contentsline {subsubsection}{\numberline {9.21.3.1}alien}{71}{subsubsection.9.21.3.1}%
+\contentsline {subsubsection}{\numberline {9.21.3.2}conversor}{71}{subsubsection.9.21.3.2}%
+\contentsline {subsubsection}{\numberline {9.21.3.3}drone}{71}{subsubsection.9.21.3.3}%
+\contentsline {subsubsection}{\numberline {9.21.3.4}modelo}{71}{subsubsection.9.21.3.4}%
+\contentsline {subsubsection}{\numberline {9.21.3.5}next}{71}{subsubsection.9.21.3.5}%
+\contentsline {subsubsection}{\numberline {9.21.3.6}planeta}{71}{subsubsection.9.21.3.6}%
+\contentsline {subsubsection}{\numberline {9.21.3.7}resource}{72}{subsubsection.9.21.3.7}%
+\contentsline {subsubsection}{\numberline {9.21.3.8}spaceStation}{72}{subsubsection.9.21.3.8}%
+\contentsline {section}{\numberline {9.22}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}info.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Top}{72}{section.9.22}%
+\contentsline {subsection}{\numberline {9.22.1}Documentação dos Construtores \& Destrutor}{72}{subsection.9.22.1}%
+\contentsline {subsubsection}{\numberline {9.22.1.1}GTop()}{73}{subsubsection.9.22.1.1}%
+\contentsline {subsection}{\numberline {9.22.2}Documentação dos métodos}{73}{subsection.9.22.2}%
+\contentsline {subsubsection}{\numberline {9.22.2.1}organiza()}{73}{subsubsection.9.22.2.1}%
+\contentsline {subsubsection}{\numberline {9.22.2.2}setOption()}{73}{subsubsection.9.22.2.2}%
+\contentsline {subsubsection}{\numberline {9.22.2.3}update()}{73}{subsubsection.9.22.2.3}%
+\contentsline {subsection}{\numberline {9.22.3}Documentação dos dados membro}{73}{subsection.9.22.3}%
+\contentsline {subsubsection}{\numberline {9.22.3.1}bt}{73}{subsubsection.9.22.3.1}%
+\contentsline {subsubsection}{\numberline {9.22.3.2}modelo}{73}{subsubsection.9.22.3.2}%
+\contentsline {section}{\numberline {9.23}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Gui}{74}{section.9.23}%
+\contentsline {subsection}{\numberline {9.23.1}Documentação dos métodos}{74}{subsection.9.23.1}%
+\contentsline {subsubsection}{\numberline {9.23.1.1}getMB()}{74}{subsubsection.9.23.1.1}%
+\contentsline {subsubsection}{\numberline {9.23.1.2}main2()}{74}{subsubsection.9.23.1.2}%
+\contentsline {subsubsection}{\numberline {9.23.1.3}start()}{75}{subsubsection.9.23.1.3}%
+\contentsline {subsection}{\numberline {9.23.2}Documentação dos dados membro}{75}{subsection.9.23.2}%
+\contentsline {subsubsection}{\numberline {9.23.2.1}modelo}{75}{subsubsection.9.23.2.1}%
+\contentsline {subsubsection}{\numberline {9.23.2.2}root}{75}{subsubsection.9.23.2.2}%
+\contentsline {section}{\numberline {9.24}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Helper}{75}{section.9.24}%
+\contentsline {subsection}{\numberline {9.24.1}Documentação dos métodos}{75}{subsection.9.24.1}%
+\contentsline {subsubsection}{\numberline {9.24.1.1}PlanetType2Color()}{76}{subsubsection.9.24.1.1}%
+\contentsline {subsubsection}{\numberline {9.24.1.2}ResouceLabel()}{76}{subsubsection.9.24.1.2}%
+\contentsline {subsubsection}{\numberline {9.24.1.3}Resource2Color()}{76}{subsubsection.9.24.1.3}%
+\contentsline {subsubsection}{\numberline {9.24.1.4}Type2Color()\hspace {0.1cm}{\footnotesize \ttfamily [1/3]}}{76}{subsubsection.9.24.1.4}%
+\contentsline {subsubsection}{\numberline {9.24.1.5}Type2Color()\hspace {0.1cm}{\footnotesize \ttfamily [2/3]}}{76}{subsubsection.9.24.1.5}%
+\contentsline {subsubsection}{\numberline {9.24.1.6}Type2Color()\hspace {0.1cm}{\footnotesize \ttfamily [3/3]}}{76}{subsubsection.9.24.1.6}%
+\contentsline {subsection}{\numberline {9.24.2}Documentação dos dados membro}{76}{subsection.9.24.2}%
+\contentsline {subsubsection}{\numberline {9.24.2.1}RETANGLE\_SIZE}{77}{subsubsection.9.24.2.1}%
+\contentsline {section}{\numberline {9.25}Referência ao interface Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}I\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Estado}{77}{section.9.25}%
+\contentsline {subsection}{\numberline {9.25.1}Documentação dos métodos}{77}{subsection.9.25.1}%
+\contentsline {subsubsection}{\numberline {9.25.1.1}aplicaEvento()}{77}{subsubsection.9.25.1.1}%
+\contentsline {subsubsection}{\numberline {9.25.1.2}convertResources()}{78}{subsubsection.9.25.1.2}%
+\contentsline {subsubsection}{\numberline {9.25.1.3}getEstado()}{78}{subsubsection.9.25.1.3}%
+\contentsline {subsubsection}{\numberline {9.25.1.4}landOnSpaceStation()}{78}{subsubsection.9.25.1.4}%
+\contentsline {subsubsection}{\numberline {9.25.1.5}landOnThePlanet()}{78}{subsubsection.9.25.1.5}%
+\contentsline {subsubsection}{\numberline {9.25.1.6}move()}{78}{subsubsection.9.25.1.6}%
+\contentsline {subsubsection}{\numberline {9.25.1.7}novoJogo()}{79}{subsubsection.9.25.1.7}%
+\contentsline {subsubsection}{\numberline {9.25.1.8}proximoPlaneta()}{79}{subsubsection.9.25.1.8}%
+\contentsline {subsubsection}{\numberline {9.25.1.9}returnToShip()}{79}{subsubsection.9.25.1.9}%
+\contentsline {subsubsection}{\numberline {9.25.1.10}setOpcao()}{79}{subsubsection.9.25.1.10}%
+\contentsline {section}{\numberline {9.26}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}info.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}extra\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Espaco}{79}{section.9.26}%
+\contentsline {subsection}{\numberline {9.26.1}Documentação dos Construtores \& Destrutor}{80}{subsection.9.26.1}%
+\contentsline {subsubsection}{\numberline {9.26.1.1}InfoEspaco()}{80}{subsubsection.9.26.1.1}%
+\contentsline {subsection}{\numberline {9.26.2}Documentação dos métodos}{80}{subsection.9.26.2}%
+\contentsline {subsubsection}{\numberline {9.26.2.1}setUp()}{80}{subsubsection.9.26.2.1}%
+\contentsline {subsubsection}{\numberline {9.26.2.2}update()}{80}{subsubsection.9.26.2.2}%
+\contentsline {subsection}{\numberline {9.26.3}Documentação dos dados membro}{80}{subsection.9.26.3}%
+\contentsline {subsubsection}{\numberline {9.26.3.1}modelo}{81}{subsubsection.9.26.3.1}%
+\contentsline {section}{\numberline {9.27}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}info.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}extra\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planeta}{81}{section.9.27}%
+\contentsline {subsection}{\numberline {9.27.1}Documentação dos Construtores \& Destrutor}{81}{subsection.9.27.1}%
+\contentsline {subsubsection}{\numberline {9.27.1.1}InfoPlaneta()}{81}{subsubsection.9.27.1.1}%
+\contentsline {subsection}{\numberline {9.27.2}Documentação dos métodos}{81}{subsection.9.27.2}%
+\contentsline {subsubsection}{\numberline {9.27.2.1}setUp()}{82}{subsubsection.9.27.2.1}%
+\contentsline {subsubsection}{\numberline {9.27.2.2}update()}{82}{subsubsection.9.27.2.2}%
+\contentsline {subsection}{\numberline {9.27.3}Documentação dos dados membro}{82}{subsection.9.27.3}%
+\contentsline {subsubsection}{\numberline {9.27.3.1}droneStats}{82}{subsubsection.9.27.3.1}%
+\contentsline {subsubsection}{\numberline {9.27.3.2}modelo}{82}{subsubsection.9.27.3.2}%
+\contentsline {section}{\numberline {9.28}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ship.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}I\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Terreno}{82}{section.9.28}%
+\contentsline {subsection}{\numberline {9.28.1}Descrição detalhada}{83}{subsection.9.28.1}%
+\contentsline {subsection}{\numberline {9.28.2}Documentação dos Construtores \& Destrutor}{83}{subsection.9.28.2}%
+\contentsline {subsubsection}{\numberline {9.28.2.1}ITerreno()}{83}{subsubsection.9.28.2.1}%
+\contentsline {subsection}{\numberline {9.28.3}Documentação dos métodos}{83}{subsection.9.28.3}%
+\contentsline {subsubsection}{\numberline {9.28.3.1}droneHasResource()}{83}{subsubsection.9.28.3.1}%
+\contentsline {subsubsection}{\numberline {9.28.3.2}getAlienType()}{83}{subsubsection.9.28.3.2}%
+\contentsline {subsubsection}{\numberline {9.28.3.3}getCoordenadas()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{83}{subsubsection.9.28.3.3}%
+\contentsline {subsubsection}{\numberline {9.28.3.4}getCoordenadas()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{84}{subsubsection.9.28.3.4}%
+\contentsline {subsubsection}{\numberline {9.28.3.5}getCounter()}{84}{subsubsection.9.28.3.5}%
+\contentsline {subsubsection}{\numberline {9.28.3.6}getDroneHealth()}{84}{subsubsection.9.28.3.6}%
+\contentsline {subsubsection}{\numberline {9.28.3.7}getResourceType()}{85}{subsubsection.9.28.3.7}%
+\contentsline {subsubsection}{\numberline {9.28.3.8}getTerreno()}{85}{subsubsection.9.28.3.8}%
+\contentsline {subsection}{\numberline {9.28.4}Documentação dos dados membro}{85}{subsection.9.28.4}%
+\contentsline {subsubsection}{\numberline {9.28.4.1}terreno}{85}{subsubsection.9.28.4.1}%
+\contentsline {section}{\numberline {9.29}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Main}{85}{section.9.29}%
+\contentsline {subsection}{\numberline {9.29.1}Documentação dos métodos}{85}{subsection.9.29.1}%
+\contentsline {subsubsection}{\numberline {9.29.1.1}main()}{85}{subsubsection.9.29.1.1}%
+\contentsline {subsubsection}{\numberline {9.29.1.2}printhelp()}{86}{subsubsection.9.29.1.2}%
+\contentsline {subsubsection}{\numberline {9.29.1.3}versao()}{86}{subsubsection.9.29.1.3}%
+\contentsline {section}{\numberline {9.30}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}noespaco.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}No\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Espaco}{86}{section.9.30}%
+\contentsline {subsection}{\numberline {9.30.1}Descrição detalhada}{86}{subsection.9.30.1}%
+\contentsline {subsection}{\numberline {9.30.2}Documentação dos Construtores \& Destrutor}{87}{subsection.9.30.2}%
+\contentsline {subsubsection}{\numberline {9.30.2.1}NoEspaco()}{87}{subsubsection.9.30.2.1}%
+\contentsline {subsection}{\numberline {9.30.3}Documentação dos métodos}{87}{subsection.9.30.3}%
+\contentsline {subsubsection}{\numberline {9.30.3.1}aplicaEvento()}{87}{subsubsection.9.30.3.1}%
+\contentsline {subsubsection}{\numberline {9.30.3.2}convertResources()}{87}{subsubsection.9.30.3.2}%
+\contentsline {subsubsection}{\numberline {9.30.3.3}getEstado()}{87}{subsubsection.9.30.3.3}%
+\contentsline {subsubsection}{\numberline {9.30.3.4}landOnSpaceStation()}{88}{subsubsection.9.30.3.4}%
+\contentsline {subsubsection}{\numberline {9.30.3.5}landOnThePlanet()}{88}{subsubsection.9.30.3.5}%
+\contentsline {subsubsection}{\numberline {9.30.3.6}proximoPlaneta()}{88}{subsubsection.9.30.3.6}%
+\contentsline {section}{\numberline {9.31}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}noterreno.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}No\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Terreno}{88}{section.9.31}%
+\contentsline {subsection}{\numberline {9.31.1}Descrição detalhada}{89}{subsection.9.31.1}%
+\contentsline {subsection}{\numberline {9.31.2}Documentação dos Construtores \& Destrutor}{89}{subsection.9.31.2}%
+\contentsline {subsubsection}{\numberline {9.31.2.1}NoTerreno()}{89}{subsubsection.9.31.2.1}%
+\contentsline {subsection}{\numberline {9.31.3}Documentação dos métodos}{89}{subsection.9.31.3}%
+\contentsline {subsubsection}{\numberline {9.31.3.1}getEstado()}{89}{subsubsection.9.31.3.1}%
+\contentsline {subsubsection}{\numberline {9.31.3.2}move()}{89}{subsubsection.9.31.3.2}%
+\contentsline {subsubsection}{\numberline {9.31.3.3}returnToShip()}{90}{subsubsection.9.31.3.3}%
+\contentsline {section}{\numberline {9.32}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}birthanddeath.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Novo\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ship}{90}{section.9.32}%
+\contentsline {subsection}{\numberline {9.32.1}Documentação dos Construtores \& Destrutor}{90}{subsection.9.32.1}%
+\contentsline {subsubsection}{\numberline {9.32.1.1}NovoShip()}{90}{subsubsection.9.32.1.1}%
+\contentsline {subsection}{\numberline {9.32.2}Documentação dos métodos}{90}{subsection.9.32.2}%
+\contentsline {subsubsection}{\numberline {9.32.2.1}getEstado()}{91}{subsubsection.9.32.2.1}%
+\contentsline {subsubsection}{\numberline {9.32.2.2}setOpcao()}{91}{subsubsection.9.32.2.2}%
+\contentsline {section}{\numberline {9.33}Referência da enumeração Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}aux.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Officer}{91}{section.9.33}%
+\contentsline {subsection}{\numberline {9.33.1}Documentação dos dados membro}{91}{subsection.9.33.1}%
+\contentsline {subsubsection}{\numberline {9.33.1.1}Captain}{91}{subsubsection.9.33.1.1}%
+\contentsline {subsubsection}{\numberline {9.33.1.2}Cargo}{91}{subsubsection.9.33.1.2}%
+\contentsline {subsubsection}{\numberline {9.33.1.3}Landing}{92}{subsubsection.9.33.1.3}%
+\contentsline {subsubsection}{\numberline {9.33.1.4}Navigation}{92}{subsubsection.9.33.1.4}%
+\contentsline {subsubsection}{\numberline {9.33.1.5}Shilds}{92}{subsubsection.9.33.1.5}%
+\contentsline {subsubsection}{\numberline {9.33.1.6}Weapons}{92}{subsubsection.9.33.1.6}%
+\contentsline {section}{\numberline {9.34}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}estados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}noespaco.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}menusdospacestation.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}On\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Space\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Station}{92}{section.9.34}%
+\contentsline {subsection}{\numberline {9.34.1}Documentação dos Construtores \& Destrutor}{93}{subsection.9.34.1}%
+\contentsline {subsubsection}{\numberline {9.34.1.1}OnSpaceStation()}{93}{subsubsection.9.34.1.1}%
+\contentsline {subsection}{\numberline {9.34.2}Documentação dos métodos}{93}{subsection.9.34.2}%
+\contentsline {subsubsection}{\numberline {9.34.2.1}getEstado()}{93}{subsubsection.9.34.2.1}%
+\contentsline {subsubsection}{\numberline {9.34.2.2}resourceExiste()}{94}{subsubsection.9.34.2.2}%
+\contentsline {subsubsection}{\numberline {9.34.2.3}setOpcao()}{94}{subsubsection.9.34.2.3}%
+\contentsline {subsubsection}{\numberline {9.34.2.4}verificaeretiraNrecursosdotipoYparaobterX()}{94}{subsubsection.9.34.2.4}%
+\contentsline {section}{\numberline {9.35}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}aux.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Options}{94}{section.9.35}%
+\contentsline {subsection}{\numberline {9.35.1}Documentação dos Construtores \& Destrutor}{95}{subsection.9.35.1}%
+\contentsline {subsubsection}{\numberline {9.35.1.1}Options()\hspace {0.1cm}{\footnotesize \ttfamily [1/3]}}{95}{subsubsection.9.35.1.1}%
+\contentsline {subsubsection}{\numberline {9.35.1.2}Options()\hspace {0.1cm}{\footnotesize \ttfamily [2/3]}}{95}{subsubsection.9.35.1.2}%
+\contentsline {subsubsection}{\numberline {9.35.1.3}Options()\hspace {0.1cm}{\footnotesize \ttfamily [3/3]}}{95}{subsubsection.9.35.1.3}%
+\contentsline {subsection}{\numberline {9.35.2}Documentação dos métodos}{96}{subsection.9.35.2}%
+\contentsline {subsubsection}{\numberline {9.35.2.1}getHeaderResource()}{96}{subsubsection.9.35.2.1}%
+\contentsline {subsubsection}{\numberline {9.35.2.2}getHeaderString()}{96}{subsubsection.9.35.2.2}%
+\contentsline {subsubsection}{\numberline {9.35.2.3}getNOptions()}{96}{subsubsection.9.35.2.3}%
+\contentsline {subsubsection}{\numberline {9.35.2.4}getOptionsResources()}{96}{subsubsection.9.35.2.4}%
+\contentsline {subsubsection}{\numberline {9.35.2.5}getOptionsString()}{96}{subsubsection.9.35.2.5}%
+\contentsline {subsubsection}{\numberline {9.35.2.6}toString()}{96}{subsubsection.9.35.2.6}%
+\contentsline {subsection}{\numberline {9.35.3}Documentação dos dados membro}{96}{subsection.9.35.3}%
+\contentsline {subsubsection}{\numberline {9.35.3.1}headerResource}{97}{subsubsection.9.35.3.1}%
+\contentsline {subsubsection}{\numberline {9.35.3.2}headerString}{97}{subsubsection.9.35.3.2}%
+\contentsline {subsubsection}{\numberline {9.35.3.3}optionsResource}{97}{subsubsection.9.35.3.3}%
+\contentsline {subsubsection}{\numberline {9.35.3.4}optionsSize}{97}{subsubsection.9.35.3.4}%
+\contentsline {subsubsection}{\numberline {9.35.3.5}optionsString}{97}{subsubsection.9.35.3.5}%
+\contentsline {section}{\numberline {9.36}Referência da enumeração Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}resourcesandplanets.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type}{97}{section.9.36}%
+\contentsline {subsection}{\numberline {9.36.1}Documentação dos dados membro}{97}{subsection.9.36.1}%
+\contentsline {subsubsection}{\numberline {9.36.1.1}Black}{98}{subsubsection.9.36.1.1}%
+\contentsline {subsubsection}{\numberline {9.36.1.2}Blue}{98}{subsubsection.9.36.1.2}%
+\contentsline {subsubsection}{\numberline {9.36.1.3}Green}{98}{subsubsection.9.36.1.3}%
+\contentsline {subsubsection}{\numberline {9.36.1.4}Red}{98}{subsubsection.9.36.1.4}%
+\contentsline {section}{\numberline {9.37}Referência da enumeração Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}resourcesandplanets.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Resource}{98}{section.9.37}%
+\contentsline {subsection}{\numberline {9.37.1}Descrição detalhada}{99}{subsection.9.37.1}%
+\contentsline {subsection}{\numberline {9.37.2}Documentação dos dados membro}{99}{subsection.9.37.2}%
+\contentsline {subsubsection}{\numberline {9.37.2.1}Ammo}{99}{subsubsection.9.37.2.1}%
+\contentsline {subsubsection}{\numberline {9.37.2.2}Artifact}{99}{subsubsection.9.37.2.2}%
+\contentsline {subsubsection}{\numberline {9.37.2.3}Black}{99}{subsubsection.9.37.2.3}%
+\contentsline {subsubsection}{\numberline {9.37.2.4}Blue}{99}{subsubsection.9.37.2.4}%
+\contentsline {subsubsection}{\numberline {9.37.2.5}Fuel}{99}{subsubsection.9.37.2.5}%
+\contentsline {subsubsection}{\numberline {9.37.2.6}Green}{100}{subsubsection.9.37.2.6}%
+\contentsline {subsubsection}{\numberline {9.37.2.7}Red}{100}{subsubsection.9.37.2.7}%
+\contentsline {subsubsection}{\numberline {9.37.2.8}Shield}{100}{subsubsection.9.37.2.8}%
+\contentsline {section}{\numberline {9.38}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}resourcesandplanets.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Terreno.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Resource\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}In\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet}{100}{section.9.38}%
+\contentsline {subsection}{\numberline {9.38.1}Documentação dos Construtores \& Destrutor}{101}{subsection.9.38.1}%
+\contentsline {subsubsection}{\numberline {9.38.1.1}ResourceInPlanet()}{101}{subsubsection.9.38.1.1}%
+\contentsline {subsection}{\numberline {9.38.2}Documentação dos métodos}{101}{subsection.9.38.2}%
+\contentsline {subsubsection}{\numberline {9.38.2.1}getResourceType()}{101}{subsubsection.9.38.2.1}%
+\contentsline {subsection}{\numberline {9.38.3}Documentação dos dados membro}{101}{subsection.9.38.3}%
+\contentsline {subsubsection}{\numberline {9.38.3.1}apanhadoPeloDrone}{101}{subsubsection.9.38.3.1}%
+\contentsline {subsubsection}{\numberline {9.38.3.2}resourceType}{101}{subsubsection.9.38.3.2}%
+\contentsline {section}{\numberline {9.39}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}resourcesandplanets.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Resource\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Types}{101}{section.9.39}%
+\contentsline {subsection}{\numberline {9.39.1}Documentação dos Construtores \& Destrutor}{102}{subsection.9.39.1}%
+\contentsline {subsubsection}{\numberline {9.39.1.1}ResourceTypes()}{102}{subsubsection.9.39.1.1}%
+\contentsline {subsection}{\numberline {9.39.2}Documentação dos métodos}{102}{subsection.9.39.2}%
+\contentsline {subsubsection}{\numberline {9.39.2.1}fillVector()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{102}{subsubsection.9.39.2.1}%
+\contentsline {subsubsection}{\numberline {9.39.2.2}fillVector()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{103}{subsubsection.9.39.2.2}%
+\contentsline {subsubsection}{\numberline {9.39.2.3}getNormalResources()}{103}{subsubsection.9.39.2.3}%
+\contentsline {subsubsection}{\numberline {9.39.2.4}getPlanetBlack()}{103}{subsubsection.9.39.2.4}%
+\contentsline {subsubsection}{\numberline {9.39.2.5}getPlanetBlue()}{103}{subsubsection.9.39.2.5}%
+\contentsline {subsubsection}{\numberline {9.39.2.6}getPlanetGreen()}{103}{subsubsection.9.39.2.6}%
+\contentsline {subsubsection}{\numberline {9.39.2.7}getPlanetRed()}{103}{subsubsection.9.39.2.7}%
+\contentsline {subsubsection}{\numberline {9.39.2.8}getPlanetTypes()}{103}{subsubsection.9.39.2.8}%
+\contentsline {subsubsection}{\numberline {9.39.2.9}randomPlanet()}{104}{subsubsection.9.39.2.9}%
+\contentsline {subsection}{\numberline {9.39.3}Documentação dos dados membro}{104}{subsection.9.39.3}%
+\contentsline {subsubsection}{\numberline {9.39.3.1}planetBlack}{104}{subsubsection.9.39.3.1}%
+\contentsline {subsubsection}{\numberline {9.39.3.2}planetBlue}{104}{subsubsection.9.39.3.2}%
+\contentsline {subsubsection}{\numberline {9.39.3.3}planetGreen}{104}{subsubsection.9.39.3.3}%
+\contentsline {subsubsection}{\numberline {9.39.3.4}planetRed}{104}{subsubsection.9.39.3.4}%
+\contentsline {subsubsection}{\numberline {9.39.3.5}planets}{104}{subsubsection.9.39.3.5}%
+\contentsline {subsubsection}{\numberline {9.39.3.6}recursos}{105}{subsubsection.9.39.3.6}%
+\contentsline {section}{\numberline {9.40}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Root}{105}{section.9.40}%
+\contentsline {subsection}{\numberline {9.40.1}Documentação dos Construtores \& Destrutor}{105}{subsection.9.40.1}%
+\contentsline {subsubsection}{\numberline {9.40.1.1}Root()}{106}{subsubsection.9.40.1.1}%
+\contentsline {subsection}{\numberline {9.40.2}Documentação dos métodos}{106}{subsection.9.40.2}%
+\contentsline {subsubsection}{\numberline {9.40.2.1}organizaComponentes()}{106}{subsubsection.9.40.2.1}%
+\contentsline {subsubsection}{\numberline {9.40.2.2}updateSize()}{106}{subsubsection.9.40.2.2}%
+\contentsline {subsection}{\numberline {9.40.3}Documentação dos dados membro}{106}{subsection.9.40.3}%
+\contentsline {subsubsection}{\numberline {9.40.3.1}center}{106}{subsubsection.9.40.3.1}%
+\contentsline {subsubsection}{\numberline {9.40.3.2}gLog}{106}{subsubsection.9.40.3.2}%
+\contentsline {subsubsection}{\numberline {9.40.3.3}gRecursos}{106}{subsubsection.9.40.3.3}%
+\contentsline {subsubsection}{\numberline {9.40.3.4}gTop}{107}{subsubsection.9.40.3.4}%
+\contentsline {subsubsection}{\numberline {9.40.3.5}modelo}{107}{subsubsection.9.40.3.5}%
+\contentsline {section}{\numberline {9.41}Referência da enumeração Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}gui.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Root.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Root\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Background}{107}{section.9.41}%
+\contentsline {subsection}{\numberline {9.41.1}Documentação dos dados membro}{107}{subsection.9.41.1}%
+\contentsline {subsubsection}{\numberline {9.41.1.1}Space}{107}{subsubsection.9.41.1.1}%
+\contentsline {subsubsection}{\numberline {9.41.1.2}Store}{107}{subsubsection.9.41.1.2}%
+\contentsline {subsubsection}{\numberline {9.41.1.3}Terreno}{107}{subsubsection.9.41.1.3}%
+\contentsline {section}{\numberline {9.42}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ship}{108}{section.9.42}%
+\contentsline {subsection}{\numberline {9.42.1}Descrição detalhada}{109}{subsection.9.42.1}%
+\contentsline {subsection}{\numberline {9.42.2}Documentação dos Construtores \& Destrutor}{109}{subsection.9.42.2}%
+\contentsline {subsubsection}{\numberline {9.42.2.1}Ship()}{109}{subsubsection.9.42.2.1}%
+\contentsline {subsection}{\numberline {9.42.3}Documentação dos métodos}{109}{subsection.9.42.3}%
+\contentsline {subsubsection}{\numberline {9.42.3.1}addEvent()}{109}{subsubsection.9.42.3.1}%
+\contentsline {subsubsection}{\numberline {9.42.3.2}aplicaEvento()}{110}{subsubsection.9.42.3.2}%
+\contentsline {subsubsection}{\numberline {9.42.3.3}convertResources()}{110}{subsubsection.9.42.3.3}%
+\contentsline {subsubsection}{\numberline {9.42.3.4}getAllUnreadEvents()}{110}{subsubsection.9.42.3.4}%
+\contentsline {subsubsection}{\numberline {9.42.3.5}getEvents()}{110}{subsubsection.9.42.3.5}%
+\contentsline {subsubsection}{\numberline {9.42.3.6}getIEstado()}{110}{subsubsection.9.42.3.6}%
+\contentsline {subsubsection}{\numberline {9.42.3.7}getITerreno()}{110}{subsubsection.9.42.3.7}%
+\contentsline {subsubsection}{\numberline {9.42.3.8}getNLastEvents()}{111}{subsubsection.9.42.3.8}%
+\contentsline {subsubsection}{\numberline {9.42.3.9}getPlanet()}{111}{subsubsection.9.42.3.9}%
+\contentsline {subsubsection}{\numberline {9.42.3.10}getShipDados()}{111}{subsubsection.9.42.3.10}%
+\contentsline {subsubsection}{\numberline {9.42.3.11}getTerreno()}{111}{subsubsection.9.42.3.11}%
+\contentsline {subsubsection}{\numberline {9.42.3.12}landOnSpaceStation()}{111}{subsubsection.9.42.3.12}%
+\contentsline {subsubsection}{\numberline {9.42.3.13}landOnThePlanet()}{111}{subsubsection.9.42.3.13}%
+\contentsline {subsubsection}{\numberline {9.42.3.14}move()}{111}{subsubsection.9.42.3.14}%
+\contentsline {subsubsection}{\numberline {9.42.3.15}novoJogo()}{112}{subsubsection.9.42.3.15}%
+\contentsline {subsubsection}{\numberline {9.42.3.16}proximoPlaneta()}{112}{subsubsection.9.42.3.16}%
+\contentsline {subsubsection}{\numberline {9.42.3.17}returnToShip()}{112}{subsubsection.9.42.3.17}%
+\contentsline {subsubsection}{\numberline {9.42.3.18}setEstado()}{112}{subsubsection.9.42.3.18}%
+\contentsline {subsubsection}{\numberline {9.42.3.19}setOpcao()}{112}{subsubsection.9.42.3.19}%
+\contentsline {subsection}{\numberline {9.42.4}Documentação dos dados membro}{112}{subsection.9.42.4}%
+\contentsline {subsubsection}{\numberline {9.42.4.1}estado}{112}{subsubsection.9.42.4.1}%
+\contentsline {subsubsection}{\numberline {9.42.4.2}shipDados}{113}{subsubsection.9.42.4.2}%
+\contentsline {section}{\numberline {9.43}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ship.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ship\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Dados}{113}{section.9.43}%
+\contentsline {subsection}{\numberline {9.43.1}Descrição detalhada}{115}{subsection.9.43.1}%
+\contentsline {subsection}{\numberline {9.43.2}Documentação dos Construtores \& Destrutor}{115}{subsection.9.43.2}%
+\contentsline {subsubsection}{\numberline {9.43.2.1}ShipDados()}{115}{subsubsection.9.43.2.1}%
+\contentsline {subsection}{\numberline {9.43.3}Documentação dos métodos}{115}{subsection.9.43.3}%
+\contentsline {subsubsection}{\numberline {9.43.3.1}comprarDrone()}{115}{subsubsection.9.43.3.1}%
+\contentsline {subsubsection}{\numberline {9.43.3.2}deleteTerreno()}{116}{subsubsection.9.43.3.2}%
+\contentsline {subsubsection}{\numberline {9.43.3.3}deVoltaAShipComRecurso()}{116}{subsubsection.9.43.3.3}%
+\contentsline {subsubsection}{\numberline {9.43.3.4}getRandom()}{116}{subsubsection.9.43.3.4}%
+\contentsline {subsubsection}{\numberline {9.43.3.5}getTerreno()}{116}{subsubsection.9.43.3.5}%
+\contentsline {subsubsection}{\numberline {9.43.3.6}hasDrone()}{116}{subsubsection.9.43.3.6}%
+\contentsline {subsubsection}{\numberline {9.43.3.7}morteDoDrone()}{116}{subsubsection.9.43.3.7}%
+\contentsline {subsection}{\numberline {9.43.4}Documentação dos dados membro}{116}{subsection.9.43.4}%
+\contentsline {subsubsection}{\numberline {9.43.4.1}artfactoFoiMinado}{116}{subsubsection.9.43.4.1}%
+\contentsline {subsubsection}{\numberline {9.43.4.2}cargo\_multiplyer}{117}{subsubsection.9.43.4.2}%
+\contentsline {subsubsection}{\numberline {9.43.4.3}cargo\_multiplyer\_max}{117}{subsubsection.9.43.4.3}%
+\contentsline {subsubsection}{\numberline {9.43.4.4}cargo\_upgraded\_here}{117}{subsubsection.9.43.4.4}%
+\contentsline {subsubsection}{\numberline {9.43.4.5}drone}{117}{subsubsection.9.43.4.5}%
+\contentsline {subsubsection}{\numberline {9.43.4.6}fuel\_max}{117}{subsubsection.9.43.4.6}%
+\contentsline {subsubsection}{\numberline {9.43.4.7}planetType}{117}{subsubsection.9.43.4.7}%
+\contentsline {subsubsection}{\numberline {9.43.4.8}shield\_max}{117}{subsubsection.9.43.4.8}%
+\contentsline {subsubsection}{\numberline {9.43.4.9}shipType}{117}{subsubsection.9.43.4.9}%
+\contentsline {subsubsection}{\numberline {9.43.4.10}spaceStation}{118}{subsubsection.9.43.4.10}%
+\contentsline {subsubsection}{\numberline {9.43.4.11}terreno}{118}{subsubsection.9.43.4.11}%
+\contentsline {subsubsection}{\numberline {9.43.4.12}vezesQueSePodeVizitarOPlaneta}{118}{subsubsection.9.43.4.12}%
+\contentsline {subsubsection}{\numberline {9.43.4.13}weapon\_max}{118}{subsubsection.9.43.4.13}%
+\contentsline {section}{\numberline {9.44}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ship\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Observavel}{118}{section.9.44}%
+\contentsline {subsection}{\numberline {9.44.1}Documentação dos Construtores \& Destrutor}{119}{subsection.9.44.1}%
+\contentsline {subsubsection}{\numberline {9.44.1.1}ShipObservavel()}{120}{subsubsection.9.44.1.1}%
+\contentsline {subsection}{\numberline {9.44.2}Documentação dos métodos}{120}{subsection.9.44.2}%
+\contentsline {subsubsection}{\numberline {9.44.2.1}addEvent()}{120}{subsubsection.9.44.2.1}%
+\contentsline {subsubsection}{\numberline {9.44.2.2}addPropertyChangeListener()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{120}{subsubsection.9.44.2.2}%
+\contentsline {subsubsection}{\numberline {9.44.2.3}addPropertyChangeListener()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{120}{subsubsection.9.44.2.3}%
+\contentsline {subsubsection}{\numberline {9.44.2.4}ClearEvents()}{120}{subsubsection.9.44.2.4}%
+\contentsline {subsubsection}{\numberline {9.44.2.5}convertResources()}{120}{subsubsection.9.44.2.5}%
+\contentsline {subsubsection}{\numberline {9.44.2.6}droneHasResource()}{121}{subsubsection.9.44.2.6}%
+\contentsline {subsubsection}{\numberline {9.44.2.7}getAllUnreadEvents()}{121}{subsubsection.9.44.2.7}%
+\contentsline {subsubsection}{\numberline {9.44.2.8}getCargoHold()}{121}{subsubsection.9.44.2.8}%
+\contentsline {subsubsection}{\numberline {9.44.2.9}getEstado()}{121}{subsubsection.9.44.2.9}%
+\contentsline {subsubsection}{\numberline {9.44.2.10}getEstadoClass()}{121}{subsubsection.9.44.2.10}%
+\contentsline {subsubsection}{\numberline {9.44.2.11}getEstadoJogo()}{121}{subsubsection.9.44.2.11}%
+\contentsline {subsubsection}{\numberline {9.44.2.12}getEvents()}{121}{subsubsection.9.44.2.12}%
+\contentsline {subsubsection}{\numberline {9.44.2.13}getITerreno()}{121}{subsubsection.9.44.2.13}%
+\contentsline {subsubsection}{\numberline {9.44.2.14}getMaxOfResourceY()}{122}{subsubsection.9.44.2.14}%
+\contentsline {subsubsection}{\numberline {9.44.2.15}getNdeYRecursos()}{122}{subsubsection.9.44.2.15}%
+\contentsline {subsubsection}{\numberline {9.44.2.16}getNLastEvents()}{122}{subsubsection.9.44.2.16}%
+\contentsline {subsubsection}{\numberline {9.44.2.17}getOfficers()}{122}{subsubsection.9.44.2.17}%
+\contentsline {subsubsection}{\numberline {9.44.2.18}getOptions()}{122}{subsubsection.9.44.2.18}%
+\contentsline {subsubsection}{\numberline {9.44.2.19}getPlanetType()}{122}{subsubsection.9.44.2.19}%
+\contentsline {subsubsection}{\numberline {9.44.2.20}getResourceTypes()}{122}{subsubsection.9.44.2.20}%
+\contentsline {subsubsection}{\numberline {9.44.2.21}getShipType()}{123}{subsubsection.9.44.2.21}%
+\contentsline {subsubsection}{\numberline {9.44.2.22}getUnreadEvents()}{123}{subsubsection.9.44.2.22}%
+\contentsline {subsubsection}{\numberline {9.44.2.23}getVezesQueSePodeVizitarOPlaneta()}{123}{subsubsection.9.44.2.23}%
+\contentsline {subsubsection}{\numberline {9.44.2.24}hasDrone()}{123}{subsubsection.9.44.2.24}%
+\contentsline {subsubsection}{\numberline {9.44.2.25}hasOfficer()}{123}{subsubsection.9.44.2.25}%
+\contentsline {subsubsection}{\numberline {9.44.2.26}hasSpaceStation()}{123}{subsubsection.9.44.2.26}%
+\contentsline {subsubsection}{\numberline {9.44.2.27}landOnSpaceStation()}{123}{subsubsection.9.44.2.27}%
+\contentsline {subsubsection}{\numberline {9.44.2.28}landOnThePlanet()}{124}{subsubsection.9.44.2.28}%
+\contentsline {subsubsection}{\numberline {9.44.2.29}load()}{124}{subsubsection.9.44.2.29}%
+\contentsline {subsubsection}{\numberline {9.44.2.30}move()}{124}{subsubsection.9.44.2.30}%
+\contentsline {subsubsection}{\numberline {9.44.2.31}novoJogo()}{124}{subsubsection.9.44.2.31}%
+\contentsline {subsubsection}{\numberline {9.44.2.32}proximoPlaneta()}{124}{subsubsection.9.44.2.32}%
+\contentsline {subsubsection}{\numberline {9.44.2.33}returnToShip()}{124}{subsubsection.9.44.2.33}%
+\contentsline {subsubsection}{\numberline {9.44.2.34}save()}{124}{subsubsection.9.44.2.34}%
+\contentsline {subsubsection}{\numberline {9.44.2.35}setDebugEvents()}{125}{subsubsection.9.44.2.35}%
+\contentsline {subsubsection}{\numberline {9.44.2.36}setOpcao()}{125}{subsubsection.9.44.2.36}%
+\contentsline {subsection}{\numberline {9.44.3}Documentação dos dados membro}{125}{subsection.9.44.3}%
+\contentsline {subsubsection}{\numberline {9.44.3.1}propertyChangeSupport}{125}{subsubsection.9.44.3.1}%
+\contentsline {subsubsection}{\numberline {9.44.3.2}serialVersionUID}{125}{subsubsection.9.44.3.2}%
+\contentsline {subsubsection}{\numberline {9.44.3.3}ship}{125}{subsubsection.9.44.3.3}%
+\contentsline {section}{\numberline {9.45}Referência da enumeração Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ship.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ship\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type}{125}{section.9.45}%
+\contentsline {subsection}{\numberline {9.45.1}Documentação dos dados membro}{126}{subsection.9.45.1}%
+\contentsline {subsubsection}{\numberline {9.45.1.1}military}{126}{subsubsection.9.45.1.1}%
+\contentsline {subsubsection}{\numberline {9.45.1.2}mining}{126}{subsubsection.9.45.1.2}%
+\contentsline {subsubsection}{\numberline {9.45.1.3}placeholder}{126}{subsubsection.9.45.1.3}%
+\contentsline {section}{\numberline {9.46}Referência à classe Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dados.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}resourcesandplanets.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Terreno}{126}{section.9.46}%
+\contentsline {subsection}{\numberline {9.46.1}Documentação dos Construtores \& Destrutor}{127}{subsection.9.46.1}%
+\contentsline {subsubsection}{\numberline {9.46.1.1}Terreno()}{128}{subsubsection.9.46.1.1}%
+\contentsline {subsection}{\numberline {9.46.2}Documentação dos métodos}{128}{subsection.9.46.2}%
+\contentsline {subsubsection}{\numberline {9.46.2.1}ATTACK()}{128}{subsubsection.9.46.2.1}%
+\contentsline {subsubsection}{\numberline {9.46.2.2}criaNovoAlien()}{128}{subsubsection.9.46.2.2}%
+\contentsline {subsubsection}{\numberline {9.46.2.3}droneHasResource()}{128}{subsubsection.9.46.2.3}%
+\contentsline {subsubsection}{\numberline {9.46.2.4}getAlien()}{128}{subsubsection.9.46.2.4}%
+\contentsline {subsubsection}{\numberline {9.46.2.5}getCounter()}{128}{subsubsection.9.46.2.5}%
+\contentsline {subsubsection}{\numberline {9.46.2.6}getDrone()}{128}{subsubsection.9.46.2.6}%
+\contentsline {subsubsection}{\numberline {9.46.2.7}getLocalInicialX()}{129}{subsubsection.9.46.2.7}%
+\contentsline {subsubsection}{\numberline {9.46.2.8}getLocalInicialY()}{129}{subsubsection.9.46.2.8}%
+\contentsline {subsubsection}{\numberline {9.46.2.9}getOppositeDirection()}{129}{subsubsection.9.46.2.9}%
+\contentsline {subsubsection}{\numberline {9.46.2.10}getResource()}{129}{subsubsection.9.46.2.10}%
+\contentsline {subsubsection}{\numberline {9.46.2.11}inTheSameSpot()}{129}{subsubsection.9.46.2.11}%
+\contentsline {subsubsection}{\numberline {9.46.2.12}moveAlien()}{129}{subsubsection.9.46.2.12}%
+\contentsline {subsubsection}{\numberline {9.46.2.13}moveDrone()}{129}{subsubsection.9.46.2.13}%
+\contentsline {subsubsection}{\numberline {9.46.2.14}moveObject()}{130}{subsubsection.9.46.2.14}%
+\contentsline {subsubsection}{\numberline {9.46.2.15}nearBy()}{130}{subsubsection.9.46.2.15}%
+\contentsline {subsubsection}{\numberline {9.46.2.16}randomDirection()}{130}{subsubsection.9.46.2.16}%
+\contentsline {subsection}{\numberline {9.46.3}Documentação dos dados membro}{130}{subsection.9.46.3}%
+\contentsline {subsubsection}{\numberline {9.46.3.1}alien}{130}{subsubsection.9.46.3.1}%
+\contentsline {subsubsection}{\numberline {9.46.3.2}counter}{130}{subsubsection.9.46.3.2}%
+\contentsline {subsubsection}{\numberline {9.46.3.3}drone}{130}{subsubsection.9.46.3.3}%
+\contentsline {subsubsection}{\numberline {9.46.3.4}localInicialX}{130}{subsubsection.9.46.3.4}%
+\contentsline {subsubsection}{\numberline {9.46.3.5}localInicialY}{131}{subsubsection.9.46.3.5}%
+\contentsline {subsubsection}{\numberline {9.46.3.6}resource}{131}{subsubsection.9.46.3.6}%
+\contentsline {section}{\numberline {9.47}Referência da enumeração Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}logica.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ship.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}I\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Terreno.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}types}{131}{section.9.47}%
+\contentsline {subsection}{\numberline {9.47.1}Documentação dos dados membro}{131}{subsection.9.47.1}%
+\contentsline {subsubsection}{\numberline {9.47.1.1}Alien}{131}{subsubsection.9.47.1.1}%
+\contentsline {subsubsection}{\numberline {9.47.1.2}Drone}{131}{subsubsection.9.47.1.2}%
+\contentsline {subsubsection}{\numberline {9.47.1.3}InicialSpot}{131}{subsubsection.9.47.1.3}%
+\contentsline {subsubsection}{\numberline {9.47.1.4}Resource}{131}{subsubsection.9.47.1.4}%
+\contentsline {chapter}{\numberline {10}Documentação do ficheiro}{133}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/dados/aux/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Direcoes.java}{133}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/dados/aux/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Officer.java}{133}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/dados/aux/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Options.java}{133}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/dados/events/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Event.java}{134}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/dados/events/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Event\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type.java}{134}{section.10.5}%
+\contentsline {section}{\numberline {10.6}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/dados/resourcesandplanets/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type.java}{134}{section.10.6}%
+\contentsline {section}{\numberline {10.7}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/dados/resourcesandplanets/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Resource.java}{134}{section.10.7}%
+\contentsline {section}{\numberline {10.8}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/dados/resourcesandplanets/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Resource\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Types.java}{135}{section.10.8}%
+\contentsline {section}{\numberline {10.9}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/dados/resourcesandplanets/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Terreno.java}{135}{section.10.9}%
+\contentsline {section}{\numberline {10.10}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/dados/ship/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ship\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Dados.java}{135}{section.10.10}%
+\contentsline {section}{\numberline {10.11}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/dados/ship/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ship\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type.java}{136}{section.10.11}%
+\contentsline {section}{\numberline {10.12}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/estados/birthanddeath/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Game\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Over.java}{136}{section.10.12}%
+\contentsline {section}{\numberline {10.13}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/estados/birthanddeath/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Novo\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ship.java}{136}{section.10.13}%
+\contentsline {section}{\numberline {10.14}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/estados/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Estado\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Adapter.java}{136}{section.10.14}%
+\contentsline {section}{\numberline {10.15}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/estados/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Estado\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Jogo.java}{137}{section.10.15}%
+\contentsline {section}{\numberline {10.16}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/estados/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}I\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Estado.java}{137}{section.10.16}%
+\contentsline {section}{\numberline {10.17}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/estados/noespaco/menusdospacestation/conversion/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Conversion\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}P1.java}{137}{section.10.17}%
+\contentsline {section}{\numberline {10.18}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/estados/noespaco/menusdospacestation/conversion/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Conversion\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}P2.java}{138}{section.10.18}%
+\contentsline {section}{\numberline {10.19}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/estados/noespaco/menusdospacestation/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}On\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Space\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Station.java}{138}{section.10.19}%
+\contentsline {section}{\numberline {10.20}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/estados/noespaco/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}No\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Espaco.java}{138}{section.10.20}%
+\contentsline {section}{\numberline {10.21}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/estados/noterreno/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}No\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Terreno.java}{138}{section.10.21}%
+\contentsline {section}{\numberline {10.22}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ship.java}{139}{section.10.22}%
+\contentsline {section}{\numberline {10.23}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/logica/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ship\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Observavel.java}{139}{section.10.23}%
+\contentsline {section}{\numberline {10.24}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Main.java}{139}{section.10.24}%
+\contentsline {section}{\numberline {10.25}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/estados/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Escolha.java}{139}{section.10.25}%
+\contentsline {section}{\numberline {10.26}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/estados/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Game\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Over.java}{140}{section.10.26}%
+\contentsline {section}{\numberline {10.27}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/estados/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}No\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Espaco.java}{140}{section.10.27}%
+\contentsline {section}{\numberline {10.28}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/estados/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Novo\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ship.java}{140}{section.10.28}%
+\contentsline {section}{\numberline {10.29}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/estados/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Terreno.java}{140}{section.10.29}%
+\contentsline {section}{\numberline {10.30}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Gui.java}{141}{section.10.30}%
+\contentsline {section}{\numberline {10.31}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Helper.java}{141}{section.10.31}%
+\contentsline {section}{\numberline {10.32}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/info/extra\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Espaco.java}{141}{section.10.32}%
+\contentsline {section}{\numberline {10.33}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/info/extra\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planeta.java}{141}{section.10.33}%
+\contentsline {section}{\numberline {10.34}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/info/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Log.java}{142}{section.10.34}%
+\contentsline {section}{\numberline {10.35}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/info/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Recursos.java}{142}{section.10.35}%
+\contentsline {section}{\numberline {10.36}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/info/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Resumo.java}{142}{section.10.36}%
+\contentsline {section}{\numberline {10.37}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/info/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Top.java}{142}{section.10.37}%
+\contentsline {section}{\numberline {10.38}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/menu/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}G\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Menu.java}{143}{section.10.38}%
+\contentsline {section}{\numberline {10.39}Referência ao ficheiro src/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Planet\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bound/ui/gui/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Root.java}{143}{section.10.39}%
+\contentsline {chapter}{\'Indice}{145}{section*.282}%
